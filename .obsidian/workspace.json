@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "dad65b3028ce8fd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c402041b450818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ae4868410e291e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Программирование/Git/Практика Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практика Git"
+            }
+          },
+          {
+            "id": "a724cafa5c82d05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Программирование/Git/02 Введение в Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Введение в Git"
+            }
+          },
+          {
+            "id": "cda566aeb4786dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Программирование/Git/05 Git ignore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Git ignore"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "981ac2f94fafceb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f778d525f86b779e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c900ac5ff9c19205",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d34781bcf16267d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2db0b73a2c8d0cac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "e16319efa265a8cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "16ecc3bc9f5ac334",
+    "type": "split",
+    "children": [
+      {
+        "id": "25f7174b743407c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ab57efba91960b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 Программирование/01 .NET/05 Развертывание приложений .NET/02 Решения (Solutions).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 02 Решения (Solutions)"
+            }
+          },
+          {
+            "id": "15e6e3ea345948a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Идеи проектов/Целевые проекты/YourCoreFunctionality/04 Подробный функционал модулей.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 04 Подробный функционал модулей"
+            }
+          },
+          {
+            "id": "bbf58c0dd549a4dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3e7e31d052c20422",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Программирование/Merge notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Merge notes"
+            }
+          },
+          {
+            "id": "30e4f1383c4559bd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "cda566aeb4786dc3",
+  "lastOpenFiles": [
+    "02 Программирование/Git/02 Введение в Git.md",
+    "02 Программирование/Git/05 Git ignore.md",
+    "02 Программирование/Git/Практика Git.md",
+    "02 Программирование/Git/06 Псевдонимы Git.md",
+    "02 Программирование/Git/04 Синхронизация с репозиторием.md",
+    "Текстовый документ.txt",
+    "07 Математика/Теория вероятностей/Тетрадь - Теорвер/4TP_1.jpg",
+    "02 Программирование/Git/01 Введение в СКМ.md",
+    "06 Информационная безопасность/Социальная инженерия/Схемы взлома через фишинговые панели.md",
+    "02 Программирование/Форматы представления данных/Rich text format (RTF).md",
+    "02 Программирование/Форматы представления данных/YAML.md",
+    "02 Программирование/Форматы представления данных/Base64.md",
+    "02 Программирование/Форматы представления данных/CSV.md",
+    "02 Программирование/Форматы представления данных/HTML.md",
+    "02 Программирование/Форматы представления данных/JSON.md",
+    "02 Программирование/Форматы представления данных/SVG.md",
+    "02 Программирование/Форматы представления данных/XML.md",
+    "02 Программирование/Форматы представления данных",
+    "06 Информационная безопасность/VPN.md",
+    "07 Администрирование/Операционные системы.md",
+    "07 Администрирование/Виртуальные машины.md",
+    "07 Администрирование/04 Переменные среды PATH.md",
+    "07 Администрирование/01 Введение в системное администрирование.md",
+    "06 Информационная безопасность/Социальная инженерия/Схема взлома сбербанка.md",
+    "06 Информационная безопасность/Социальная инженерия/Мошенничество/Навязывание услуг при оформлении рассрочки.md",
+    "06 Информационная безопасность/Из ролика (Что можно купить за криптовалюту).md",
+    "06 Информационная безопасность/Как преступники используют личную информацию человека.md",
+    "06 Информационная безопасность/Криптография.md",
+    "06 Информационная безопасность/Радужные таблицы.md",
+    "06 Информационная безопасность/Техническая безопасность",
+    "06 Информационная безопасность/Социальная инженерия",
+    "07 Математика/Теория автоматов. Письменные лекции.pdf",
+    "07 Математика/Теория автоматов. Коллоквиум.pdf",
+    "07 Математика/Плоские кривые А. А. Савелов.pdf",
+    "02 Программирование/04 API и протоколы связи/Сетевые протоколы",
+    "79849100",
+    "2F449100",
+    "01 Идеи проектов/Целевые проекты/Your Environment/Модули Core Functionality.svg",
+    "Files/Presentation_app_domain.png",
+    "Files/1С Интерфейс клиентского приложения.png",
+    "Files/1С Архитектура платформы.png",
+    "Files/Аскон Схема продуктов.png",
+    "Files/Свойства_конфигурация_01.png",
+    "Files/Py_Shaders.png",
+    "Files/Regex_01.png",
+    "Files/Object_relations.png",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Без названия.canvas"
+  ]
+}

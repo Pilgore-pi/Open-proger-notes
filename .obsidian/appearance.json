@@ -1,0 +1,11 @@
+{
+  "accentColor": "#00e1ff",
+  "baseFontSize": 20,
+  "textFontFamily": "Rubik,Nunito,Jost,Nunito SemiBold",
+  "monospaceFontFamily": "JetBrains Mono,Fira Code",
+  "translucency": false,
+  "baseFontSizeAction": true,
+  "cssTheme": "Obsidianite_blue",
+  "interfaceFontFamily": "Rubik,Bahnschrift,Inter",
+  "theme": "obsidian"
+}

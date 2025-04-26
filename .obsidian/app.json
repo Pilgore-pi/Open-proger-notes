@@ -1,0 +1,21 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Files",
+  "readableLineLength": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "tabSize": 4,
+  "defaultViewMode": "preview",
+  "spellcheck": false,
+  "useTab": false,
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

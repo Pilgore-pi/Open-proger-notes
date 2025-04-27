@@ -52,8 +52,8 @@ git init
 
 ```gitignore
 *.mp4
-02 Программирование\01 .NET\C# 7.pdf
-02 Программирование\01 .NET\Конспекты в тетради
+02 Программирование/01 .NET/C# 7.pdf
+02 Программирование/01 .NET/Конспекты в тетради/
 ```
 
 - Добавляем нужные файлы в новосозданный репозиторий (в текущем примере добавляются все файлы). Нужно учитывать, что есть ограничение по объему загружаемых файлов (один файл не должен быть больше 100 МБ)
@@ -62,14 +62,52 @@ git init
 git add --all
 ```
 
-- Делаем `commit`
+- Делаем `commit` (фиксируем изменения)
 
 ```git
 git commit -m "первый коммит"
 ```
 
+На практике могут возникать ошибки. К примеру, при попытке выполнить фиксацию, я забыл указать сообщение, что привело к тому, что в консоли отобразился большой текст, поясняющий, что я не прав, что не указал сообщение. Проблема заключается в том, что теперь я не могу выполнять никакие команды. Это происходит из-за того, что Git Bash перешел в специальный режим вывода, из которого можно выйти, если ввести:
+
+```less
+:q!
+```
+
 ### Связывание локального и удаленного репозиториев
 
+Добавим ссылку на облачный репозиторий `ProgerNotes`
 
+```git
+git remote add ProgerNotes https://github.com/Pilgore-pi/ProgerNotes
+```
+
+Отправим изменения на этот репозиторий GitHub в главную ветку `master`:
+
+```git
+git push -u ProgerNotes master
+```
+
+Результат выполнения команды:
+
+```git
+$ git push -u ProgerNotes master
+Enumerating objects: 1646, done.
+Counting objects: 100% (1646/1646), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (1603/1603), done.
+Writing objects: 100% (1646/1646), 515.81 MiB | 5.60 MiB/s, done.
+Total 1646 (delta 44), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (44/44), done.
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/Pilgore-pi/ProgerNotes/pull/new/master
+remote:
+To https://github.com/Pilgore-pi/ProgerNotes
+ * [new branch]      master -> master
+branch 'master' set up to track 'ProgerNotes/master'.
+```
+
+Теперь на GitHub загружены все проиндексированные файлы и доступны всем, кто имеет доступ к репозиторию
 
 #Git #GitHub

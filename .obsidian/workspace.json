@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "3e7e31d052c20422",
   "lastOpenFiles": [
     "test.md",
     "02 Программирование/Git/Задача 03. Объединение двух репозиториев.md",

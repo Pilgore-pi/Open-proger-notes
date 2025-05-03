@@ -168,14 +168,23 @@
               "icon": "lucide-archive",
               "title": "Все свойства"
             }
+          },
+          {
+            "id": "93930b63a74c6a08",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a0a67db3f1222a4",
+  "active": "c900ac5ff9c19205",
   "lastOpenFiles": [
     "test.md",
     "02 Программирование/Git/Задача 03. Объединение двух репозиториев.md",

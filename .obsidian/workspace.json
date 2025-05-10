@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,12 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Программирование/02 1С - Предприятие/01 Конфигурация/10 Обработки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 10 Обработки"
             }
           },
           {
@@ -229,9 +230,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02 Программирование/02 1С - Предприятие/01 Конфигурация/10 Обработки.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для 10 Обработки"
             }
           }
         ]
@@ -251,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5493672eeebd1062",
+  "active": "48d8dcbbd4a8a2fd",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/01 Конфигурация/10 Обработки.md",
     "02 Программирование/02 1С - Предприятие/04 UI/Формы/Программное управление формами.md",

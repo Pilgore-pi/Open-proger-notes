@@ -71,4 +71,4 @@ XPath (XML Path Language) — это язык запросов, который �
 //book[contains(text(), 'XPath')]
 ```
 
-#C-Sharp #C-Sharp/XML
+#C-Sharp #C-Sharp/XML #XML

@@ -131,6 +131,6 @@ Press any key to continue...
 
 #### Редактирование XML документа
 
-Далее: [[_XPath]]
+Далее: [[XPath]]
 
 #C-Sharp #C-Sharp/XML

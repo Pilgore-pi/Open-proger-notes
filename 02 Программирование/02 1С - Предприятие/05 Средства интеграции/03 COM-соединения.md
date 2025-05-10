@@ -127,4 +127,4 @@ regsrv32 "C:Program Files\1cv8\8.3.26.1498\bin\comcntr.dll"
 Подключение.Eval("1+2");
 ```
 
-#1С #API #COM #1С/Интеграция
+#1С #API/COM #1С/Интеграция

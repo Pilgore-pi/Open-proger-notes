@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 Разное/Без названия.md",
+                "file": "11 Разное/StylusData.json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "StylusData.json"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 Разное/Без названия.md",
+                "file": "11 Разное/StylusData.json.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура StylusData.json"
             }
           },
           {
@@ -245,10 +245,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "11 Разное/Без названия.md"
+                "file": "11 Разное/StylusData.json.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Без названия"
+              "title": "Свойства файла для StylusData.json"
             }
           }
         ]
@@ -271,7 +271,7 @@
   "active": "0467704f9043c33a",
   "lastOpenFiles": [
     "11 Разное/CSS Themes for sites/CSS Templates for sites.md",
-    "11 Разное/Без названия.md",
+    "11 Разное/StylusData.json.md",
     "02 Программирование/02 1С - Предприятие/01 Конфигурация/Отчеты и макеты/01 Виды макетов.md",
     "Files/1C Shape-files.gif",
     "02 Программирование/02 1С - Предприятие/04 UI/Формы/Программное управление формами.md",

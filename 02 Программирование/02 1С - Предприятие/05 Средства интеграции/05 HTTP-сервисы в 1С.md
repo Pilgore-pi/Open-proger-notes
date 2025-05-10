@@ -137,4 +137,4 @@ http://host/base/hs/корневойURL/относительныйURL?Парам
 
 Далее: [[06 HTTP-сервисы — интерфейс OData|Интерфейс OData]]
 
-#1С #Web #API #API/HTTP
+#1С #Web #API #API/HTTP #1С/Интеграция

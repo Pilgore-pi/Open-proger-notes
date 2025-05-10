@@ -130,4 +130,4 @@ sheet.Cells(i, j).Formula = "SUM(A1:A10)";
 sheet.Cells(i, j).FormulaLocal = "Сумм(A1:A10)";
 ```
 
-#1С #API #COM #MS_Office/Excel
+#1С #API #COM #MS_Office/Excel #1С/Интеграция

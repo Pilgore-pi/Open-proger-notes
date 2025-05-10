@@ -49,8 +49,7 @@
               "title": "01 Управление проектом .NET через CLI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,12 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Программирование/02 1С - Предприятие/01 Конфигурация/Отчеты и макеты/01 Виды макетов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 01 Виды макетов"
             }
           },
           {
@@ -229,9 +229,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02 Программирование/02 1С - Предприятие/01 Конфигурация/Отчеты и макеты/01 Виды макетов.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для 01 Виды макетов"
             }
           }
         ]
@@ -251,7 +253,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cef45b7973b0e0e",
+  "active": "48d8dcbbd4a8a2fd",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/01 Конфигурация/Отчеты и макеты/01 Виды макетов.md",
     "02 Программирование/01 .NET/Nuget-пакеты.md",

@@ -70,3 +70,4 @@ http://myurl/hs/root/method/urlparam?key1=value1&key2=value2
 |-|-|
 | `image/png` | `.png` |
 
+ #1С/Интеграция

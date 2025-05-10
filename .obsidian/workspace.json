@@ -179,18 +179,40 @@
             "id": "93930b63a74c6a08",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "markdown",
+              "state": {
+                "file": "01 Идеи проектов/Целевые проекты/Comfort explorer/Анализатор треков.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анализатор треков"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
+      },
+      {
+        "id": "28f674ae8ffe23b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3944bd72d34d7c0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01 Идеи проектов/Целевые проекты/Comfort explorer/Анализатор треков.md"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла для Анализатор треков"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93930b63a74c6a08",
+  "active": "3e7e31d052c20422",
   "lastOpenFiles": [
     "01 Идеи проектов/Целевые проекты/Upper Level/Ссылки.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Архитектура сетевых моделей.md",

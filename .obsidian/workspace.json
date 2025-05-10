@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/04 Подробно - YourFiles.md",
+                "file": "01 Идеи проектов/Целевые проекты/Comfort explorer/Анализатор треков.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Подробно - YourFiles"
+              "title": "Анализатор треков"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Идеи_проектов/Component_script",
+                "query": "tag:#Идеи_проектов/Comfort_explorer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/04 Подробно - YourFiles.md",
+                "file": "01 Идеи проектов/Целевые проекты/Comfort explorer/Анализатор треков.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04 Подробно - YourFiles"
+              "title": "Структура Анализатор треков"
             }
           },
           {
@@ -187,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,16 +202,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87a5fa1128c33ea4",
+  "active": "93930b63a74c6a08",
   "lastOpenFiles": [
+    "01 Идеи проектов/Целевые проекты/Upper Level/Ссылки.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Архитектура сетевых моделей.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/05 Подробно - ComponentScript.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/04 Подробно - YourFiles.md",
     "01 Идеи проектов/Целевые проекты/02 ComponentScript ТехЗадание.md",
     "01 Идеи проектов/Целевые проекты/01 Интерактивный граф (Метапрограммирование).md",
     "01 Идеи проектов/Целевые проекты/Upper Level/03 Проект YourCoreFunctionality.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/00 Название приложения.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Архитектура сетевых моделей.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/05 Подробно - ComponentScript.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/04 Подробно - YourFiles.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Ссылки.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Пасхалки.md",
     "02 Программирование/02 1С - Предприятие/05 Средства интеграции/Шаблоны URL.md",

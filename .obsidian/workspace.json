@@ -63,8 +63,7 @@
               "title": "Географическая схема | Интерфейсные механизмы - платформа 1С:Предприятие"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Программирование/02 1С - Предприятие/01 Конфигурация/Отчеты и макеты/01 Виды макетов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 01 Виды макетов"
             }
           },
           {
@@ -243,9 +243,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02 Программирование/02 1С - Предприятие/01 Конфигурация/Отчеты и макеты/01 Виды макетов.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для 01 Виды макетов"
             }
           }
         ]
@@ -265,7 +267,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0acde9818cf4194c",
+  "active": "48d8dcbbd4a8a2fd",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/01 Конфигурация/Отчеты и макеты/01 Виды макетов.md",
     "Files/1C Shape-files.gif",

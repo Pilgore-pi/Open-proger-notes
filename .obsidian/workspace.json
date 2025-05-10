@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/01 .NET/Вопросы .NET.md",
+                "file": "02 Программирование/01 .NET/Nuget-пакеты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы .NET"
+              "title": "Nuget-пакеты"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/01 .NET/Вопросы .NET.md",
+                "file": "02 Программирование/01 .NET/Nuget-пакеты.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Вопросы .NET"
+              "title": "Структура Nuget-пакеты"
             }
           },
           {
@@ -216,10 +216,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/01 .NET/Вопросы .NET.md"
+                "file": "02 Программирование/01 .NET/Nuget-пакеты.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Вопросы .NET"
+              "title": "Свойства файла для Nuget-пакеты"
             }
           }
         ]
@@ -241,6 +241,7 @@
   },
   "active": "48d8dcbbd4a8a2fd",
   "lastOpenFiles": [
+    "02 Программирование/01 .NET/Вопросы .NET.md",
     "02 Программирование/01 .NET/XML/XPath.md",
     "02 Программирование/01 .NET/Low level & Memory/Стек и куча.md",
     "02 Программирование/01 .NET/Производительность/Stopwatch.md",
@@ -266,7 +267,6 @@
     "02 Программирование/01 .NET/05 Развертывание приложений .NET/02 Решения (Solutions).md",
     "02 Программирование/01 .NET/05 Развертывание приложений .NET/01 Управление проектом .NET через CLI.md",
     "02 Программирование/01 .NET/05 Развертывание приложений .NET/03 Шаблоны проектов .NET.md",
-    "02 Программирование/01 .NET/05 Развертывание приложений .NET/Однофайловое развертывание приложения.md",
     "Files/1C_Редактор_граф_схемы_прил.png",
     "Files/1C_Редактор_графической_схемы.png",
     "Files/1C Shape-files.gif",

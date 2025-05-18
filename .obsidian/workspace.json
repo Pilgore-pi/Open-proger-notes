@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "_MERGE_NOTES_77"
             }
-          },
-          {
-            "id": "f4875310d82dae30",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/topics/1c",
-                "title": "1c · GitHub Topics · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "1c · GitHub Topics · GitHub"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4875310d82dae30",
+  "active": "97bdfe50310deca7",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Процесс разработки/Форматирование.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Процесс разработки",

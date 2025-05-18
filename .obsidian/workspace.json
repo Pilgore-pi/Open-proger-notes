@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "00b8be424e8be81d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/cpr1c/tools_ui_1c",
+                "title": "GitHub - cpr1c/tools_ui_1c: Универсальные инструменты 1С для управляемых форм",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - cpr1c/tools_ui_1c: Универсальные инструменты 1С для управляемых форм"
+            }
+          },
+          {
             "id": "84531c8a82e9cf45",
             "type": "leaf",
             "state": {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -310,7 +324,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad64fff453170b26",
+  "active": "00b8be424e8be81d",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",

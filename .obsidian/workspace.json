@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "d0f04c8b8d863864",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/Bayselonarrend/uniloadXLS",
+                "title": "GitHub - Bayselonarrend/uniloadXLS: Универсальная загрузка XLS с приведением типов для 1С:Предприятие",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - Bayselonarrend/uniloadXLS: Универсальная загрузка XLS с приведением типов для 1С:Предприятие"
+            }
+          },
+          {
             "id": "bc078bd318fccb2c",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,7 +268,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4875310d82dae30",
+  "active": "d0f04c8b8d863864",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы/Генерация форм с помощью Markdown.md",

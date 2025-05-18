@@ -13,7 +13,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/YPermitin/YPermitin.YellowCollection/tree/main",
+                "url": "https://github.com/YPermitin/YPermitin.YellowCollection",
                 "title": "GitHub - YPermitin/YPermitin.YellowCollection: Авторская коллекция разработок на платформе 1С",
                 "mode": "webview"
               },
@@ -27,16 +27,58 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/YPermitin/YPermitin.YellowCollection",
-                "title": "GitHub - YPermitin/YPermitin.YellowCollection: Авторская коллекция разработок на платформе 1С",
+                "url": "https://github.com/YPermitin/YPermitin.YellowCollection/tree/main/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D1%8B%D0%B9%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%94%D0%BB%D1%8F1%D0%A1",
+                "title": "YPermitin.YellowCollection/КомандныйИнтерпретаторДля1С at main · YPermitin/YPermitin.YellowCollection · GitHub",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "GitHub - YPermitin/YPermitin.YellowCollection: Авторская коллекция разработок на платформе 1С"
+              "title": "YPermitin.YellowCollection/КомандныйИнтерпретаторДля1С at main · YPermitin/YPermitin.YellowCollection · GitHub"
+            }
+          },
+          {
+            "id": "97bdfe50310deca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_MERGE_NOTES_77"
+            }
+          },
+          {
+            "id": "f4875310d82dae30",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/topics/1c",
+                "title": "1c · GitHub Topics · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "1c · GitHub Topics · GitHub"
+            }
+          },
+          {
+            "id": "1b6e41df33a19b55",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/crimsongoldteam/md_design",
+                "title": "GitHub - crimsongoldteam/md_design: Создание прототипов форм 1С:Предприятие 8 используя markdown-подобный язык. С помощью ИИ",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - crimsongoldteam/md_design: Создание прототипов форм 1С:Предприятие 8 используя markdown-подобный язык. С помощью ИИ"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,10 +282,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03b73146e043fd6b",
+  "active": "1b6e41df33a19b55",
   "lastOpenFiles": [
-    "02 Программирование/02 1С - Предприятие/Каталог инструментов/CMD & PowerShell.md",
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/CMD & PowerShell.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Транслятор запросов 1С в SQL.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Сериализация объектов 1С.md",
@@ -278,18 +320,4 @@
     "01 Идеи проектов/Модули Core Functionality.drawio.crswap",
     "02 Программирование/Arduino/The plan",
     "02 Программирование/Arduino",
-    "Files/1C_Редактор_граф_схемы_прил.png",
-    "Files/1C_Редактор_графической_схемы.png",
-    "Files/1C Shape-files.gif",
-    "Files/apptempl.gif",
-    "02 Программирование/02 1С - Предприятие/05 Средства интеграции/Web-сервисы",
-    "07 Математика/Теория вероятностей/Тетрадь - Теорвер/4TP_1.jpg",
-    "Files/Presentation_app_domain.png",
-    "Files/1С Интерфейс клиентского приложения.png",
-    "Files/1С Архитектура платформы.png",
-    "Files/Аскон Схема продуктов.png",
-    "Без названия 2.canvas",
-    "Без названия 1.canvas",
-    "Без названия.canvas"
-  ]
-}
+    "Files/1C_Редактор_гр

@@ -14,7 +14,7 @@ https://infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZG
 
 https://github.com/Pr-Mex/VAEditor
 
-https://github.com/Pr-Mex/UItoolsFor1C
+[Создание авто-инстукций по работе с 1С (основано на Vanessa Automation)](https://github.com/Pr-Mex/UItoolsFor1C)
 
 Конвертер epf & erf в и обратно из XML
 https://github.com/Pr-Mex/ExternalModulesConverterFor1C

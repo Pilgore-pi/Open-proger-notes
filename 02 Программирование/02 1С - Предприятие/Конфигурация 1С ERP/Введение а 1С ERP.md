@@ -1,2 +1,2 @@
 
-> **1C:ERP** (Enterprise Resource Planning) — это система планирования ресурсами 
+> **1C:ERP** (Enterprise Resource Planning) — это система планирования ресурсов предприятия

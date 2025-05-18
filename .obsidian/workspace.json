@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "2fac115ee43e3e05",
+            "id": "1b4879c63ea123d5",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZGUtbWVyZ2UtdG9vbC1hZGFwdGVyLWNsaQ==",
-                "title": "infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZGUtbWVyZ2UtdG9vbC1hZGFwdGVyLWNsaQ==",
+                "url": "https://github.com/Pr-Mex/VAEditor",
+                "title": "GitHub - Pr-Mex/VAEditor: Visual Studio Code in 1C:Enterprise",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZGUtbWVyZ2UtdG9vbC1hZGFwdGVyLWNsaQ=="
+              "title": "GitHub - Pr-Mex/VAEditor: Visual Studio Code in 1C:Enterprise"
             }
           },
           {
@@ -254,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fac115ee43e3e05",
+  "active": "1b4879c63ea123d5",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "07 Администрирование/Windows/Буфер обмена.md",

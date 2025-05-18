@@ -5,6 +5,3 @@
 ----
 
 [LOOK](https://github.com/topics/1c)
-
-
-[ERP_STUDY](https://github.com/maximsamokhval/ERP-STUDY)

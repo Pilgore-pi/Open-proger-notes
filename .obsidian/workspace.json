@@ -36,17 +36,31 @@
             }
           },
           {
+            "id": "4e04e08713f495ca",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/EvilBeaver/OneScript",
+                "title": "GitHub - EvilBeaver/OneScript: Исполняющая среда скриптов на языке 1С",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - EvilBeaver/OneScript: Исполняющая среда скриптов на языке 1С"
+            }
+          },
+          {
             "id": "393fed76f65de011",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/Pr-Mex/ExternalModulesConverterFor1C/blob/master/Example/Compile.bat",
-                "title": "ExternalModulesConverterFor1C/Example/Compile.bat at master · Pr-Mex/ExternalModulesConverterFor1C · GitHub",
+                "url": "https://github.com/Pr-Mex/ExternalModulesConverterFor1C",
+                "title": "GitHub - Pr-Mex/ExternalModulesConverterFor1C: Конвертер внешних отчетов и обработок 1С:Предприятие в xml формат и обратно",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "ExternalModulesConverterFor1C/Example/Compile.bat at master · Pr-Mex/ExternalModulesConverterFor1C · GitHub"
+              "title": "GitHub - Pr-Mex/ExternalModulesConverterFor1C: Конвертер внешних отчетов и обработок 1С:Предприятие в xml формат и обратно"
             }
           },
           {
@@ -296,7 +310,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "393fed76f65de011",
+  "active": "4e04e08713f495ca",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",

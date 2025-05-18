@@ -19,8 +19,8 @@ https://github.com/Pr-Mex/VAEditor
 Конвертер epf & erf в и обратно из XML
 https://github.com/Pr-Mex/ExternalModulesConverterFor1C
 
+[ORM в 1С](https://github.com/nixel2007/entity)
 
-https://github.com/nixel2007/entity
 
 [ERP_STUDY](https://github.com/maximsamokhval/ERP-STUDY)
 

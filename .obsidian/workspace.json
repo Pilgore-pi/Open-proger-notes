@@ -41,12 +41,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/KotovDima1C?tab=packages&repo_name=DFI",
-                "title": "KotovDima1C (Dmitry Kotov) / Packages · GitHub",
+                "url": "https://github.com/KotovDima1C/DFI/tree/master",
+                "title": "GitHub - KotovDima1C/DFI: Динамическое Формирование Интерфейса",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "KotovDima1C (Dmitry Kotov) / Packages · GitHub"
+              "title": "GitHub - KotovDima1C/DFI: Динамическое Формирование Интерфейса"
             }
           },
           {

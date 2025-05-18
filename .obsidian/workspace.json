@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -338,7 +338,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad64fff453170b26",
+  "active": "6ab4e82cf703c64a",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",

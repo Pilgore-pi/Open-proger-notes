@@ -58,4 +58,4 @@ Vanessa Automation - это комплексный фреймворк для а�
 
 [^18]: https://t.me/s/onecv8?before=1415
 
-#1С #Testing #Vanessa_automation
+#1С #Testing #1С/Инструменты/Vanessa_automation

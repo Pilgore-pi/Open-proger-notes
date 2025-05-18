@@ -49,4 +49,4 @@ Vanessa Automation - это комплексный инструмент, кот�
 
 [^1_10]: https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/CommandSetting/CommandSetting.md
 
-#1С #Testing
+#1С #Testing #Vanessa_automation

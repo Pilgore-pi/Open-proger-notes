@@ -69,4 +69,4 @@ Gherkin тесно связан с методологией BDD, которая 
 
 [^1_11]: https://www.youtube.com/watch?v=w4CrhyWWwzk
 
-#Gherkin #BDD #TDD #Testing
+#Gherkin #BDD #TDD #Testing #Vanessa_automation

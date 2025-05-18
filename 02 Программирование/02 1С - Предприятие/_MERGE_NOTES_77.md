@@ -38,6 +38,9 @@ https://github.com/Pr-Mex/ExternalModulesConverterFor1C
 - Notion
 - Google Drive
 - Dropbox
+- Яндекс Диск
+- Viber
+- ...
 
 [Программное написание форм](https://github.com/KotovDima1C/DFI)
 

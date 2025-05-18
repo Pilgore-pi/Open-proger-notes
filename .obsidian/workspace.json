@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "c4a232174fe4a86c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/KotovDima1C/DFI",
+                "title": "GitHub - KotovDima1C/DFI: Динамическое Формирование Интерфейса",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - KotovDima1C/DFI: Динамическое Формирование Интерфейса"
+            }
+          },
+          {
             "id": "6ab4e82cf703c64a",
             "type": "leaf",
             "state": {
@@ -338,7 +352,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ab4e82cf703c64a",
+  "active": "c4a232174fe4a86c",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",

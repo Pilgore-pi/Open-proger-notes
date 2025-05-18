@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "da7fc7d888033837",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/Pr-Mex/UItoolsFor1C",
+                "title": "GitHub - Pr-Mex/UItoolsFor1C: Набор инструментов, которые позволяют расширить работу с интерфейсом платформы 1С",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - Pr-Mex/UItoolsFor1C: Набор инструментов, которые позволяют расширить работу с интерфейсом платформы 1С"
+            }
+          },
+          {
             "id": "1b4879c63ea123d5",
             "type": "leaf",
             "state": {
@@ -63,7 +77,8 @@
               "title": "1c · GitHub Topics · GitHub"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,13 +282,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48d8dcbbd4a8a2fd",
+  "active": "da7fc7d888033837",
   "lastOpenFiles": [
+    "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
+    "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/04 Начало работы.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/01 Введение в Vanessa automation.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/02 Gherkin.md",
-    "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",
-    "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation",
     "07 Администрирование/Windows/Буфер обмена.md",
     "07 Администрирование/Windows/Активация.md",

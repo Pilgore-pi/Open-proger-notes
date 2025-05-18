@@ -28,7 +28,8 @@ https://github.com/Pr-Mex/ExternalModulesConverterFor1C
 
 - Включено: [HTTP](https://github.com/vbondarevsky/Connector)
 
-[Интеграции с сервисами](https://github.com/Bayselonarrend/OpenIntegrations)
+[Open integrations](https://github.com/Bayselonarrend/OpenIntegrations):
+
 
 [Программное написание форм](https://github.com/KotovDima1C/DFI)
 

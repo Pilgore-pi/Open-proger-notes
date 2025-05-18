@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "ebd9402c38385849",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://master1c8.ru/platforma-1s-predpriyatie-8/rukovodstvo-razrabottchika/glava-7-form/2605/",
+                "title": "Команды формы – Ваш петербургский программист 1С",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Команды формы – Ваш петербургский программист 1С"
+            }
+          },
+          {
             "id": "f9f1ad68e6755c21",
             "type": "leaf",
             "state": {
@@ -162,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -366,7 +380,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad64fff453170b26",
+  "active": "ebd9402c38385849",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",

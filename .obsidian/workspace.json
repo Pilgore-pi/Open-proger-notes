@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "e2f95301cdbf1f8e",
+            "id": "e3c3f865f75789b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Сериализация объектов 1С.md",
-                "mode": "source",
-                "source": false
+                "url": "https://github.com/arkuznetsov/1CFilesConverter",
+                "title": "GitHub - arkuznetsov/1CFilesConverter: Cкрипты для конвертации файлов 1С между различными форматами (Binary, XML, EDT)",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Сериализация объектов 1С"
+              "icon": "globe-2",
+              "title": "GitHub - arkuznetsov/1CFilesConverter: Cкрипты для конвертации файлов 1С между различными форматами (Binary, XML, EDT)"
             }
           }
         ],
@@ -254,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2f95301cdbf1f8e",
+  "active": "e3c3f865f75789b9",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Сериализация объектов 1С.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",

@@ -39,14 +39,14 @@
             "id": "d0f04c8b8d863864",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/Bayselonarrend/uniloadXLS",
-                "title": "GitHub - Bayselonarrend/uniloadXLS: Универсальная загрузка XLS с приведением типов для 1С:Предприятие",
-                "mode": "webview"
+                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Обработка данных/Загрузка из Excel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "GitHub - Bayselonarrend/uniloadXLS: Универсальная загрузка XLS с приведением типов для 1С:Предприятие"
+              "icon": "lucide-file",
+              "title": "Загрузка из Excel"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/bia-technologies/vscode-xbslplugin",
-                "title": "GitHub - bia-technologies/vscode-xbslplugin: Плагин поддержки кода на языке 1С:Предприятие Элемент",
+                "url": "https://github.com/bia-technologies/vscode-xbslplugin/blob/develop/README.md",
+                "title": "vscode-xbslplugin/README.md at develop · bia-technologies/vscode-xbslplugin · GitHub",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "GitHub - bia-technologies/vscode-xbslplugin: Плагин поддержки кода на языке 1С:Предприятие Элемент"
+              "title": "vscode-xbslplugin/README.md at develop · bia-technologies/vscode-xbslplugin · GitHub"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -268,9 +268,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0f04c8b8d863864",
+  "active": "bc078bd318fccb2c",
   "lastOpenFiles": [
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Обработка данных/Загрузка из Excel.md",
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Обработка данных",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы/Генерация форм с помощью Markdown.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Универсальные инструменты.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы",
@@ -305,7 +307,6 @@
     "01 Идеи проектов/Дерево идей.drawio.crswap",
     "01 Идеи проектов/Модули Core Functionality.drawio.crswap",
     "02 Программирование/Arduino/The plan",
-    "02 Программирование/Arduino",
     "Files/1C_Редактор_граф_схемы_прил.png",
     "Files/1C_Редактор_графической_схемы.png",
     "Files/1C Shape-files.gif",

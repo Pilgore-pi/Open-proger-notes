@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "9b78ba344c05ab1c",
+            "id": "0f0c3eaa386cfc5b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/ivan816/simple-1c",
-                "title": "GitHub - ivan816/simple-1c: Транслятор запросов и Linq-провайдер для 1С-Бухгалтерии",
+                "url": "https://github.com/leobrn/ones-patterns",
+                "title": "GitHub - leobrn/ones-patterns: Примеры реализации паттернов проектирования в 1С",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "GitHub - ivan816/simple-1c: Транслятор запросов и Linq-провайдер для 1С-Бухгалтерии"
+              "title": "GitHub - leobrn/ones-patterns: Примеры реализации паттернов проектирования в 1С"
             }
           }
         ],
@@ -254,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b78ba344c05ab1c",
+  "active": "0f0c3eaa386cfc5b",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы/Генерация форм с помощью Markdown.md",

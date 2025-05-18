@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "206de34f9327f0f9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/crimsongoldteam/md_design/blob/main/README.md?plain=1",
+                "title": "md_design/README.md at main · crimsongoldteam/md_design · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "md_design/README.md at main · crimsongoldteam/md_design · GitHub"
+            }
+          },
+          {
             "id": "1b6e41df33a19b55",
             "type": "leaf",
             "state": {
@@ -282,7 +296,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b6e41df33a19b55",
+  "active": "206de34f9327f0f9",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Генерация форм с помощью Markdown.md",
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",

@@ -35,9 +35,3 @@ https://github.com/nixel2007/entity
 
 [Сериализатор и конвертер типов](https://github.com/arkuznetsov/SerLib1C)
 
-
-## Vanessa automation
-
-**Важно:** Для работы Compile.bat на компьютере должен быть установлен [дистрибутив скриптового движка OneScript](https://infostart.ru/redirect.php?url=aHR0cHM6Ly9vc2NyaXB0LmlvL2Rvd25sb2Fkcw==), а путь к утилите oscript.exe (к исполняемому файлу OneScript) прописан в переменную PATH.
-
-Gherkin: ЯП

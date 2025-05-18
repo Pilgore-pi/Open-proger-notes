@@ -34,3 +34,9 @@ https://github.com/nixel2007/entity
 [Программное написание форм](https://github.com/KotovDima1C/DFI)
 
 [Сериализатор и конвертер типов](https://github.com/arkuznetsov/SerLib1C)
+
+
+## Vanessa automation
+
+Для работы необходимо скачать [компилятор OneScript](https://oscript.io/downloads)
+

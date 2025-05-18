@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "4e04e08713f495ca",
+            "id": "84531c8a82e9cf45",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/EvilBeaver/OneScript",
-                "title": "GitHub - EvilBeaver/OneScript: Исполняющая среда скриптов на языке 1С",
+                "url": "https://github.com/nixel2007/entity",
+                "title": "GitHub - nixel2007/entity: OneScript Persistence API",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "GitHub - EvilBeaver/OneScript: Исполняющая среда скриптов на языке 1С"
+              "title": "GitHub - nixel2007/entity: OneScript Persistence API"
             }
           },
           {
@@ -310,7 +310,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e04e08713f495ca",
+  "active": "84531c8a82e9cf45",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",

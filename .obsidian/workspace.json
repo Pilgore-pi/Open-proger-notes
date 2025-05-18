@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "55f6bfad5bbd9b68",
+            "id": "2fac115ee43e3e05",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://infostart.ru/1c/articles/2169394/",
-                "title": "OCVC - утилита, упрощающая перенос участков кода из Конфигуратора 1С в Visual Studio Code",
-                "mode": "blank"
+                "url": "https://infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZGUtbWVyZ2UtdG9vbC1hZGFwdGVyLWNsaQ==",
+                "title": "infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZGUtbWVyZ2UtdG9vbC1hZGFwdGVyLWNsaQ==",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "OCVC - утилита, упрощающая перенос участков кода из Конфигуратора 1С в Visual Studio Code"
+              "title": "infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZGUtbWVyZ2UtdG9vbC1hZGFwdGVyLWNsaQ=="
             }
           },
           {
@@ -254,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55f6bfad5bbd9b68",
+  "active": "2fac115ee43e3e05",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "07 Администрирование/Windows/Буфер обмена.md",

@@ -8,7 +8,7 @@ https://infostart.ru/1c/articles/1015550/ Про программное созд
 
 [LOOK](https://github.com/topics/1c)
 
-https://infostart.ru/1c/articles/2169394/
+[Open in VS Code feature](https://infostart.ru/1c/articles/2169394/)
 
 https://infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZGUtbWVyZ2UtdG9vbC1hZGFwdGVyLWNsaQ==
 

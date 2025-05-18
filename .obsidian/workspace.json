@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b4879c63ea123d5",
+  "active": "12f7a2c8251cbf88",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "07 Администрирование/Windows/Буфер обмена.md",

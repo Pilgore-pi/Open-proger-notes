@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00b8be424e8be81d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Конвертация XML"
-            }
-          },
-          {
             "id": "12f7a2c8251cbf88",
             "type": "leaf",
             "state": {
@@ -50,17 +36,17 @@
             }
           },
           {
-            "id": "e3c3f865f75789b9",
+            "id": "abc6ca7a6afb28dd",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/arkuznetsov/1CFilesConverter",
-                "title": "GitHub - arkuznetsov/1CFilesConverter: Cкрипты для конвертации файлов 1С между различными форматами (Binary, XML, EDT)",
-                "mode": "webview"
+                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "GitHub - arkuznetsov/1CFilesConverter: Cкрипты для конвертации файлов 1С между различными форматами (Binary, XML, EDT)"
+              "icon": "lucide-file",
+              "title": "Конвертация XML"
             }
           }
         ],
@@ -268,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4b88d601e55b640",
+  "active": "abc6ca7a6afb28dd",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",

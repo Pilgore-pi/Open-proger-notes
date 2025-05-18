@@ -34,9 +34,23 @@
               "icon": "globe-2",
               "title": "1c · GitHub Topics · GitHub"
             }
+          },
+          {
+            "id": "9b78ba344c05ab1c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/ivan816/simple-1c",
+                "title": "GitHub - ivan816/simple-1c: Транслятор запросов и Linq-провайдер для 1С-Бухгалтерии",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - ivan816/simple-1c: Транслятор запросов и Linq-провайдер для 1С-Бухгалтерии"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4875310d82dae30",
+  "active": "9b78ba344c05ab1c",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы/Генерация форм с помощью Markdown.md",

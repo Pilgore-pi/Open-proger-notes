@@ -41,12 +41,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/KotovDima1C/DFI",
-                "title": "GitHub - KotovDima1C/DFI: Динамическое Формирование Интерфейса",
+                "url": "https://github.com/KotovDima1C/DFI/blob/master/ModuleDFI.bsl",
+                "title": "DFI/ModuleDFI.bsl at master · KotovDima1C/DFI · GitHub",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "GitHub - KotovDima1C/DFI: Динамическое Формирование Интерфейса"
+              "title": "DFI/ModuleDFI.bsl at master · KotovDima1C/DFI · GitHub"
             }
           },
           {

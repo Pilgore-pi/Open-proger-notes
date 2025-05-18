@@ -34,23 +34,9 @@
               "icon": "globe-2",
               "title": "1c · GitHub Topics · GitHub"
             }
-          },
-          {
-            "id": "0f0c3eaa386cfc5b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/leobrn/ones-patterns",
-                "title": "GitHub - leobrn/ones-patterns: Примеры реализации паттернов проектирования в 1С",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "GitHub - leobrn/ones-patterns: Примеры реализации паттернов проектирования в 1С"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +240,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f0c3eaa386cfc5b",
+  "active": "f4875310d82dae30",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы/Генерация форм с помощью Markdown.md",

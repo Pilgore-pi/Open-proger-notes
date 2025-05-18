@@ -48,6 +48,20 @@
               "icon": "globe-2",
               "title": "GitHub - leobrn/ones-formatting: Автоматическое форматирование кода в 1С для лучшей читаемости"
             }
+          },
+          {
+            "id": "b6c9aeeade194b6e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/ret-Phoenix/SmartConfigurator",
+                "title": "GitHub - ret-Phoenix/SmartConfigurator: Расширяем конфигуратор без Снегопата и ТурбоКонфа",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - ret-Phoenix/SmartConfigurator: Расширяем конфигуратор без Снегопата и ТурбоКонфа"
+            }
           }
         ],
         "currentTab": 2

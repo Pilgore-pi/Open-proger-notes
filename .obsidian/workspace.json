@@ -64,17 +64,17 @@
             }
           },
           {
-            "id": "206de34f9327f0f9",
+            "id": "ae9efc74fa30325c",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/crimsongoldteam/md_design/blob/main/README.md?plain=1",
-                "title": "md_design/README.md at main · crimsongoldteam/md_design · GitHub",
-                "mode": "webview"
+                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Универсальные инструменты.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "md_design/README.md at main · crimsongoldteam/md_design · GitHub"
+              "icon": "lucide-file",
+              "title": "Универсальные инструменты"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -296,10 +296,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "ae9efc74fa30325c",
   "lastOpenFiles": [
-    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы/Генерация форм с помощью Markdown.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы",
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/CMD & PowerShell.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Транслятор запросов 1С в SQL.md",
@@ -338,7 +338,6 @@
     "Files/1C_Редактор_графической_схемы.png",
     "Files/1C Shape-files.gif",
     "Files/apptempl.gif",
-    "02 Программирование/02 1С - Предприятие/05 Средства интеграции/Web-сервисы",
     "07 Математика/Теория вероятностей/Тетрадь - Теорвер/4TP_1.jpg",
     "Files/Presentation_app_domain.png",
     "Files/1С Интерфейс клиентского приложения.png",

@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "f9f1ad68e6755c21",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/arkuznetsov/SerLib1C",
+                "title": "GitHub - arkuznetsov/SerLib1C: Data serialization for 1C / Библиотека сериализации / десериализации данных 1С",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - arkuznetsov/SerLib1C: Data serialization for 1C / Библиотека сериализации / десериализации данных 1С"
+            }
+          },
+          {
             "id": "c4a232174fe4a86c",
             "type": "leaf",
             "state": {

@@ -42,7 +42,7 @@ https://github.com/Pr-Mex/ExternalModulesConverterFor1C
 - Viber
 - ...
 
-[Программное написание форм](https://github.com/KotovDima1C/DFI)
+[Динамическое формирование GUI в 1С](https://github.com/KotovDima1C/DFI)
 
 [Сериализатор и конвертер типов](https://github.com/arkuznetsov/SerLib1C)
 

@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Процесс разработки/Форматирование.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,21 +50,21 @@
             }
           },
           {
-            "id": "b6c9aeeade194b6e",
+            "id": "12e4582800fbd8b5",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/ret-Phoenix/SmartConfigurator",
-                "title": "GitHub - ret-Phoenix/SmartConfigurator: Расширяем конфигуратор без Снегопата и ТурбоКонфа",
+                "url": "https://github.com/leobrn/ones-formatting/blob/main/README.md",
+                "title": "ones-formatting/README.md at main · leobrn/ones-formatting · GitHub",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "GitHub - ret-Phoenix/SmartConfigurator: Расширяем конфигуратор без Снегопата и ТурбоКонфа"
+              "title": "ones-formatting/README.md at main · leobrn/ones-formatting · GitHub"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -268,7 +268,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6c9aeeade194b6e",
+  "active": "58009a6ba5af1f0d",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Процесс разработки/Форматирование.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Процесс разработки",

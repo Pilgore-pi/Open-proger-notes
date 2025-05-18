@@ -22,45 +22,31 @@
             }
           },
           {
-            "id": "393fed76f65de011",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/Pr-Mex/ExternalModulesConverterFor1C",
-                "title": "GitHub - Pr-Mex/ExternalModulesConverterFor1C: Конвертер внешних отчетов и обработок 1С:Предприятие в xml формат и обратно",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "GitHub - Pr-Mex/ExternalModulesConverterFor1C: Конвертер внешних отчетов и обработок 1С:Предприятие в xml формат и обратно"
-            }
-          },
-          {
             "id": "da7fc7d888033837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/05 Генерация графических инструкций.md",
+                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/04 Начало работы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Генерация графических инструкций"
+              "title": "04 Начало работы"
             }
           },
           {
             "id": "1b4879c63ea123d5",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/Pr-Mex/VAEditor",
-                "title": "GitHub - Pr-Mex/VAEditor: Visual Studio Code in 1C:Enterprise",
-                "mode": "webview"
+                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/01 Введение в Vanessa automation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "GitHub - Pr-Mex/VAEditor: Visual Studio Code in 1C:Enterprise"
+              "icon": "lucide-file",
+              "title": "01 Введение в Vanessa automation"
             }
           },
           {
@@ -282,10 +268,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da7fc7d888033837",
+  "active": "1b4879c63ea123d5",
   "lastOpenFiles": [
-    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/05 Генерация графических инструкций.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/03 Vanessa automation editor.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/04 Начало работы.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/05 Генерация графических инструкций.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/ORM в 1С.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Универсальные инструменты.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Утилита 'Открыть в VS Code'.md",
@@ -293,9 +281,7 @@
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Динамическое формирование интерфейса.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Git sync.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Open itegrations.md",
-    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/03 Vanessa automation editor.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/01 Введение в Vanessa automation.md",
-    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/04 Начало работы.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/02 Gherkin.md",
     "02 Программирование/02 1С - Предприятие/Полезные инструменты/Полезные разработки.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов",

@@ -2,13 +2,11 @@
 
 [Кoманды формы](https://master1c8.ru/platforma-1s-predpriyatie-8/rukovodstvo-razrabottchika/glava-7-form/2605/)
 
-https://infostart.ru/1c/articles/1015550/ Про программное создание форм
-
 ----
 
 [LOOK](https://github.com/topics/1c)
 
-[Open in VS Code feature](https://infostart.ru/1c/articles/2169394/)
+
 
 https://infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL3plZWdpbi92c2NvZGUtbWVyZ2UtdG9vbC1hZGFwdGVyLWNsaQ==
 

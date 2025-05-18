@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",
+                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/03 Vanessa automation editor.md",
                 "mode": "preview",
                 "source": false
               },
@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "ebd9402c38385849",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://master1c8.ru/platforma-1s-predpriyatie-8/rukovodstvo-razrabottchika/glava-7-form/2605/",
-                "title": "Команды формы – Ваш петербургский программист 1С",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Команды формы – Ваш петербургский программист 1С"
-            }
-          },
-          {
             "id": "f9f1ad68e6755c21",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/arkuznetsov/SerLib1C",
-                "title": "GitHub - arkuznetsov/SerLib1C: Data serialization for 1C / Библиотека сериализации / десериализации данных 1С",
-                "mode": "webview"
+                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Без названия.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "GitHub - arkuznetsov/SerLib1C: Data serialization for 1C / Библиотека сериализации / десериализации данных 1С"
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           },
           {
@@ -380,14 +366,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebd9402c38385849",
+  "active": "f9f1ad68e6755c21",
   "lastOpenFiles": [
+    "02 Программирование/02 1С - Предприятие/Полезные инструменты/Полезные разработки.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Без названия.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов",
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
-    "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",
-    "02 Программирование/02 1С - Предприятие/Vanessa automation/04 Начало работы.md",
-    "02 Программирование/02 1С - Предприятие/Vanessa automation/01 Введение в Vanessa automation.md",
-    "02 Программирование/02 1С - Предприятие/Vanessa automation/02 Gherkin.md",
-    "02 Программирование/02 1С - Предприятие/Vanessa automation",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/03 Vanessa automation editor.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/04 Начало работы.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/01 Введение в Vanessa automation.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/02 Gherkin.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation",
     "07 Администрирование/Windows/Буфер обмена.md",
     "07 Администрирование/Windows/Активация.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/01 План разработки.md",
@@ -415,14 +404,11 @@
     "02 Программирование/Arduino/The plan",
     "02 Программирование/Arduino",
     "02 Программирование/02 1С - Предприятие/01 Конфигурация/15 Критерии отбора.md",
-    "02 Программирование/02 1С - Предприятие/01 Конфигурация/14 Регламентные задания.md",
-    "02 Программирование/02 1С - Предприятие/01 Конфигурация/12 Модули.md",
     "Files/1C_Редактор_граф_схемы_прил.png",
     "Files/1C_Редактор_графической_схемы.png",
     "Files/1C Shape-files.gif",
     "Files/apptempl.gif",
     "02 Программирование/02 1С - Предприятие/05 Средства интеграции/Web-сервисы",
-    "MERGE_NOTES/ЛОЦМАН_Импорт.pdf",
     "07 Математика/Теория вероятностей/Тетрадь - Теорвер/4TP_1.jpg",
     "Files/Presentation_app_domain.png",
     "Files/1С Интерфейс клиентского приложения.png",

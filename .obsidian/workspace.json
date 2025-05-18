@@ -34,9 +34,23 @@
               "icon": "globe-2",
               "title": "1c · GitHub Topics · GitHub"
             }
+          },
+          {
+            "id": "58009a6ba5af1f0d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/leobrn/ones-formatting",
+                "title": "GitHub - leobrn/ones-formatting: Автоматическое форматирование кода в 1С для лучшей читаемости",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - leobrn/ones-formatting: Автоматическое форматирование кода в 1С для лучшей читаемости"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4875310d82dae30",
+  "active": "58009a6ba5af1f0d",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Обработка данных/Загрузка из Excel.md",
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",

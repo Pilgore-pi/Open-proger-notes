@@ -43,14 +43,14 @@
               "state": {
                 "url": "https://github.com/bia-technologies/vscode-xbslplugin",
                 "title": "GitHub - bia-technologies/vscode-xbslplugin: Плагин поддержки кода на языке 1С:Предприятие Элемент",
-                "mode": "blank"
+                "mode": "webview"
               },
               "icon": "globe-2",
               "title": "GitHub - bia-technologies/vscode-xbslplugin: Плагин поддержки кода на языке 1С:Предприятие Элемент"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc078bd318fccb2c",
+  "active": "f4875310d82dae30",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы/Генерация форм с помощью Markdown.md",

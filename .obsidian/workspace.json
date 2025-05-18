@@ -34,23 +34,9 @@
               "icon": "globe-2",
               "title": "1c · GitHub Topics · GitHub"
             }
-          },
-          {
-            "id": "25d6adf05d75417c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/kobtsevm/OfficeOpenXML",
-                "title": "GitHub - kobtsevm/OfficeOpenXML: Создание файлов .docx с помощью формата Office Open XML",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "GitHub - kobtsevm/OfficeOpenXML: Создание файлов .docx с помощью формата Office Open XML"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +240,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25d6adf05d75417c",
+  "active": "f4875310d82dae30",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Формы/Генерация форм с помощью Markdown.md",

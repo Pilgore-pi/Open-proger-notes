@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "6ab4e82cf703c64a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/Bayselonarrend/OpenIntegrations",
+                "title": "GitHub - Bayselonarrend/OpenIntegrations: Набор инструментов интеграции с популярными сервисами и технологиями для 1С:Предприятие, OneScript и CLI (Telegram, VK, Bitrix24, Google, Яндекс, S3, PostgreSQL, SQLite, MySQL и др.)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - Bayselonarrend/OpenIntegrations: Набор инструментов интеграции с популярными сервисами и технологиями для 1С:Предприятие, OneScript и CLI (Telegram, VK, Bitrix24, Google, Яндекс, S3, PostgreSQL, SQLite, MySQL и др.)"
+            }
+          },
+          {
             "id": "00b8be424e8be81d",
             "type": "leaf",
             "state": {
@@ -120,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -324,7 +338,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad64fff453170b26",
+  "active": "6ab4e82cf703c64a",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Vanessa automation/03 Vanessa automation editor.md",

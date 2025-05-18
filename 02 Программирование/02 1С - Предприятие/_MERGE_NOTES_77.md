@@ -26,8 +26,7 @@ https://github.com/Pr-Mex/ExternalModulesConverterFor1C
 
 [Универсальные инструменты](https://github.com/cpr1c/tools_ui_1c?tab=GPL-3.0-1-ov-file)
 
-- 
-[HTTP](https://github.com/vbondarevsky/Connector)
+- Включено: [HTTP](https://github.com/vbondarevsky/Connector)
 
 [Интеграции с сервисами](https://github.com/Bayselonarrend/OpenIntegrations)
 

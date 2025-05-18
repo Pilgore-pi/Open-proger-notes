@@ -49,8 +49,7 @@
               "title": "1c · GitHub Topics · GitHub"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +253,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12f7a2c8251cbf88",
+  "active": "48d8dcbbd4a8a2fd",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "07 Администрирование/Windows/Буфер обмена.md",

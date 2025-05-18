@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "1ecff4e61edec1df",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/YPermitin/YPermitin.YellowCollection/tree/main/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%D0%98%D0%B71%D0%A1%D0%B2SQL",
+                "title": "YPermitin.YellowCollection/ТрансляторЗапросовИз1СвSQL at main · YPermitin/YPermitin.YellowCollection · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "YPermitin.YellowCollection/ТрансляторЗапросовИз1СвSQL at main · YPermitin/YPermitin.YellowCollection · GitHub"
+            }
+          },
+          {
             "id": "c4b88d601e55b640",
             "type": "leaf",
             "state": {
@@ -240,10 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4b88d601e55b640",
+  "active": "1ecff4e61edec1df",
   "lastOpenFiles": [
-    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Сериализация объектов 1С.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/01 Введение в Vanessa automation.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Vanessa automation/04 Начало работы.md",

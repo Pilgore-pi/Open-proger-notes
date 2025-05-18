@@ -11,14 +11,14 @@
             "id": "12f7a2c8251cbf88",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/topics/1c",
-                "title": "1c · GitHub Topics · GitHub",
-                "mode": "webview"
+                "file": "02 Программирование/02 1С - Предприятие/Каталог инструментов/Транслятор запросов 1С в SQL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "1c · GitHub Topics · GitHub"
+              "icon": "lucide-file",
+              "title": "Транслятор запросов 1С в SQL"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/YPermitin/YPermitin.YellowCollection/tree/main/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%D0%98%D0%B71%D0%A1%D0%B2SQL",
-                "title": "YPermitin.YellowCollection/ТрансляторЗапросовИз1СвSQL at main · YPermitin/YPermitin.YellowCollection · GitHub",
+                "url": "https://github.com/YPermitin/YPermitin.YellowCollection/tree/main",
+                "title": "GitHub - YPermitin/YPermitin.YellowCollection: Авторская коллекция разработок на платформе 1С",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "YPermitin.YellowCollection/ТрансляторЗапросовИз1СвSQL at main · YPermitin/YPermitin.YellowCollection · GitHub"
+              "title": "GitHub - YPermitin/YPermitin.YellowCollection: Авторская коллекция разработок на платформе 1С"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "_MERGE_NOTES_77"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,8 +253,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ecff4e61edec1df",
+  "active": "12f7a2c8251cbf88",
   "lastOpenFiles": [
+    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Транслятор запросов 1С в SQL.md",
     "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Конвертация XML.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Сериализация объектов 1С.md",
@@ -285,7 +285,6 @@
     "01 Идеи проектов/Целевые проекты/Upper Level/GUI/01 Ресурсы.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/GUI",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Ссылки.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта UpperLevel.html",
     "01 Идеи проектов/Дерево идей.drawio.crswap",

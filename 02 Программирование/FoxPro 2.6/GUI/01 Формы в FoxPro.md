@@ -4,6 +4,33 @@
 
 Каждый раз при компиляции, сборке проекта и генерации форм FoxPro обращается к модулю GenScrn, чтобы сгенерировать файл `.SPR` на основе файла `.SCX`
 
+## Окна WINDOW
+
+
+### Цвета в окнах
+
+```foxpro
+COLOR <FOREGROUND> / <BACKGROUND>
+```
+
+Цвет | Код (передний план) | Код (задний план)
+-|-|-
+Пустой | X | X
+Черный | N | N
+Белый | W+ | W*
+Серый | W | W
+Темно-серый | N+ | N*
+Красный | R+ | R*
+Темно-красный | R | R
+Зеленый | G+ | G*
+Темно-зеленый | G | G
+Синий | B+ | B*
+Темно-синий | B | B
+Желтый | GR+ | GR*
+Темно-желтый | GR | GR
+Пурпурный | RB+ | RB*
+Темно-пурпурный | RB |
+
 ## Окно `BROWSE`
 
 Команда BROWSE предоставляет гибкие возможности по отображению и редактированию текущей выборки
@@ -110,18 +137,18 @@ DEFINE WINDOW <window_name>
 
 ```foxpro
 READ;
-	[CYCLE]
-	[ACTIVATE expL1]
-	[DEACTIVATE expL2]
-	[MODAL]
-	[WITH window title list]
-	[SHOW expL3]
-	[VALID expL4 / expN1]
-	[WHEN expL5]
-	[OBJECT expN2]
-	[TIMEOUT expN3]
-	[SAVE]
-	[NOMOUSE]
-	[LOCK / NOLOCK]
-	[COLOR <color_pair_list> / COLOR SCHEME <схема>]
+ | [CYCLE]
+ | [ACTIVATE expL1]
+ | [DEACTIVATE expL2]
+ | [MODAL]
+ | [WITH window title list]
+ | [SHOW expL3]
+ | [VALID expL4 / expN1]
+ | [WHEN expL5]
+ | [OBJECT expN2]
+ | [TIMEOUT expN3]
+ | [SAVE]
+ | [NOMOUSE]
+ | [LOCK / NOLOCK]
+ | [COLOR <color_pair_list> / COLOR SCHEME <схема>]
 ```

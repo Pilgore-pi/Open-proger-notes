@@ -29,7 +29,7 @@ COLOR <FOREGROUND> / <BACKGROUND>
 Желтый | GR+ | GR*
 Темно-желтый | GR | GR
 Пурпурный | RB+ | RB*
-Темно-пурпурный | RB |
+Темно-пурпурный | RB | RB
 
 ## Окно `BROWSE`
 

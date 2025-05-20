@@ -6,6 +6,19 @@
 
 ## Окна WINDOW
 
+```foxpro
+(VISUAL foxpro)
+DEFINE WINDOW WindowName1 FROM nRow1, nColumn1 TO nRow2, nColumn2 
+ | AT nRow3, nColumn3 SIZE nRow4, nColumn4 
+ [IN [WINDOW] WindowName2 | IN SCREEN | IN DESKTOP [NAME ObjectName]
+ [FONT cFontName [, nFontSize [, nFontCharSet]]] [STYLE cFontStyle] 
+ [FOOTER cFooterText] [TITLE cTitleText] [HALFHEIGHT] 
+ [DOUBLE | PANEL | NONE | SYSTEM | cBorderString] 
+ [CLOSE | NOCLOSE] [FLOAT | NOFLOAT] [GROW | NOGROW] [MDI | NOMDI]
+ [MINIMIZE | NOMINIMIZE] [ZOOM | NOZOOM] [ICON FILE FileName1]
+ [FILL cFillCharacter | FILL FILE FileName2] 
+ [COLOR SCHEME nSchemeNumber | COLOR ColorPairList]]
+```
 
 ### Цвета в окнах
 

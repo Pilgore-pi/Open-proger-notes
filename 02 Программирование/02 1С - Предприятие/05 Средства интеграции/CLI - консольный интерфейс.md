@@ -36,4 +36,4 @@ https://www.about1c.ru/v83-for-admin/command-line
 - `/N` — имя пользователя
 - `/P` — пароль пользователя
 
-#1С #A
+#1С #Administration

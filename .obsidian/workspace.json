@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/01 Формы 1С.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -91,7 +91,8 @@
               "title": "Под капотом управляемых форм"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +223,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/01 Формы 1С.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Формы 1С"
+              "title": "Структура"
             }
           },
           {
@@ -271,11 +271,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/01 Формы 1С.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Свойства файла для 01 Формы 1С"
+              "title": "Свойства файла"
             }
           }
         ]
@@ -294,7 +292,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aed752706b7d86c4",
+  "active": "5196be1bb98c79d6",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/01 Формы 1С.md",
     "02 Программирование/02 1С - Предприятие/01 Конфигурация/Команды.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Canvas API.md",
+                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/Введение в ASP.NET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Canvas API"
+              "title": "Введение в ASP.NET"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Canvas API.md",
+                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/Введение в ASP.NET.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Canvas API"
+              "title": "Структура Введение в ASP.NET"
             }
           },
           {
@@ -216,10 +216,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Canvas API.md"
+                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/Введение в ASP.NET.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Canvas API"
+              "title": "Свойства файла для Введение в ASP.NET"
             }
           }
         ]
@@ -238,8 +238,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "079e039d86c9bb51",
   "lastOpenFiles": [
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Canvas API.md",
     "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/JQuery",
     "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Node.JS",
     "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Хранение данных.md",
@@ -275,7 +276,6 @@
     "02 Программирование/02 1С - Предприятие/05 Средства интеграции/CLI - консольный интерфейс",
     "02 Программирование/02 1С - Предприятие/Конфигурация 1С ERP",
     "02 Программирование/02 1С - Предприятие/05 Средства интеграции/HTML документы",
-    "02 Программирование/02 1С - Предприятие/Каталог инструментов/Процесс разработки",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",
     "Files/1C_Редактор_графической_схемы.png",

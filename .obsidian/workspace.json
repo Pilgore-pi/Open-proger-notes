@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "caf985ba9f7f942e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://its.1c.ru/db/pubv8devui#content:226:hdoc",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
-            }
-          },
-          {
             "id": "323624690594072f",
             "type": "leaf",
             "state": {
@@ -106,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,12 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Диалоговые окна и сообщения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Диалоговые окна и сообщения"
             }
           },
           {
@@ -285,9 +272,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Диалоговые окна и сообщения.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для Диалоговые окна и сообщения"
             }
           }
         ]
@@ -306,7 +295,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caf985ba9f7f942e",
+  "active": "5196be1bb98c79d6",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Диалоговые окна и сообщения.md",
     "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Выбор значений из списка.md",

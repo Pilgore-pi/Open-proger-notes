@@ -1,7 +1,7 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitMessage": "manual obsidian commit: {{date}}",
+  "autoCommitMessage": "obsidian sync: {{date}}\n",
+  "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 15,
   "autoPullInterval": 10,

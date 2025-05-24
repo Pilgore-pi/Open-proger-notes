@@ -48,23 +48,9 @@
               "icon": "globe-2",
               "title": "Команды формы – Ваш петербургский программист 1С"
             }
-          },
-          {
-            "id": "d0cfe0aee62109a8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://infostart.ru/1c/articles/198766/",
-                "title": "Под капотом управляемых форм",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Под капотом управляемых форм"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0cfe0aee62109a8",
+  "active": "9e5b2123aa502c0a",
   "lastOpenFiles": [
     "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/02 Клиент-серверное взаимодействие.md",
     "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/01.01 Стандартные параметры формы.md",

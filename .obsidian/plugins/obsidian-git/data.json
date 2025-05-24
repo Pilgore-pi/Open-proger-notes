@@ -2,7 +2,7 @@
   "commitMessage": "manual obsidian commit: {{date}}",
   "autoCommitMessage": "obsidian auto commit: {{date}}\n",
   "commitDateFormat": "DD-MM-YYYY HH:mm",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 2,
   "autoPushInterval": 15,
   "autoPullInterval": 10,
   "autoPullOnBoot": true,

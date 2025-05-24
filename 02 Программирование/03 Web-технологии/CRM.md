@@ -48,3 +48,4 @@ CRM-система помогает:
 
 [^9]: https://sovman.ru/articletop/upravleniye-protsessami/upravleniye-marketingom/upravleniye-vzaimootnosheniyami-s-kliyentami-crm/
 
+#Web #Web/CRM

@@ -1,5 +1,5 @@
 
-> Это миф
+> Это миф (надежда умирает последней)
 
 1. 1С:EDT ([Готовые плагины](https://xn----1-bedvffifm4g.xn--p1ai/news/2022-03-28-twelve-edt-plugins-for-ease-and-speed/))
 2. turboconf - расширение на постоянку 7500 или про версия 9к

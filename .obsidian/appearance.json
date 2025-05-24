@@ -1,6 +1,6 @@
 {
   "accentColor": "#00e1ff",
-  "baseFontSize": 10,
+  "baseFontSize": 16,
   "textFontFamily": "Rubik,Nunito,Jost,Nunito SemiBold",
   "monospaceFontFamily": "JetBrains Mono,Fira Code",
   "translucency": false,

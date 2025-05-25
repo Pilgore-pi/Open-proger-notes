@@ -39,8 +39,9 @@
 ```cpp
 #include <FastLED.h>
 #include <SoftwareSerial.h>
-SoftwareSerial bluetooth(10, 11); // RX, TX
+
 #define NUM_LEDS 10
+SoftwareSerial bluetooth(10, 11); // RX, TX
 CRGB leds[NUM_LEDS];
 
 void setup() {
@@ -53,11 +54,11 @@ void loop() {
         
         char command = bluetooth.read();
         
-        if (command == 'L') {            // Уменьшить яркость
+        if (command == 'L')              // Уменьшить яркость
             FastLED.setBrightness(50);   // Уровень 50 из 255
-        } else if (command == 'H') {     // Увеличить яркость
+        
+        else if (command == 'H')         // Увеличить яркость
             FastLED.setBrightness(150);
-        }
         
         FastLED.show();
     }

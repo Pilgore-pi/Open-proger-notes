@@ -5,6 +5,7 @@
 ---
 
 ### 1. **Выбор компонентов**
+
 - **Arduino Nano или Pro Mini** (компактные версии для экономии места)[4].
 - **Светодиодные ленты WS2812B** (адресные, для равномерного свечения и индивидуального управления каждым сегментом).
 - **Bluetooth-модули HC-05/06** для беспроводного управления[2][3][5].
@@ -16,6 +17,7 @@
 ---
 
 ### 2. **Схема подключения**
+
 - Подключите светодиодные ленты к цифровым пинам Arduino через резисторы.
 - Bluetooth-модуль соедините с Arduino:
   - **RX (Bluetooth) → TX (Arduino)**.
@@ -26,36 +28,41 @@
 ---
 
 ### 3. **Программирование Arduino**
+
 1. **Установите библиотеки**:
    - FastLED для управления адресными светодиодами.
    - SoftwareSerial для работы с Bluetooth.
 2. **Напишите скетч**:
    - Регулировка яркости через ШИМ (PWM) для снижения интенсивности света[4].
    - Обработка команд от Bluetooth (например, изменение яркости, включение/выключение).
-   ```cpp
-   #include <FastLED.h>
-   #include <SoftwareSerial.h>
-   SoftwareSerial bluetooth(10, 11); // RX, TX
-   #define NUM_LEDS 10
-   CRGB leds[NUM_LEDS];
-   
-   void setup() {
-     FastLED.addLeds<WS2812B, 6, GRB>(leds, NUM_LEDS);
-     bluetooth.begin(9600);
-   }
-   
-   void loop() {
-     if (bluetooth.available()) {
-       char command = bluetooth.read();
-       if (command == 'L') { // Уменьшить яркость
-         FastLED.setBrightness(50); // Уровень 50 из 255
-       } else if (command == 'H') { // Увеличить яркость
-         FastLED.setBrightness(150);
-       }
-       FastLED.show();
-     }
-   }
-   ```
+
+```cpp
+#include <FastLED.h>
+#include <SoftwareSerial.h>
+SoftwareSerial bluetooth(10, 11); // RX, TX
+#define NUM_LEDS 10
+CRGB leds[NUM_LEDS];
+
+void setup() {
+    FastLED.addLeds<WS2812B, 6, GRB>(leds, NUM_LEDS);
+    bluetooth.begin(9600);
+}
+
+void loop() {
+    if (bluetooth.available()) {
+        
+        char command = bluetooth.read();
+        
+        if (command == 'L') {            // Уменьшить яркость
+            FastLED.setBrightness(50);   // Уровень 50 из 255
+        } else if (command == 'H') {     // Увеличить яркость
+            FastLED.setBrightness(150);
+        }
+        
+        FastLED.show();
+    }
+}
+```
 
 ---
 

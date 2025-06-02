@@ -48,4 +48,8 @@ https://www.about1c.ru/v83-for-admin/command-line
 - `/N` — имя пользователя
 - `/P` — пароль пользователя
 
+## CLI через переменную PATH
+
+https://its.1c.ru/db/v8310doc#bookmark:adm:TI000000493
+
 #1С #Administration

@@ -12,12 +12,13 @@ Currently, the contents are available only in russian language
 
 - .NET Framework (**C#**)
 - **1C: Enterprise** (Russian business automation system)
-- Web technologies: **HTML**, **CSS**, **JavaScript**, **TCP**, **HTTP**
+- Web technologies: **HTML**, **CSS**, **JavaScript**, **TCP**, **HTTP**, **Torrent**
 - Version control system **Git**
 - Data bases: **SQL**, **ORM Entity Framework Core**
 - System administration: **Windows**, **Linux**
+- Cryptography
 - Shaders: **GLSL**, **HLSL** (Programs that are executed on GPU)
-- Other programming languages: Python, Scala, 
+- Other programming languages: **Python**, **Scala**
 %%- **Docker**%%
 %%- **Arduino**%%
 - Computer components

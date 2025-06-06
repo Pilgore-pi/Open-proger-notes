@@ -16,8 +16,10 @@ Currently, the contents are available only in russian language
 - Version control system **Git**
 - Data bases: **SQL**, **ORM Entity Framework Core**
 - System administration: **Windows**, **Linux**
-- Shaders: **GLSL**, **HLSL**
+- Shaders: **GLSL**, **HLSL** (Programs that are executed on GPU)
+- Other programming languages: Python, Scala, 
 %%- **Docker**%%
+%%- **Arduino**%%
 - Computer components
 
 #### Why did i create this knowledge base?

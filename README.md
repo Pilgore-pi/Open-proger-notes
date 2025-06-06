@@ -2,7 +2,7 @@
 
 ## ENG
 
-**`ProgerNotes`** is a big collection of notes on IT technologies. I wrote these notes during my many-year long self education process. I studied programming, information security, system administration and computer physical components.
+**`ProgerNotes`** is a big collection of notes on IT technologies created as [Obsidian](https://obsidian.md/) vault. I wrote these notes during my many-year long self education process. I studied programming, information security, system administration and computer physical components.
 
 This vault is an accumulation of official documentation, YouTube guides, educational sites and my own thoughts. The vault contains many source links, so you can check the accuracy of my notes or look deeper, if you want.
 
@@ -39,9 +39,26 @@ You can upload your notes by making pull requests. I would be appreciated. If yo
 
 ## RUS
 
-**`ProgerNotes`** — это большая коллекция конспектов по IT технологиям. Я писал эти конспекты в процессе многолетнего самообучения программированию, администрированию и устройству компьютера.
+**`ProgerNotes`** — это большая коллекция конспектов по IT технологиям, созданная как хранилище [Obsidian](https://obsidian.md/). Я писал эти конспекты в процессе многолетнего самообучения программированию, администрированию и устройству компьютера.
 
 Данное хранилище — это объединение официальной документации, YouTube роликов, обучающих сайтов и моих мыслей. В хранилище много ссылок на источники. Вы можете использовать их, чтобы проверить достоверность моих конспектов или глубже изучить определенную тему
+
+#### What is described in the knowledge base
+
+- .NET Framework (**C#**)
+- **1C: Enterprise** (Russian business automation system)
+- Web technologies: **HTML**, **CSS**, **JavaScript**, **TCP**, **HTTP**, **Torrent**
+- Version control system **Git**
+- Data bases: **SQL**, **ORM Entity Framework Core**
+- System administration: **Windows**, **Linux**
+- Cryptography
+- Shaders: **GLSL**, **HLSL** (Programs that are executed on GPU)
+- Other programming languages: **Python**, **Scala**
+- Design patterns and development methodologies
+- Testing: **Unit testing**
+%%- **Docker**%%
+%%- **Arduino**%%
+- Computer components
 
 #### Why did i create this knowledge base?
 
@@ -53,4 +70,4 @@ I was trying to understand the IT concepts by writing my thougths on paper, then
 
 #### Содействие
 
-Вы можете загружать свои конспекты в эту базе знаний через pull requests. Я буду очень благодарен. Если вы хотите добавить свои конспекты, пожалуйста, соблюдайте подробность и понятность конспектов
+Вы можете загружать свои конспекты в эту базе знаний через *pull requests*. Я буду очень благодарен. Если вы хотите добавить свои конспекты, пожалуйста, соблюдайте подробность и понятность конспектов

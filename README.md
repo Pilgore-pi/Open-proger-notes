@@ -16,7 +16,7 @@ Currently, these notes are far from being finished and information accuracy may 
 
 #### Contribution
 
-You may attach your own notes by maiking pull requests. I would be appreciated
+You may attach your own notes by maiking pull requests. I would be appreciated. But I ask you to create detailed and clear 
 
 ## RUS
 
@@ -26,8 +26,8 @@ You may attach your own notes by maiking pull requests. I would be appreciated
 
 #### Предупреждение
 
-В данный момент, конспекты далеки от завершения и точность информации может быть низкой в некоторых местах. В большинстве конспектов, я старался писать все своими словами, чтобы позже мне было легче читать свои конспекты.
+В данный момент, конспекты далеки от завершения и точность информации может быть низкой в некоторых местах. В большинстве конспектов, я старался писать все своими словами, чтобы позже мне было легче читать свои конспекты. 
 
 #### Содействие
 
-Вы можете прикреплять свои конспекты к этой базе знаний. Я буду очень благодарен. Главное соблюдать концепцию 
+Вы можете прикреплять свои конспекты к этой базе знаний. Я буду очень благодарен. Главное соблюдать концепцию подробности и понятности.

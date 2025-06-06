@@ -2,7 +2,9 @@
 
 ## ENG
 
-The big collection of notes on IT technologies. I wrote these notes during my 
+The big collection of notes on IT technologies. I wrote these notes during my many-year long self education process. I studied programming, information security, system administration and computer physical components.
+
+While creating this 
 
 
 ## RUS

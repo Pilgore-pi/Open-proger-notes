@@ -2,7 +2,7 @@
 
 ## ENG
 
-The big collection of notes on IT technologies. I wrote these notes during my many-year long self education process. I studied programming, information security, system administration and computer physical components.
+**`ProgerNotes`** is a big collection of notes on IT technologies. I wrote these notes during my many-year long self education process. I studied programming, information security, system administration and computer physical components.
 
 This vault is an accumulation of official documentation, YouTube guides, educational sites and my own thoughts. The vault contains many source links, so you can check the accuracy of my notes or look deeper, if you want.
 
@@ -19,7 +19,7 @@ Currently, the contents are available only in russian language
 - Cryptography
 - Shaders: **GLSL**, **HLSL** (Programs that are executed on GPU)
 - Other programming languages: **Python**, **Scala**
-- Design patterns
+- Design patterns 
 - Testing: **Unit testing**
 %%- **Docker**%%
 %%- **Arduino**%%
@@ -39,7 +39,7 @@ You may attach your own notes by maiking pull requests. I would be appreciated. 
 
 ## RUS
 
-Большая коллекция конспектов по IT технологиям. Я писал эти конспекты в процессе многолетнего самообучения программированию, администрированию и устройству компьютера.
+**`ProgerNotes`** — это большая коллекция конспектов по IT технологиям. Я писал эти конспекты в процессе многолетнего самообучения программированию, администрированию и устройству компьютера.
 
 Данное хранилище — это объединение официальной документации, YouTube роликов, обучающих сайтов и моих мыслей. В хранилище много ссылок на источники. Вы можете использовать их, чтобы проверить достоверность моих конспектов или глубже изучить определенную тему
 

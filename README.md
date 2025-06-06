@@ -12,7 +12,11 @@ I was trying to understand the IT concepts by writing my thougths on paper, then
 
 #### Warning
 
-Currently, these notes are far from being finished and information accuracy may lack. In most cases I was trying to write notes using my words
+Currently, these notes are far from being finished and information accuracy may lack. In most cases I was trying to write notes using my words to make it easier for myself to read later
+
+#### Contribution
+
+You may attach your own notes. I would be appreciated
 
 ## RUS
 

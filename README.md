@@ -6,7 +6,10 @@ The big collection of notes on IT technologies. I wrote these notes during my ma
 
 This vault is an accumulation of official documentation, YouTube guides, educational sites and my own thoughts. The vault contains many source links, so you can check the accuracy of my notes or look deeper, if you want.
 
+#### What is described in the knowledge base
 
+- .NET Framework (C\#)
+- 1C: Enterprise (Russian business automi)
 
 #### Why did i create this knowledge base?
 

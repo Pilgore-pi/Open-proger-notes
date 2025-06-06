@@ -6,16 +6,19 @@ The big collection of notes on IT technologies. I wrote these notes during my ma
 
 This vault is an accumulation of official documentation, YouTube guides, educational sites and my own thoughts. The vault contains many source links, so you can check the accuracy of my notes or look deeper, if you want.
 
+Currently, the contents are available only in russian language
+
 #### What is described in the knowledge base
 
 - .NET Framework (**C#**)
 - **1C: Enterprise** (Russian business automation system)
 - Web technologies: **HTML**, **CSS**, **JavaScript**, **TCP**, **HTTP**
 - Version control system **Git**
-- Data bases: **SQL**, **ORM**
+- Data bases: **SQL**, **ORM Entity Framework Core**
+- System administration: **Windows**, **Linux**
 - Shaders: **GLSL**, **HLSL**
 %%- **Docker**%%
-- 
+- Computer components
 
 #### Why did i create this knowledge base?
 

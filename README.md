@@ -19,7 +19,7 @@ Currently, the contents are available only in russian language
 - Cryptography
 - Shaders: **GLSL**, **HLSL** (Programs that are executed on GPU)
 - Other programming languages: **Python**, **Scala**
-- Design patterns 
+- Design patterns and development methodologies
 - Testing: **Unit testing**
 %%- **Docker**%%
 %%- **Arduino**%%
@@ -35,7 +35,7 @@ Currently, these notes are far from being finished and information accuracy may 
 
 #### Contribution
 
-You may attach your own notes by maiking pull requests. I would be appreciated. If you want to add your notes, please, make them detailed and understandable.
+You can upload your notes by making pull requests. I would be appreciated. If you want to add your notes, please, make them detailed and understandable.
 
 ## RUS
 
@@ -49,8 +49,8 @@ I was trying to understand the IT concepts by writing my thougths on paper, then
 
 #### Предупреждение
 
-В данный момент, конспекты далеки от завершения и точность информации может быть низкой в некоторых местах. В большинстве конспектов, я старался писать все своими словами, чтобы позже мне было легче читать свои конспекты. 
+В данный момент, конспекты далеки от завершения и точность информации может быть низкой в некоторых местах. В большинстве конспектов я старался писать все своими словами, чтобы позже мне было легче их читать. 
 
 #### Содействие
 
-Вы можете прикреплять свои конспекты к этой базе знаний. Я буду очень благодарен. Если вы хотите добавить свои конспекты, пожалуйста, соблюдайте подробность и понятность конспектов
+Вы можете загружать свои конспекты в эту базе знаний через pull requests. Я буду очень благодарен. Если вы хотите добавить свои конспекты, пожалуйста, соблюдайте подробность и понятность конспектов

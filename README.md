@@ -8,8 +8,10 @@ This vault is an accumulation of official documentation, YouTube guides, educati
 
 #### What is described in the knowledge base
 
-- .NET Framework (C\#)
-- 1C: Enterprise (Russian business automi)
+- .NET Framework (**C#**)
+- **1C: Enterprise** (Russian business automation system)
+- Web technologies: **HTML**, **CSS**, **JavaScript**, TCPHTTP
+- Version control system **Git**
 
 #### Why did i create this knowledge base?
 

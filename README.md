@@ -19,13 +19,15 @@ Currently, the contents are available only in russian language
 - Cryptography
 - Shaders: **GLSL**, **HLSL** (Programs that are executed on GPU)
 - Other programming languages: **Python**, **Scala**
+- Design patterns
+- Testing: **Unit testing**
 %%- **Docker**%%
 %%- **Arduino**%%
 - Computer components
 
 #### Why did i create this knowledge base?
 
-I was trying to understand the IT concepts by writing my thougths on paper, then in Word and, finally,  in Obsidian. I love to dig into programming and learn it in great detail. Thus, here you can find many interesting and deep details that are not described well on an average programming related site.
+I was trying to understand the IT concepts by writing my thougths on paper, then in Word and, finally,  in Obsidian. I love to dig into programming and learn it in great detail. Thanks to my approach, you can find many interesting and deep details that are not described well on an average programming related site.
 
 #### Warning
 

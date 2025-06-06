@@ -16,7 +16,7 @@ Currently, these notes are far from being finished and information accuracy may 
 
 #### Contribution
 
-You may attach your own notes. I would be appreciated
+You may attach your own notes by maiking pull requests. I would be appreciated
 
 ## RUS
 

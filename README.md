@@ -10,8 +10,12 @@ This vault is an accumulation of official documentation, YouTube guides, educati
 
 - .NET Framework (**C#**)
 - **1C: Enterprise** (Russian business automation system)
-- Web technologies: **HTML**, **CSS**, **JavaScript**, TCPHTTP
+- Web technologies: **HTML**, **CSS**, **JavaScript**, **TCP**, **HTTP**
 - Version control system **Git**
+- Data bases: **SQL**, **ORM**
+- Shaders: **GLSL**, **HLSL**
+%%- **Docker**%%
+- 
 
 #### Why did i create this knowledge base?
 

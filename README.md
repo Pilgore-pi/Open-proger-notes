@@ -6,7 +6,7 @@ The big collection of notes on IT technologies. I wrote these notes during my ma
 
 #### Why did i create this knowledge base?
 
-I was trying to understand the IT concepts by writing my thougths on paper, then in Word and, finally,  in Obsidian. I love to dig into programming and learn 
+I was trying to understand the IT concepts by writing my thougths on paper, then in Word and, finally,  in Obsidian. I love to dig into programming and learn it in great detail. Thus, here you can find many interesting details that are not described well on an average site for 
 
 
 ## RUS

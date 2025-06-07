@@ -5,4 +5,4 @@
 2. File Mapping,  
 3. IPC Channels.
 
-#API #API/COM
+#API #API/COM #API/IPC

@@ -40,6 +40,49 @@
 Страницей ASP.NET называется веб-страница, содержащая код на языке **Razor**.
 
 Razor, фактически — это объединение HTML и C# кода в одном файле
+
+Пример 1:
+
+```razor
+@page
+ 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>METANIT.COM</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h2>Time: @DateTime.Now.ToShortTimeString()</h2>
+</body>
+</html>
+```
+
+Пример 2:
+
+```razor
+@page
+ 
+@{
+    string morning = "Good Morning";
+    string evening = "Good Evening";
+    string hello = "Hello";
+    int hour = DateTime.Now.Hour;
+}
+@if (hour < 12)
+{
+    <h2>@morning</h2>
+}
+else if (hour > 17)
+{
+    <h2>@evening</h2>
+}
+else
+{
+    <h2>@hello</h2>
+}
+```
+
 <div style="text-align: center">⁂</div>
 
 [^1]: https://learn.microsoft.com/ru-ru/aspnet/overview

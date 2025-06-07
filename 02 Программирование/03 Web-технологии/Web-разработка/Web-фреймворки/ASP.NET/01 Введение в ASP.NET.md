@@ -88,6 +88,7 @@ else
 }
 ```
 
+Далее: Создание простого ASP.NET приложения на практике
 <div style="text-align: center">⁂</div>
 
 [^1]: https://learn.microsoft.com/ru-ru/aspnet/overview

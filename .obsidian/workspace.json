@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "план счетов",
+                "query": "ASP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c352fd11265829d",
+  "active": "d34781bcf16267d7",
   "lastOpenFiles": [
     "02 Программирование/01 .NET/05 Развертывание приложений .NET/03 Шаблоны проектов .NET.md",
     "02 Программирование/01 .NET/05 Развертывание приложений .NET/02 Решения (Solutions).md",

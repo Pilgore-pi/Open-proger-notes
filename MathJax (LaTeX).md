@@ -103,7 +103,7 @@ n/2,  & \text{if $n$ is even} \\
 |$\phi$ | `$\phi$`
 |$\varphi$ | `$\varphi$`
 
->Любой символ юникода: $\unicode{x21af}$ — `$\unicode{x21af}$`
+> Любой символ юникода: $\unicode{x21af}$ — `$\unicode{x21af}$`
 
 ## Наложение символов
 

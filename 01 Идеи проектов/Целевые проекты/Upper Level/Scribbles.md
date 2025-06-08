@@ -17,3 +17,6 @@ NO! Any casing should supprot prefixes
 
 prefix_snake_case
 prUPPER_SNAKE
+
+----
+obsidian vault to HTML site (No JS, include CSS (optionally))

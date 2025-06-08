@@ -15,5 +15,5 @@ select * from DataSource
 ```bsl
 ВЫБРАТЬ Справочник.Клиенты.*
 
-select 
+select Catalog.Clients.*
 ```

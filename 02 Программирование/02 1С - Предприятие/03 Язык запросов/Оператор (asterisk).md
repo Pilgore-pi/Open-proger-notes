@@ -17,3 +17,5 @@ select * from DataSource
 
 select Catalog.Clients.*
 ```
+
+#1С #1С/Язык_запросов

@@ -93,29 +93,42 @@ interface IMoveStrategy {
 }
 
 class WalkStrategy : IMoveStrategy {
-    public override void Move() { Console.WriteLine("Walking"); }
+    public override void StartMovement() { Console.WriteLine("Walking"); }
 }
 
 class DriveStrategy : IMoveStrategy {
-    public override void Move() { Console.WriteLine("Driving"); }
+    public override void StartMovement() { Console.WriteLine("Driving"); }
 }
 
 class ScooterStrategy : IMoveStrategy {
-    public override void Move() { Console.WriteLine("On scooter"); }
+    public override void StartMovement() { Console.WriteLine("On scooter"); }
 }
 
 class Human {
     public IMoveStrategy MovementStrategy { get; set; }
-    public Move() => MovementStrategy.Move();
+    public Move() => MovementStrategy.StartMovement();
 }
 
 
 Human person = new Human();
+
 person.MovementStrategy = new DriveStategy();
 person.Move();
 
-person.MovementStrategy = new WStategy();
+person.MovementStrategy = new ScooterStategy();
+person.Move();
+
+person.MovementStrategy = WalkStrategy();
+person.Move();
 ```
+
+**Преимущества:**
+
+- Метод Move
+
+**Недостатки:**
+
+- 
 
 ### Разделение алгоритмов на стратегии в смешанном стиле
 

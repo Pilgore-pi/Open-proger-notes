@@ -31,8 +31,14 @@ class ScooterHuman : IHuman {
     public override Move() { /*Передвижение на самокате*/ }
 }
 
+// Полиморфный вызов метода Move()
+static void StartMovement(IHuman human) => human.Move();
 
-static void StartMovement(IHuman human) => h
+IHuman human = new DriveHuman();
+StartMovement(human);
+human = new
+StartMovement(human);
+StartMovement(new WalkHuman());
 
 ```
 

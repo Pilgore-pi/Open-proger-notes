@@ -144,8 +144,21 @@ class Human {
 
 Human person = new Human();
 
-person.MovementStrategy = () => Console.WriteLine("");
+person.MovementStrategy = () => Console.WriteLine("Walking");
+person.Move();
+
+person.MovementStrategy = () => Console.WriteLine("Driving");
+person.Move();
 ```
+
+**Преимущества:**
+
+- Значительно меньше кода, что помогает быстрее в нем разобраться
+- Все вышеописанные преимущества ООП стиля сохраняются
+
+**Недостатки:**
+
+- Лямбда-выражения менее чит
 
 ### Разделение алгоритмов на стратегии в функциональном стиле
 

@@ -93,15 +93,20 @@ interface IMoveStrategy {
 }
 
 class WalkStrategy : IMoveStrategy {
-    override void Move() { Console.WriteLine("Walking"); }
+    public override void Move() { Console.WriteLine("Walking"); }
 }
 
 class DriveStrategy : IMoveStrategy {
-    override void Move() { Console.WriteLine("Driving"); }
+    public override void Move() { Console.WriteLine("Driving"); }
 }
 
 class ScooterStrategy : IMoveStrategy {
-    override void Move() { Console.WriteLine("On scooter"); }
+    public override void Move() { Console.WriteLine("On scooter"); }
+}
+
+class Human {
+    public IMoveStrategy MovementKind { get; set; }
+    public Move
 }
 ```
 

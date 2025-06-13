@@ -28,8 +28,8 @@ class Human {
 }
 
 Human person = new Human();
-person.StartMovement(MovementKind.Mo)
-
+person.StartMovement(MovementKind.Walk);
+person.StartMovement(MovementKind.Drive);
 ```
 
 **Преимущества:**
@@ -88,7 +88,7 @@ StartMovement(new WalkHuman());
 ### Разделение алгоритмов на стратегии в ООП стиле
 
 ```csharp
-
+abstract
 ```
 
 ### Разделение алгоритмов на стратегии в смешанном стиле

@@ -8,10 +8,15 @@
 Можно определить всю логику в единственном методе и передавать параметр, который будет определять, какой алгоритм нужно в данном случае выполнить 
 
 ```csharp
-
+enum MovementKind {
+    Walk,
+    Drive,
+    Scooter
+}
+static void StartMovement()
 ```
 
-Рассмотрим пример структуру программы, основанную на наследовании
+Рассмотрим пример структуру программы, основанную на **наследовании** и **полиморфизме**
 
 ```csharp
 // Человек, который может передвигаться
@@ -36,7 +41,7 @@ static void StartMovement(IHuman human) => human.Move();
 
 IHuman human = new DriveHuman();
 StartMovement(human);
-human = new
+human = new ScooterHuman();
 StartMovement(human);
 StartMovement(new WalkHuman());
 

@@ -23,15 +23,16 @@ class WalkHuman : IHuman {
     public override Move() { /*Передвижение пешком*/ }
 }
 
-// Передвижение на ашине
 class DriveHuman : IHuman {
-    
+    public override Move() { /*Передвижение на машине*/ }
 }
 
-// Передвижение на самокате
 class ScooterHuman : IHuman {
-    
+    public override Move() { /*Передвижение на самокате*/ }
 }
+
+
+static void StartMovement(IHuman human) => h
 
 ```
 

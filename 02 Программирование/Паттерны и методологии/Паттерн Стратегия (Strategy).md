@@ -16,13 +16,20 @@ enum MovementKind {
     Scooter
 }
 
-static void StartMovement(MovementKind movement){
-    switch(movement){
-        case MovementKind.Walk:    Console.WriteLine("Walking"); break;
-        case MovementKind.Drive:   Console.WriteLine("Driving"); break;
-        default:                   Console.WriteLine("On scooter"); break;
+class Human {
+    public void StartMovement(MovementKind movement){
+        switch(movement){
+            case MovementKind.Walk:    Console.WriteLine("Walking"); break;
+            case MovementKind.Drive:   Console.WriteLine("Driving"); break;
+            default:                   Console.WriteLine("On scooter"); break;
+        }
     }
+    //...
 }
+
+Human person = new Human();
+person.StartMovement(MovementKind.Mo)
+
 ```
 
 **Преимущества:**

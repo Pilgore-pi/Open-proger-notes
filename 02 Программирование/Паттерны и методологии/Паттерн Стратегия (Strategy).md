@@ -106,8 +106,15 @@ class ScooterStrategy : IMoveStrategy {
 
 class Human {
     public IMoveStrategy MovementStrategy { get; set; }
-    public Move() => MovementKind.Move();
+    public Move() => MovementStrategy.Move();
 }
+
+
+Human person = new Human();
+person.MovementStrategy = new DriveStategy();
+person.Move();
+
+person.MovementStrategy = new WStategy();
 ```
 
 ### Разделение алгоритмов на стратегии в смешанном стиле

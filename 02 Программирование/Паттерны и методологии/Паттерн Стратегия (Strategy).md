@@ -14,11 +14,25 @@
 Рассмотрим пример структуру программы, основанную на наследовании
 
 ```csharp
+// Человек, который может передвигаться
 interface IHuman {
     void Move();
 }
 
-class 
+class WalkHuman : IHuman {
+    public override Move() { /*Передвижение пешком*/ }
+}
+
+// Передвижение на ашине
+class DriveHuman : IHuman {
+    
+}
+
+// Передвижение на самокате
+class ScooterHuman : IHuman {
+    
+}
+
 ```
 
 #Patterns

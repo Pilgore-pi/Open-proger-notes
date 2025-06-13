@@ -88,7 +88,21 @@ StartMovement(new WalkHuman());
 ### Разделение алгоритмов на стратегии в ООП стиле
 
 ```csharp
-abstract
+interface IMoveStrategy {
+    void Move();
+}
+
+class WalkStrategy : IMoveStrategy {
+    override void Move() { Console.WriteLine("Walking"); }
+}
+
+class DriveStrategy : IMoveStrategy {
+    override void Move() { Console.WriteLine("Driving"); }
+}
+
+class ScooterStrategy : IMoveStrategy {
+    override void Move() { Console.WriteLine("On scooter"); }
+}
 ```
 
 ### Разделение алгоритмов на стратегии в смешанном стиле

@@ -105,8 +105,8 @@ class ScooterStrategy : IMoveStrategy {
 }
 
 class Human {
-    public IMoveStrategy MovementKind { get; set; }
-    public Move
+    public IMoveStrategy MovementStrategy { get; set; }
+    public Move() => MovementKind.Move();
 }
 ```
 

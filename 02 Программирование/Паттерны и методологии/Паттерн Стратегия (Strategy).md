@@ -134,11 +134,17 @@ person.Move();
 
 ### Разделение алгоритмов на стратегии в смешанном стиле
 
+Тот же паттерн Стратегия, но с использованием ООП и функционального подходов
+
 ```csharp
 class Human {
-    public Action movementStrategy { get; set; }
-    public void Move()
+    public Action MovementStrategy { get; set; }
+    public void Move() => MovementStrategy();
 }
+
+Human person = new Human();
+
+person.MovementStrategy = () => Console.WriteLine("");
 ```
 
 ### Разделение алгоритмов на стратегии в функциональном стиле

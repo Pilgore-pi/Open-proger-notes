@@ -8,6 +8,7 @@ on table_1.attrubute = table_2.attrubute
 ```
 
 Множественное совпадение атрибутов:
+
 ```sql
 select * from table_1 join table_2
 on table_1.attrubute1 = table_2.attrubute1 and

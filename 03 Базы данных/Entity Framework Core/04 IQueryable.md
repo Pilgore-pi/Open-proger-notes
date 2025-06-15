@@ -111,6 +111,18 @@ public class User {
 | `CreateQuery<T>(Expression expr)`   | `IQueryable<T>` | Используется для создания запросов на основе дерева выражений. Это позволяет динамически строить запросы          |
 | `Execute<TResult>(Expression expr)` | `TResult`       | Используется для выполнения запросов, которые возвращают одиночное значение (например, `Count`, `FirstOrDefault`) |
 
+```cs
+var countExpression = Expression.Call(
+    typeof(Queryable),
+    "Count",
+    new Type[] { typeof(User) },
+    query.Expression
+);
+
+int count = query.Provider.Execute<int>(countExpression);
+Console.WriteLine(count); // Выводит количество пользователей
+```
+
 ### Различия между `IEnumerable` и `IQueryable`
 
 | Характеристика               | IEnumerable                 | IQueryable                         |

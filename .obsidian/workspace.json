@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7f3ac2227689ab",
+        "id": "fc2ed49397f36240",
         "type": "tabs",
         "children": [
           {
-            "id": "636bb149fd39e110",
+            "id": "473d2305f81d1868",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "04 IQueryable"
-            }
-          },
-          {
-            "id": "3435191c852cdded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_templates/Описание_методов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Описание_методов"
             }
           }
         ]
@@ -238,12 +224,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "636bb149fd39e110",
+  "active": "473d2305f81d1868",
   "lastOpenFiles": [
     "z_templates/Описание_методов.md",
+    "z_templates/Сравнение.md",
+    "03 Базы данных/Entity Framework Core/04 IQueryable.md",
     "z_templates/Описание_свойств.md",
     "z_templates/Преимущества_и_недостатки.md",
-    "03 Базы данных/Entity Framework Core/04 IQueryable.md",
     "03 Базы данных/Entity Framework Core/02 Проектирование моделей.md",
     "03 Базы данных/Entity Framework Core/03 Создание миграций.md",
     "03 Базы данных/Entity Framework Core/01 Введение в Entity Framework.md",
@@ -265,7 +252,6 @@
     "03 Базы данных/01 SQL-запросы/DDL.md",
     "03 Базы данных/01 SQL-запросы/CRUD.md",
     "03 Базы данных/01 SQL-запросы/ALTER TABLE - Изменение структуры таблицы.md",
-    "03 Базы данных/01 SQL-запросы/_UPDATE. Изменение данных.md",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Базы данных/Entity Framework Core/02 IQueryable.md",
+                "file": "03 Базы данных/Entity Framework Core/04 IQueryable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 IQueryable"
+              "title": "04 IQueryable"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Базы данных/Entity Framework Core/02 IQueryable.md",
+                "file": "03 Базы данных/Entity Framework Core/04 IQueryable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 02 IQueryable"
+              "title": "Структура 04 IQueryable"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Базы данных/Entity Framework Core/02 IQueryable.md"
+                "file": "03 Базы данных/Entity Framework Core/04 IQueryable.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для 02 IQueryable"
+              "title": "Свойства файла для 04 IQueryable"
             }
           }
         ]
@@ -226,11 +226,11 @@
   },
   "active": "636bb149fd39e110",
   "lastOpenFiles": [
-    "03 Базы данных/Entity Framework Core/01 Введение в Entity Framework.md",
-    "03 Базы данных/Entity Framework Core/02 IQueryable.md",
-    "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md",
     "03 Базы данных/Entity Framework Core/02 Проектирование моделей.md",
+    "03 Базы данных/Entity Framework Core/04 IQueryable.md",
     "03 Базы данных/Entity Framework Core/03 Создание миграций.md",
+    "03 Базы данных/Entity Framework Core/01 Введение в Entity Framework.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md",
     "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md",
     "03 Базы данных/01 SQL-запросы/Внешние ключи SQL.md",
     "03 Базы данных/01 SQL-запросы/Атрибуты. Ограничения столбцов и таблиц.md",

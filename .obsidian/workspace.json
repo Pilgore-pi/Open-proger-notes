@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Базы данных/01 SQL-запросы/JOIN (КАРТИНКИ).md",
+                "file": "03 Базы данных/01 SQL-запросы/03 SELECT - Чтение данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOIN (КАРТИНКИ)"
+              "title": "03 SELECT - Чтение данных"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Базы данных/01 SQL-запросы/JOIN (КАРТИНКИ).md",
+                "file": "03 Базы данных/01 SQL-запросы/03 SELECT - Чтение данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура JOIN (КАРТИНКИ)"
+              "title": "Структура 03 SELECT - Чтение данных"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Базы данных/01 SQL-запросы/JOIN (КАРТИНКИ).md"
+                "file": "03 Базы данных/01 SQL-запросы/03 SELECT - Чтение данных.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для JOIN (КАРТИНКИ)"
+              "title": "Свойства файла для 03 SELECT - Чтение данных"
             }
           }
         ]
@@ -226,9 +226,11 @@
   },
   "active": "b82b2b0c00ddca52",
   "lastOpenFiles": [
-    "03 Базы данных/01 SQL-запросы/ORDER BY. Сортировка.md",
     "03 Базы данных/01 SQL-запросы/SELECT. Выбор диапазона записей.md",
     "03 Базы данных/01 SQL-запросы/03 SELECT - Чтение данных.md",
+    "03 Базы данных/01 SQL-запросы/ORDER BY. Сортировка.md",
+    "03 Базы данных/01 SQL-запросы/Id новой записи.md",
+    "03 Базы данных/01 SQL-запросы/JOIN (КАРТИНКИ).md",
     "03 Базы данных/01 SQL-запросы/CRUD.md",
     "03 Базы данных/01 SQL-запросы/02 Управление таблицами.md",
     "03 Базы данных/01 SQL-запросы/01 Управление базами данных.md",
@@ -250,8 +252,6 @@
     "README.md",
     "MathJax (LaTeX).md",
     "03 Базы данных/Практика/Использование готовой БД.md",
-    "03 Базы данных/Практика/Базы данных на практике.md",
-    "03 Базы данных/01 SQL-запросы/_UPDATE. Изменение данных.md",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",

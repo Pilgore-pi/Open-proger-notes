@@ -63,55 +63,36 @@ class Program {
 
 **Пример использования**:
   
+```cs
 using System.Linq;
 using System.Data.Entity;
 
 class Program {
-    static void Main()
-    {
-        using (var context = new MyDbContext())
-        {
-            // IQueryable позволяет построить запрос к базе данных
-            IQueryable<User> usersQuery = context.Users.Where(u => u.Age > 18);
-
-            // Запрос выполняется только при переборе данных
-            foreach (var user in usersQuery) {
-
-                Console.WriteLine(user.Name);
-
-            }
-
-        }
-
-    }
-
+    static void Main()
+    {
+        using var context = new MyDbContext();
+        
+        // IQueryable позволяет построить запрос к базе данных
+        IQueryable<User> usersQuery = context.Users.Where(u => u.Age > 18);
+        
+        // Запрос выполняется только при переборе данных
+        foreach (var user in usersQuery) {
+            Console.WriteLine(user.Name);
+        }
+    }
 }
 
 // Пример контекста базы данных
-
-public class MyDbContext : DbContext
-
-{
-
-    public DbSet<User> Users { get; set; }
-
+public class MyDbContext : DbContext {
+    public DbSet<User> Users { get; set; }
 }
 
-public class User
-
-{
-
-    public int Id { get; set; }
-
-    public string Name { get; set; }
-
-    public int Age { get; set; }
-
+public class User {
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public int Age { get; set; }
 }
-
-csharp
-
----
+```
 
 ### Основные различия между `IEnumerable` и `IQueryable`
 

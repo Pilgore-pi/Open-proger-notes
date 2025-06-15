@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed195e5526814e7c",
+        "id": "f73cad797fb0f478",
         "type": "tabs",
         "children": [
           {
-            "id": "b82b2b0c00ddca52",
+            "id": "2913a87ade6e9414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md",
-                "mode": "source",
+                "file": "03 Базы данных/Entity Framework/01 Введение в Entity Framework.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пакетные запросы и команда GO"
+              "title": "01 Введение в Entity Framework"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md",
+                "file": "03 Базы данных/Entity Framework/01 Введение в Entity Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Пакетные запросы и команда GO"
+              "title": "Структура 01 Введение в Entity Framework"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md"
+                "file": "03 Базы данных/Entity Framework/01 Введение в Entity Framework.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Пакетные запросы и команда GO"
+              "title": "Свойства файла для 01 Введение в Entity Framework"
             }
           }
         ]
@@ -224,15 +224,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b82b2b0c00ddca52",
+  "active": "c900ac5ff9c19205",
   "lastOpenFiles": [
+    "03 Базы данных/Entity Framework/02 Проектирование моделей.md",
+    "03 Базы данных/Entity Framework/03 Создание миграций.md",
+    "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md",
     "03 Базы данных/01 SQL-запросы/Внешние ключи SQL.md",
     "03 Базы данных/01 SQL-запросы/Атрибуты. Ограничения столбцов и таблиц.md",
     "03 Базы данных/01 SQL-запросы/SQL.md",
     "03 Базы данных/01 SQL-запросы/Типы данных SQL.md",
     "03 Базы данных/01 SQL-запросы/SELECT. Выбор диапазона записей.md",
     "03 Базы данных/01 SQL-запросы/ORDER BY. Сортировка.md",
-    "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md",
     "03 Базы данных/01 SQL-запросы/Встроенные функции SQL.md",
     "03 Базы данных/01 SQL-запросы/04 SELECT - Чтение данных.md",
     "03 Базы данных/01 SQL-запросы/03 INSERT - Добавление записей.md",
@@ -250,8 +252,6 @@
     "03 Базы данных/05 Нормализация.md",
     "03 Базы данных/04 Внешние ключи и связи.md",
     "03 Базы данных/03 Ключи.md",
-    "03 Базы данных/02 Проектирование БД.md",
-    "03 Базы данных/01 Введение в базы данных.md",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",

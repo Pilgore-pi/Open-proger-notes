@@ -14,7 +14,7 @@ public interface IQueryable<out T> : System.Collections.Generic.IEnumerable<out 
 
 Нередко это происходит при переборе результата запроса в цикле `for` или при применении к нему ряда методов - `ToList()` или `ToArray()`, а также если запрос представляет скалярное значение, например, метод `Count()`
 
-В процессе выполнения запросов **LINQ** to Entities мы может получать два объекта, которые предоставляют наборы данных: IEnumerable и IQueryable
+В процессе выполнения запросов **LINQ to Entities** мы может получать два объекта, которые предоставляют наборы данных: `IEnumerable` и `IQueryable`. Хоть `IQueryable` наследуется от `IEnumerable`, `IQueryable` имеет другую функциональность и несовместим, в общем случае, с `IEnumerable`
 
 - `IEnumerable<T>.MoveNext()` позиционирует указатель записи только на следующий элемент
 - `IEnumerable<T>`

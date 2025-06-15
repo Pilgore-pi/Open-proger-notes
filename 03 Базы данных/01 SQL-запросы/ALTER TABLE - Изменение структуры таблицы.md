@@ -13,24 +13,30 @@ ALTER TABLE my_table [WITH CHECK | WITH NOCHECK]
 * Команды ADD & DROP могут принимать несколько параметров
 
 Например:
+
 ```sql
 ALTER TABLE Customer
 ADD Address NVARCHAR(50) NULL;
 ```
+
 Но если в таблице уже есть данные, нельзя будет добавить NOT NULL столбец, если для него не определено значение по умолчанию:
+
 ```sql
 ALTER TABLE Customer
 ADD Address NVARCHAR(50) NOT NULL DEFAULT 'Неизвестно';
 ```
 
 Добавление ограничения CHECK:
+
 ```sql
 ALTER TABLE Customer
 ADD CHECK (Age > 21);
 ```
+
 Если в таблице существуют данные не соответствующие новому ограничению, то произойдет ошибка. Чтобы в любом случае добавить ограничение нужно использовать параметр WITH NOCHECK, так как по умолчанию используется WITH CHECK.
 
 Добавление внешнего ключа как ограничения:
+
 ```sql
 ALTER TABLE Order
 ADD FOREIGN KEY(CustomerID) REFERENCES Customer(ID);
@@ -81,6 +87,6 @@ ALTER COLUMN my_col DECIMAL (5, 2) NOT NULL -- необязательно NOT NU
 TRUNCATE TABLE my_table
 ```
 
-Продолжение: [[Пакеты и команда GO]]
+Продолжение: [[Пакетные запросы и команда GO]]
 
 #DB #SQL #SQL/DDL

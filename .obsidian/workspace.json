@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Базы данных/Entity Framework/01 Введение в Entity Framework.md",
+                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Введение в Entity Framework"
+              "title": "02 Создание приложения на практике"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Базы данных/Entity Framework/01 Введение в Entity Framework.md",
+                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Введение в Entity Framework"
+              "title": "Структура 02 Создание приложения на практике"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Базы данных/Entity Framework/01 Введение в Entity Framework.md"
+                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для 01 Введение в Entity Framework"
+              "title": "Свойства файла для 02 Создание приложения на практике"
             }
           }
         ]
@@ -224,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "2913a87ade6e9414",
   "lastOpenFiles": [
+    "03 Базы данных/Entity Framework/01 Введение в Entity Framework.md",
     "03 Базы данных/Entity Framework/02 Проектирование моделей.md",
     "03 Базы данных/Entity Framework/03 Создание миграций.md",
     "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md",
@@ -251,7 +252,6 @@
     "03 Базы данных/01 SQL-запросы/JOIN (КАРТИНКИ).md",
     "03 Базы данных/05 Нормализация.md",
     "03 Базы данных/04 Внешние ключи и связи.md",
-    "03 Базы данных/03 Ключи.md",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",

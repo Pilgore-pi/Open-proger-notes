@@ -1,3 +1,5 @@
+# https://docs.umbraco.com/umbraco-cms/tutorials/getting-started-with-entity-framework-core
+
 Entity Framework Core представляет ORM-технологию (object-relational mapping - отображения данных на реальные объекты) от компании Microsoft. Фреймворк является open-source проектом, который работает поверх .Net и поддерживает несколько встроенных провайдеров для поддержки различных СУБД:
 
 * MS SQL Server

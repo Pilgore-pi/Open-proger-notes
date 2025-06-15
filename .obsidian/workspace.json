@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f73cad797fb0f478",
+        "id": "1b7f3ac2227689ab",
         "type": "tabs",
         "children": [
           {
-            "id": "2913a87ade6e9414",
+            "id": "636bb149fd39e110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02 Создание приложения на практике"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -152,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 02 Создание приложения на практике"
+              "title": "Структура"
             }
           },
           {
@@ -201,11 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Свойства файла для 02 Создание приложения на практике"
+              "title": "Свойства файла"
             }
           }
         ]
@@ -224,11 +217,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2913a87ade6e9414",
+  "active": "636bb149fd39e110",
   "lastOpenFiles": [
-    "03 Базы данных/Entity Framework/01 Введение в Entity Framework.md",
-    "03 Базы данных/Entity Framework/02 Проектирование моделей.md",
-    "03 Базы данных/Entity Framework/03 Создание миграций.md",
+    "03 Базы данных/Entity Framework Core/01 Введение в Entity Framework.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md",
+    "03 Базы данных/Entity Framework Core/02 Проектирование моделей.md",
+    "03 Базы данных/Entity Framework Core/03 Создание миграций.md",
     "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md",
     "03 Базы данных/01 SQL-запросы/Внешние ключи SQL.md",
     "03 Базы данных/01 SQL-запросы/Атрибуты. Ограничения столбцов и таблиц.md",
@@ -251,7 +245,6 @@
     "03 Базы данных/01 SQL-запросы/02 CREATE & DROP - Создание и удаление таблиц.md",
     "03 Базы данных/01 SQL-запросы/JOIN (КАРТИНКИ).md",
     "03 Базы данных/05 Нормализация.md",
-    "03 Базы данных/04 Внешние ключи и связи.md",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",

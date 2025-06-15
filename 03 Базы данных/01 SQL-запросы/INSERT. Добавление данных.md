@@ -46,6 +46,6 @@ VALUES ('iPhone 6S', 41000, 'Apple')
 INSERT INTO Product DEFAULT VALUES
 ```
 
-Продолжение: [[03 SELECT - Чтение данных]]
+Продолжение: [[04 SELECT - Чтение данных]]
 
 #DB #SQL #SQL/DML

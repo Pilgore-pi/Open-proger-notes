@@ -22,6 +22,6 @@ FROM
 AS Selected WHERE Selected.ID = Product.ID
 ```
 
-Продолжение: [[DELETE. Удаление данных]]
+Продолжение: [[DELETE - Удаление данных]]
 
 #DB #SQL #SQL/DML

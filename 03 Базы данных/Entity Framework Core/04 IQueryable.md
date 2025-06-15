@@ -137,7 +137,20 @@ var order = context.Orders.FirstOrDefault(o => o.Id == 1);
 var customer = order.Customer;
 ```
 
-При обраще
+```cs
+var orders = context.Orders.ToList();
+foreach (var order in orders)
+{
+    var customer = order.Customer; // Для каждого заказа выполняется отдельный запрос
+}
+```
+
+Если всего хранится 100 заказов, то будет выполнен **101 запрос**:
+
+- 1 запрос для загрузки всех заказов.
+- 100 запросов для загрузки данных о клиентах.
+
+При обращении к удаленным источникам данных, следует использовать **жадную загрузку** (`EagerLoading`) данных, при которой все данные загружаются сразу.
 
 ### Различия между `IEnumerable` и `IQueryable`
 

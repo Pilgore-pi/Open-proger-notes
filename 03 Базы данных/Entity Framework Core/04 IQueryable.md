@@ -110,7 +110,7 @@ public class User {
 | ---------------------------------------------------------------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------- |
 | `CreateQuery<T>(Expression expr)`                                                  | `IQueryable<T>` | Используется для создания запросов на основе дерева выражений. Это позволяет динамически строить запросы          |
 | `Execute<TResult>(Expression expr)`                                                | `TResult`       | Используется для выполнения запросов, которые возвращают одиночное значение (например, `Count`, `FirstOrDefault`) |
-| `Include<T,TProperty>(this IQueryable<T> src, Expression<Func<T,TProperty>> path)` | `IQueryable<T>` | `Expression` — лямбда-выражение, представляющее включаемый путь                                                   |
+| `Include<T,TProperty>(this IQueryable<T> src, Expression<Func<T,TProperty>> path)` | `IQueryable<T>` | `Expression` — лямбда-выражение, которое определяет через какие свойства будет п                                  |
 
 ```cs
 var countExpression = Expression.Call(

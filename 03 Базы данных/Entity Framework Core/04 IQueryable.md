@@ -1,6 +1,6 @@
 https://learn.microsoft.com/en-us/ef/core/querying/client-eval
 https://learn.microsoft.com/en-us/ef/core/querying/related-data/
-
+[Жизненный цикл запроса](https://learn.microsoft.com/en-us/ef/core/querying/how-query-works)
 > Интерфейс `IQueryable` предназначен для получения данных из удаленной БД. Запрос к данным выполняется на стороне сервера (где хранится БД). Провайдеры `IQueryable`, такие как **Entity Framework Core** и **NHibernate** преобразуют **LINQ**-запросы в **SQL**-запросы и позволяют применять дополнительные оптимизации
 
 **Определение:**

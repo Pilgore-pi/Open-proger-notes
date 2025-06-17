@@ -37,9 +37,11 @@ Microsoft.EntityFrameworkCore.Sqlite
 Microsoft.EntityFrameworkCore.Tools
 ```
 
+> Если ORM используется в проекте ASP.NET, то никаких доп. пакетов устанавливать не требуется
+
 > (ПРОВЕРИТЬ)SQLite не позволяет разграничивать доступ к данным и делать транзакции, но позволяет создавать триггеры
 
-#### Создание класса для взаимодействия с БД
+#### Контекст базы данных
 
 ```csharp
 using Microsoft.EntityFrameworkCore;
@@ -61,36 +63,37 @@ public class ApplicationContext : DbContext
 }
 ```
 
+Классы `DbContext` можно настраивать вручную или создавать миграции с помощью инструмента CLI **dotnet ef**. При использовании `dotnet ef` можно вообще не редактировать `DbConext`, так как при выполнении миграции, указывается класс контекста БД, для которого `dotnet ef` генерирует необходимый код
+
 * `bool EnsureCreated()` — создает БД или, в случае когда БД создана, но не имеет таблиц, создает таблицы в соответствии со схемой данных. Если какие-либо таблицы уже созданы, метод не оказывает никакого влияния. Возвращает `true`, если БД была создана с использованием этого метода, в противном случае — `false`
 
 Применение `ApplicationContext`
 
 ```csharp
-using (ApplicationContext db = new ApplicationContext())
-{
-    // создаем два объекта User
-    User tom = new User { Name = "Tom", Age = 33 };
-    User alice = new User { Name = "Alice", Age = 26 };
- 
-    // добавляем их в бд
-    db.Users.Add(tom);
-    db.Users.Add(alice);
-    db.SaveChanges();
-    Console.WriteLine("Объекты успешно сохранены");
- 
-    // получаем объекты из бд и выводим на консоль
-    var users = db.Users.ToList();
-    Console.WriteLine("Список объектов:");
-    foreach (User u in users)
-        Console.WriteLine($"{u.Id}.{u.Name} - {u.Age}");
-}
+using var db = new ApplicationContext();
+
+// создаем два объекта User
+var tom   = new User { Name = "Tom"  , Age = 33 };
+var alice = new User { Name = "Alice", Age = 26 };
+
+// добавляем их в бд
+db.Users.Add(tom);   // SQL: INSERT dfgmsldkfjg;hshfdg;
+db.Users.Add(alice);
+db.SaveChanges();    // фиксация транзакции
+Console.WriteLine("Объекты успешно сохранены");
+
+// получаем объекты из бд и выводим на консоль
+var users = db.Users.ToList();
+Console.WriteLine("Список объектов:");
+foreach (User u in users)
+    Console.WriteLine($"{u.Id}.{u.Name} - {u.Age}");
 ```
 
 ## Создание базы данных
 
-Создание делается через "миграции". Для этого нужно выполнить команду в консоли менеджера пакетов:
+Создание делается через "миграции". Для этого нужно выполнить команду в консоли менеджера пакетов (в Visual Studio):
 
-```
+```powershell
 Add-Migration InitialCreate
 
 // Удаление миграции выполняется через команду:
@@ -102,9 +105,14 @@ Remove-Migration
 **Запуск миграции**
 
 Это команда запустит все созданные миграции и создаст файл app.db:
-```
+```powershell
 Update-Database
 ```
+
+В IDE JetBrains Rider нет консоли менеджера пакетов, вместо нее используется специальный конструктор миграций, который можно вызвать в контекстном меню проекта (`ПКМ > Entity Framework Core`). Однако, чтобы использовать конструктор миграций, нужно установить расширение EF Core Tools
+
+Универсальным способом является CLI `dotnet ef`
+
 
 ### Как работают миграции
 

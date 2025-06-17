@@ -3,6 +3,8 @@ https://learn.microsoft.com/en-us/ef/core/querying/related-data/
 [Жизненный цикл запроса](https://learn.microsoft.com/en-us/ef/core/querying/how-query-works)
 > Интерфейс `IQueryable` предназначен для получения данных из удаленной БД. Запрос к данным выполняется на стороне сервера (где хранится БД). Провайдеры `IQueryable`, такие как **Entity Framework Core** и **NHibernate** преобразуют **LINQ**-запросы в **SQL**-запросы и позволяют применять дополнительные оптимизации
 
+EF Core doesn't support multiple parallel operations being run on the same context instance. You should always wait for an operation to complete before beginning the next operation
+
 **Определение:**
 
 ```

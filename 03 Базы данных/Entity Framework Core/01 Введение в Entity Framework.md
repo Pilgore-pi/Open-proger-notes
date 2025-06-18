@@ -8,13 +8,13 @@
 
 - **Entity Framework** -- устаревшая версия, используемая эксклюзивно под Windows
 
-- EF Core — полностью переписанная, open-source, современная и кроссплатформенная версия Entity Framework
+- **EF Core** — полностью переписанная, open-source, современная и кроссплатформенная версия Entity Framework
 
-| Характеристика | EF Core | Entity Framework |
+| Разрез анализа | EF Core | Entity Framework |
 |--|--|--|
 | Операционные системы | Windows, Linux, MacOS | Windows |
 | СУБД | Все популярные реляционные СУБД, нереляционные СУБД и СУБД от Microsoft | Только реляционные СУБД (SQL Server, Oracle, MySQL и др.) |
-| Платформа .NET | .NET 5+ | .NET 5+ |
+| [Платформа .NET](https://learn.microsoft.com/en-us/ef/core/miscellaneous/platforms) | .NET Core 3.1+, .NET 5+, .NET Standard 2.0+ | .NET 5+ |
 
 ## Провайдеры базы данных
 

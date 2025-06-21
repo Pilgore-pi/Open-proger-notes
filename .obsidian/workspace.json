@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Базы данных/Entity Framework Core/04 IQueryable.md",
+                "file": "02 Программирование/Git/04 Синхронизация с репозиторием.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 IQueryable"
+              "title": "04 Синхронизация с репозиторием"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Базы данных/Entity Framework Core/04 IQueryable.md",
+                "file": "02 Программирование/Git/04 Синхронизация с репозиторием.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04 IQueryable"
+              "title": "Структура 04 Синхронизация с репозиторием"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Базы данных/Entity Framework Core/04 IQueryable.md"
+                "file": "02 Программирование/Git/04 Синхронизация с репозиторием.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для 04 IQueryable"
+              "title": "Свойства файла для 04 Синхронизация с репозиторием"
             }
           }
         ]
@@ -226,6 +226,7 @@
   },
   "active": "473d2305f81d1868",
   "lastOpenFiles": [
+    "03 Базы данных/Entity Framework Core/04 IQueryable.md",
     "ОбменERP_БП.cfe",
     "PhoneCatalog.rar",
     "03 Базы данных/Entity Framework Core/Провайдеры БД.md",
@@ -240,7 +241,6 @@
     "03 Базы данных/Entity Framework Core/05 Индексы.md",
     "z_templates/Описание_методов.md",
     "z_templates/Сравнение.md",
-    "03 Базы данных/Entity Framework Core/04 IQueryable.md",
     "z_templates/Описание_свойств.md",
     "z_templates/Преимущества_и_недостатки.md",
     "03 Базы данных/Entity Framework Core/02 Проектирование моделей.md",
@@ -261,7 +261,6 @@
     "COM_syncronization.epf",
     "Files/aspnetHTMLexample.html",
     "02 Программирование/01 .NET/04 Сети в .NET/ASP.NET",
-    "02 Программирование/01 .NET/04 Сети в .NET/System.Net",
     "Files/1С_Async1.png",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",

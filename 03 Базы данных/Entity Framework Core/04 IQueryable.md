@@ -7,7 +7,7 @@ EF Core doesn't support multiple parallel operations being run on the same conte
 
 **Определение:**
 
-```
+```cs
 public interface IQueryable        : System.Collections.IEnumerable
 public interface IQueryable<out T> : System.Collections.Generic.IEnumerable<out T>, System.Linq.IQueryable
 ```

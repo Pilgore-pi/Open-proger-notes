@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea5a2c2e7635f3cc",
+        "id": "03fad4b21d1d534a",
         "type": "tabs",
         "children": [
           {
-            "id": "269e7e450f0a15f2",
+            "id": "3aaed98b2df458b3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/z_Legacy/FoxPro 2.6/Remote connection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Remote connection"
+              "title": "Структура"
             }
           },
           {
@@ -197,11 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02 Программирование/z_Legacy/FoxPro 2.6/Remote connection.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Свойства файла для Remote connection"
+              "title": "Свойства файла"
             }
           }
         ]
@@ -220,8 +217,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "3aaed98b2df458b3",
   "lastOpenFiles": [
+    "02 Программирование/z_Legacy/FoxPro 2.6/Remote connection.md",
     "Files/Текстовые документы/~$сперименты производительности WPF.docx",
     "02 Программирование/z_Legacy",
     "02 Программирование/z_Legacy/FoxPro 2.6/GUI/03 Меню.md",
@@ -230,7 +228,6 @@
     "02 Программирование/z_Legacy/FoxPro 2.6/01 Введение в СУБД FoxPro.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/Чем отличаются языки dbase & xbase.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/DBF convertion.md",
-    "02 Программирование/z_Legacy/FoxPro 2.6/Remote connection.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/Случайные значения.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/06 Блокировки.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/02 Структура проекта FoxPro 2.6.md",
@@ -257,7 +254,6 @@
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",
     "COM_syncronization_async.epf",
-    "COM_syncronizationUpd.epf",
     "Files/1С_Async1.png",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",

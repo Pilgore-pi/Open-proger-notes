@@ -117,6 +117,8 @@ void loop() {
 
 Этот план позволит создать энергоэффективные светильники с гибким управлением. Для упрощения можно использовать готовые наборы адресных светодиодов (например, NeoPixel) и шаблоны приложений из открытых репозиториев.
 
+#Идеи_проектов #
+
 Цитаты:
 [1] Как я захотел переделать освещение в подъезде на два контура ... https://pikabu.ru/story/kak_ya_zakhotel_peredelat_osveshchenie_v_podezde_na_dva_kontura_tusklyiy_i_yarkiy_i_syekonomil_200_tr_za_schyot_ispolzovaniya_umnogo_doma_11994758
 [2] КАК СДЕЛАТЬ УПРАВЛЕНИЕ ОСВЕЩЕНИЕМ ОТ СМАРТФОНА https://www.youtube.com/watch?v=C8obj-trz5g

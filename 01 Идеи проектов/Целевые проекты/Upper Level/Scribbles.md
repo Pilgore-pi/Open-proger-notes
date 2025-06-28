@@ -20,3 +20,5 @@ prUPPER_SNAKE
 
 ----
 obsidian vault to HTML site (No JS, include CSS (optionally))
+
+#Идеи_проектов #Идеи_проектов/Upper_Level

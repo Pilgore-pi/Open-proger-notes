@@ -11,10 +11,14 @@
             "id": "46648245bfd37404",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GPT/Сохраненные диалоги GPT4/Dotnet/Параллельные сообщения.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Параллельные сообщения"
             }
           }
         ]
@@ -148,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "GPT/Сохраненные диалоги GPT4/Dotnet/Параллельные сообщения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Параллельные сообщения"
             }
           },
           {
@@ -196,9 +201,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "GPT/Сохраненные диалоги GPT4/Dotnet/Параллельные сообщения.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для Параллельные сообщения"
             }
           }
         ]
@@ -219,6 +226,12 @@
   },
   "active": "46648245bfd37404",
   "lastOpenFiles": [
+    "GPT/Сохраненные диалоги GPT4/Docker/Apache configuration.md",
+    "GPT/Промпты ChatGPT.md",
+    "GPT/Гайд ChatGPT.md",
+    "GPT/Стоимость ChatGPT.md",
+    "GPT/Бесплатный GPT4.md",
+    "10 Компьютерная инженерия/~$ория компьютерного дела.docx",
     "10 Компьютерная инженерия/_Процессор.md",
     "10 Компьютерная инженерия/03 Процессор.md",
     "10 Компьютерная инженерия/_Память.md",
@@ -248,17 +261,11 @@
     "Files/Шрифты/Jost/static/Jost-Medium.ttf",
     "Files/Шрифты/Jost/static/Jost-LightItalic.ttf",
     "Files/Шрифты/Jost/static/Jost-Light.ttf",
-    "Files/Шрифты/Jost/static/Jost-Italic.ttf",
     "02 Программирование/z_Legacy/FoxPro 2.6/Remote connection.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/GUI/03 Меню.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/GUI/02 Создание элементов формы в коде.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/GUI/01 Формы в FoxPro.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/01 Введение в СУБД FoxPro.md",
-    "02 Программирование/z_Legacy/FoxPro 2.6/Чем отличаются языки dbase & xbase.md",
-    "02 Программирование/z_Legacy/FoxPro 2.6/DBF convertion.md",
-    "02 Программирование/z_Legacy/FoxPro 2.6/Случайные значения.md",
-    "02 Программирование/z_Legacy/FoxPro 2.6/06 Блокировки.md",
-    "02 Программирование/z_Legacy/FoxPro 2.6/02 Структура проекта FoxPro 2.6.md",
     "Files/1С_Async1.png",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",

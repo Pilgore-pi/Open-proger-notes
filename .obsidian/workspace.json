@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/ПРИНЯТЬ К СВЕДЕНИЮ.md",
+                "file": "08 Методологии разработки/DevOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ПРИНЯТЬ К СВЕДЕНИЮ"
+              "title": "DevOps"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Идеи проектов/ПРИНЯТЬ К СВЕДЕНИЮ.md",
+                "file": "08 Методологии разработки/DevOps.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ПРИНЯТЬ К СВЕДЕНИЮ"
+              "title": "Структура DevOps"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 Идеи проектов/ПРИНЯТЬ К СВЕДЕНИЮ.md"
+                "file": "08 Методологии разработки/DevOps.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для ПРИНЯТЬ К СВЕДЕНИЮ"
+              "title": "Свойства файла для DevOps"
             }
           }
         ]
@@ -226,9 +226,11 @@
   },
   "active": "473d2305f81d1868",
   "lastOpenFiles": [
-    "01 Идеи проектов/Графика/Визуализация математики.md",
+    "02 Программирование/Ячейка памяти.md",
     "01 Идеи проектов/Web crawler.md",
     "01 Идеи проектов/Стиль для программ.md",
+    "01 Идеи проектов/ПРИНЯТЬ К СВЕДЕНИЮ.md",
+    "01 Идеи проектов/Графика/Визуализация математики.md",
     "01 Идеи проектов/Хакерство/Metadata reader.md",
     "01 Идеи проектов/Хакерство/Шпионское ПО.md",
     "01 Идеи проектов/Хакерство/Вирусы.md",
@@ -253,8 +255,6 @@
     "03 Базы данных/Entity Framework Core/04 IQueryable.md",
     "ОбменERP_БП.cfe",
     "PhoneCatalog.rar",
-    "03 Базы данных/Entity Framework Core/Провайдеры БД.md",
-    "03 Базы данных/Entity Framework Core/13 Производительность.md",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",

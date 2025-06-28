@@ -90,3 +90,5 @@ ENDIF
 
 RETURN IIF(ISNULL(m.r), "", m.r)
 ```
+
+#Legacy #FoxPro

@@ -47,4 +47,4 @@ SET
 SET(<параметр>[, 1])
 ```
 
-#FoxPro
+#Legacy #FoxPro

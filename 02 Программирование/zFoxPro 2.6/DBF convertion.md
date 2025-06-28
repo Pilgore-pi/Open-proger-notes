@@ -27,3 +27,5 @@ or XLS:
 ```foxpro
 copy to myfile.xls type xl5
 ```
+
+#Legacy #FoxPro

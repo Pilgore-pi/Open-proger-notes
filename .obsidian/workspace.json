@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 ССЫЛКИ.md",
+                "file": "05 Тестирование/02 Модульное тестирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 ССЫЛКИ"
-            }
-          },
-          {
-            "id": "a4769a98d12e7ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "orphaned files output.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "orphaned files output"
+              "title": "02 Модульное тестирование"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orphaned files output.md",
+                "file": "05 Тестирование/02 Модульное тестирование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура orphaned files output"
+              "title": "Структура 02 Модульное тестирование"
             }
           },
           {
@@ -217,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "orphaned files output.md"
+                "file": "05 Тестирование/02 Модульное тестирование.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для orphaned files output"
+              "title": "Свойства файла для 02 Модульное тестирование"
             }
           }
         ]
@@ -239,10 +224,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4769a98d12e7ef1",
+  "active": "3aaed98b2df458b3",
   "lastOpenFiles": [
-    "00 ССЫЛКИ.md",
+    "05 Тестирование/01 Введение в тестирование.md",
+    "Указатель терминов.md",
+    "MathJax (LaTeX).md",
     "orphaned files output.md",
+    "00 ССЫЛКИ.md",
     "empty files.md",
     "Классификация основных файловых форматов.md",
     "Регулярные выражения.md",
@@ -277,9 +265,6 @@
     "02 Программирование/z_Legacy/FoxPro 2.6/Конспект по языкам DBase, FoxPro.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/Разное.md",
     "02 Программирование/02 1С - Предприятие/03 Язык запросов/01 Введение в язык запросов 1С.md",
-    "MERGE_NOTES/Пакет 10/Язык запросов.md",
-    "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Ну, разное.md",
-    "02 Программирование/02 1С - Предприятие/01 Конфигурация/Функциональные опции.md",
     "Files/1С_Async1.png",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",

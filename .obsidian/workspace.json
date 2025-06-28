@@ -11,13 +11,32 @@
             "id": "3aaed98b2df458b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 ССЫЛКИ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "00 ССЫЛКИ"
+            }
+          },
+          {
+            "id": "a4769a98d12e7ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orphaned files output.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "orphaned files output"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "orphaned files output.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура orphaned files output"
             }
           },
           {
@@ -196,9 +216,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "orphaned files output.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для orphaned files output"
             }
           }
         ]
@@ -217,8 +239,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "a4769a98d12e7ef1",
   "lastOpenFiles": [
+    "00 ССЫЛКИ.md",
+    "orphaned files output.md",
+    "empty files.md",
+    "Классификация основных файловых форматов.md",
+    "Регулярные выражения.md",
+    "Files/Fonts3.png",
+    "Files/Fonts2.png",
+    "Files/Fonts1.png",
     "Files/Шрифты/Jost/static/Jost-ThinItalic.ttf",
     "Files/Шрифты/Jost/static/Jost-Thin.ttf",
     "Files/Шрифты/Jost/static/Jost-SemiBoldItalic.ttf",
@@ -229,7 +259,6 @@
     "Files/Шрифты/Jost/static/Jost-LightItalic.ttf",
     "Files/Шрифты/Jost/static/Jost-Light.ttf",
     "Files/Шрифты/Jost/static/Jost-Italic.ttf",
-    "Files/Шрифты/Jost/static/Jost-ExtraLightItalic.ttf",
     "02 Программирование/z_Legacy/FoxPro 2.6/Remote connection.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/GUI/03 Меню.md",
     "02 Программирование/z_Legacy/FoxPro 2.6/GUI/02 Создание элементов формы в коде.md",
@@ -251,10 +280,6 @@
     "MERGE_NOTES/Пакет 10/Язык запросов.md",
     "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Ну, разное.md",
     "02 Программирование/02 1С - Предприятие/01 Конфигурация/Функциональные опции.md",
-    "02 Программирование/02 1С - Предприятие/01 Конфигурация/Система прав доступа.md",
-    "MERGE_NOTES/Пакет 10/Формы.md",
-    "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Программное управление формами/Программное изменение форм.md",
-    "02 Программирование/02 1С - Предприятие/04 GUI/Программная настройка форм.md",
     "Files/1С_Async1.png",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",
@@ -262,9 +287,6 @@
     "Files/1C Shape-files.gif",
     "Files/apptempl.gif",
     "07 Математика/Теория вероятностей/Тетрадь - Теорвер/4TP_1.jpg",
-    "Files/Presentation_app_domain.png",
-    "Files/1С Интерфейс клиентского приложения.png",
-    "Files/1С Архитектура платформы.png",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "Без названия.canvas"

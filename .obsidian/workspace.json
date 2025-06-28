@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/Git/02 Введение в Git.md",
+                "file": "01 Идеи проектов/Развитие проектов/Find and Replace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Введение в Git"
+              "title": "Find and Replace"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/Git/02 Введение в Git.md",
+                "file": "01 Идеи проектов/Развитие проектов/Find and Replace.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 02 Введение в Git"
+              "title": "Структура Find and Replace"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/Git/02 Введение в Git.md"
+                "file": "01 Идеи проектов/Развитие проектов/Find and Replace.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для 02 Введение в Git"
+              "title": "Свойства файла для Find and Replace"
             }
           }
         ]
@@ -226,8 +226,11 @@
   },
   "active": "473d2305f81d1868",
   "lastOpenFiles": [
-    "Регулярные выражения.md",
+    "01 Идеи проектов/Развитие проектов/Findlancer.md",
+    "01 Идеи проектов/Развитие проектов/Find and Replace.md",
+    "01 Идеи проектов/Гов..1С/Как исправить 1С.md",
     "02 Программирование/Git/02 Введение в Git.md",
+    "Регулярные выражения.md",
     "02 Программирование/02 1С - Предприятие/Конфигурация 1С ERP/Ресурсные спецификации.md",
     "02 Программирование/Git/Задача 02. Обновление удаленного репозитория.md",
     "02 Программирование/Git/Задача 01. Создание удаленного репозитория.md",
@@ -251,9 +254,6 @@
     "z_templates/Преимущества_и_недостатки.md",
     "03 Базы данных/Entity Framework Core/02 Проектирование моделей.md",
     "03 Базы данных/Entity Framework Core/03 Создание миграций.md",
-    "03 Базы данных/Entity Framework Core/01 Введение в Entity Framework.md",
-    "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/02 Создание приложения на практике.md",
-    "03 Базы данных/01 SQL-запросы/Пакетные запросы и команда GO.md",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",

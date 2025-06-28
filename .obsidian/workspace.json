@@ -34,20 +34,6 @@
               "icon": "lucide-file",
               "title": "00 ССЫЛКИ"
             }
-          },
-          {
-            "id": "de0e702460699a15",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://tilda.cc/ru/",
-                "title": "Создать сайт бесплатно — конструктор сайтов с нуля Tilda Publishing",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Создать сайт бесплатно — конструктор сайтов с нуля Tilda Publishing"
-            }
           }
         ],
         "currentTab": 1

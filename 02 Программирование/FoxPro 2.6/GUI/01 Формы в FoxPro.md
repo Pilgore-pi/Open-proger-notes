@@ -166,4 +166,4 @@ READ;
  | [COLOR <color_pair_list> / COLOR SCHEME <схема>]
 ```
 
-#FoxPro
+#Legacy #FoxPro

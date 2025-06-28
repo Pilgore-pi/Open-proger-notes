@@ -281,4 +281,4 @@ public class Rating
 }
 ```
 
-#Идеи_проектов/Multiverbum
+#Идеи_проектов #Идеи_проектов/Multiverbum

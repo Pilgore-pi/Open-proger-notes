@@ -53,4 +53,4 @@ HD, FHD, UHD, 4K, 8K...
 * [YouTube](https://www.youtube.com/watch?v=lwyErX57y1s)
 * [Сайт](https://www.comss.ru/page.php?id=7315)
 
-#Идеи_проектов/Multiverbum
+#Идеи_проектов #Идеи_проектов/Multiverbum

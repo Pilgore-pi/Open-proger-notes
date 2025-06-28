@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPT/Сохраненные диалоги GPT4/English/efficient & effective.md",
+                "file": "00 ССЫЛКИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "efficient & effective"
+              "title": "00 ССЫЛКИ"
+            }
+          },
+          {
+            "id": "de0e702460699a15",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://tilda.cc/ru/",
+                "title": "Создать сайт бесплатно — конструктор сайтов с нуля Tilda Publishing",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Создать сайт бесплатно — конструктор сайтов с нуля Tilda Publishing"
             }
           }
         ],
@@ -167,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPT/Сохраненные диалоги GPT4/English/efficient & effective.md",
+                "file": "00 ССЫЛКИ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура efficient & effective"
+              "title": "Структура 00 ССЫЛКИ"
             }
           },
           {
@@ -217,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GPT/Сохраненные диалоги GPT4/English/efficient & effective.md"
+                "file": "00 ССЫЛКИ.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для efficient & effective"
+              "title": "Свойства файла для 00 ССЫЛКИ"
             }
           }
         ]
@@ -241,9 +255,12 @@
   },
   "active": "6c55b5412bd6d3f3",
   "lastOpenFiles": [
-    "Список программ для установки на свежую систему.md",
-    "Ресурсы.md",
     "00 ССЫЛКИ.md",
+    "Классификация основных файловых форматов.md",
+    "Регулярные выражения.md",
+    "Ресурсы.md",
+    "Список программ для установки на свежую систему.md",
+    "GPT/Сохраненные диалоги GPT4/English/efficient & effective.md",
     "02 Программирование/Системы контейнеризации и оркестрации/Docker/Apache configuration.md",
     "12 Разное/Консоль кода06.epf",
     "02 Программирование/Системы контейнеризации и оркестрации/Docker/Site Apache & MySQL 2.md",
@@ -254,7 +271,6 @@
     "02 Программирование/06 Мобильная разработка/Kotlin/GoogleTranslateService Kotlin.md",
     "02 Программирование/06 Мобильная разработка/Kotlin/Калькулятор Kotlin.md",
     "02 Программирование/06 Мобильная разработка/Kotlin/Аннотации Kotlin.md",
-    "GPT/Сохраненные диалоги GPT4/English/efficient & effective.md",
     "GPT/Сохраненные диалоги GPT4/Dotnet/GitHub sync.md",
     "GPT/Сохраненные диалоги GPT4/Dotnet/Фоновое приложение.md",
     "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/Параллельные сообщения.md",
@@ -268,8 +284,6 @@
     "10 Компьютерная инженерия/_Память.md",
     "06 Информационная безопасность/any2fbimgloader0.jpeg",
     "06 Информационная безопасность/Термины, темы и вопросы для подробного освещения.md",
-    "06 Информационная безопасность/Радужные таблицы.md",
-    "06 Информационная безопасность/Криптография.md",
     "Files/Fonts3.png",
     "Files/Fonts2.png",
     "Files/Fonts1.png",

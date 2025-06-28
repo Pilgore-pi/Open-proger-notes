@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPT/Сохраненные диалоги GPT4/Dotnet/Фоновое приложение.md",
+                "file": "GPT/Сохраненные диалоги GPT4/Kotlin/Аннотации Kotlin.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фоновое приложение"
+              "title": "Аннотации Kotlin"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPT/Сохраненные диалоги GPT4/Dotnet/Фоновое приложение.md",
+                "file": "GPT/Сохраненные диалоги GPT4/Kotlin/Аннотации Kotlin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Фоновое приложение"
+              "title": "Структура Аннотации Kotlin"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GPT/Сохраненные диалоги GPT4/Dotnet/Фоновое приложение.md"
+                "file": "GPT/Сохраненные диалоги GPT4/Kotlin/Аннотации Kotlin.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Фоновое приложение"
+              "title": "Свойства файла для Аннотации Kotlin"
             }
           }
         ]
@@ -226,8 +226,10 @@
   },
   "active": "d28350474a6d3132",
   "lastOpenFiles": [
-    "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/Параллельные сообщения.md",
+    "GPT/Сохраненные диалоги GPT4/English/efficient & effective.md",
+    "GPT/Сохраненные диалоги GPT4/Dotnet/GitHub sync.md",
     "GPT/Сохраненные диалоги GPT4/Dotnet/Фоновое приложение.md",
+    "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/Параллельные сообщения.md",
     "07 Администрирование/Командные оболочки/03 Язык PowerShell/gpt.md",
     "GPT/Сохраненные диалоги GPT4/Docker/Apache configuration.md",
     "GPT/Промпты ChatGPT.md",
@@ -264,8 +266,6 @@
     "Files/Шрифты/Jost/static/Jost-Medium.ttf",
     "Files/Шрифты/Jost/static/Jost-LightItalic.ttf",
     "Files/Шрифты/Jost/static/Jost-Light.ttf",
-    "02 Программирование/z_Legacy/FoxPro 2.6/Remote connection.md",
-    "02 Программирование/z_Legacy/FoxPro 2.6/GUI/03 Меню.md",
     "Files/1С_Async1.png",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",

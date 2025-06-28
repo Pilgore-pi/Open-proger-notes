@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Стиль для программ.md",
+                "file": "01 Идеи проектов/ПРИНЯТЬ К СВЕДЕНИЮ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стиль для программ"
+              "title": "ПРИНЯТЬ К СВЕДЕНИЮ"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Идеи проектов/Стиль для программ.md",
+                "file": "01 Идеи проектов/ПРИНЯТЬ К СВЕДЕНИЮ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Стиль для программ"
+              "title": "Структура ПРИНЯТЬ К СВЕДЕНИЮ"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 Идеи проектов/Стиль для программ.md"
+                "file": "01 Идеи проектов/ПРИНЯТЬ К СВЕДЕНИЮ.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Стиль для программ"
+              "title": "Свойства файла для ПРИНЯТЬ К СВЕДЕНИЮ"
             }
           }
         ]
@@ -226,6 +226,9 @@
   },
   "active": "473d2305f81d1868",
   "lastOpenFiles": [
+    "01 Идеи проектов/Графика/Визуализация математики.md",
+    "01 Идеи проектов/Web crawler.md",
+    "01 Идеи проектов/Стиль для программ.md",
     "01 Идеи проектов/Хакерство/Metadata reader.md",
     "01 Идеи проектов/Хакерство/Шпионское ПО.md",
     "01 Идеи проектов/Хакерство/Вирусы.md",
@@ -252,9 +255,6 @@
     "PhoneCatalog.rar",
     "03 Базы данных/Entity Framework Core/Провайдеры БД.md",
     "03 Базы данных/Entity Framework Core/13 Производительность.md",
-    "03 Базы данных/Entity Framework Core/12 SQL запросы в коде.md",
-    "03 Базы данных/Entity Framework Core/11 Пакетные запросы.md",
-    "03 Базы данных/Entity Framework Core/10 Разделяемые запросы.md",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
     "COM_syncronization_sync.epf",

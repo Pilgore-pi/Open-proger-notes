@@ -332,6 +332,7 @@ MODIFY PROJECT u10.PJX NOWA  && Открытие проекта
 - Использовать более современные методы обработки событий
 - Добавить проверку существования файлов меню и проекта
 
+#FoxPro
 <div style="text-align: center">⁂</div>
 
 [^2_1]: https://foxdos.narod.ru/Prog_1.htm

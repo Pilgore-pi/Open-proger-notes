@@ -165,3 +165,5 @@ READ;
  | [LOCK / NOLOCK]
  | [COLOR <color_pair_list> / COLOR SCHEME <схема>]
 ```
+
+#FoxPro

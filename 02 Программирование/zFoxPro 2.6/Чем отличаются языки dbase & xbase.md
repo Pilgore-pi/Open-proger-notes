@@ -1,7 +1,5 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# 
-
 ---
 
 # Чем отличаются языки dbase \& xbase
@@ -428,6 +426,7 @@ ENDDEFINE
 
 Несмотря на прекращение официальной поддержки, архитектурные решения VFP остаются актуальными, предлагая ценный опыт совмещения процедурных и объектных парадигм. Дальнейшее исследование могло бы быть направлено на анализ современных open-source реализаций xBase (Harbour, xHarbour) и их подходов к реализации ООП-концепций.
 
+#FoxPro
 <div style="text-align: center">⁂</div>
 
 [^2_1]: http://www.codenet.ru/db/vfp/foxbasics.php

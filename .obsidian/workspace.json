@@ -217,8 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aaed98b2df458b3",
+  "active": "c900ac5ff9c19205",
   "lastOpenFiles": [
+    "Files/Шрифты/Comfortaa/Comfortaa-VariableFont_wght.ttf",
+    "Files/Шрифты/Comfortaa",
+    "Files/Шрифты/Новая папка",
     "02 Программирование/z_Legacy/FoxPro 2.6/Remote connection.md",
     "Files/Текстовые документы/~$сперименты производительности WPF.docx",
     "02 Программирование/z_Legacy",
@@ -252,8 +255,6 @@
     "PhoneCatalog.rar",
     "Files/ASP.NET_SQL_TABLE_EXAMPLE_01.html",
     "08 Методологии разработки",
-    "COM_syncronization_sync.epf",
-    "COM_syncronization_async.epf",
     "Files/1С_Async1.png",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",

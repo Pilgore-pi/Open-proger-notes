@@ -80,8 +80,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d34781bcf16267d7",
+  "active": "c900ac5ff9c19205",
   "lastOpenFiles": [
     "03 Базы данных/Entity Framework Core/07 Поля.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Обработка данных/Склонения.md",

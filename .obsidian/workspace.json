@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Идеи_проектов/Multiverbum",
+                "query": "tag:#DB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c55b5412bd6d3f3",
+  "active": "d34781bcf16267d7",
   "lastOpenFiles": [
     "03 Базы данных/Entity Framework Core/07 Поля.md",
     "02 Программирование/02 1С - Предприятие/Каталог инструментов/Обработка данных/Склонения.md",

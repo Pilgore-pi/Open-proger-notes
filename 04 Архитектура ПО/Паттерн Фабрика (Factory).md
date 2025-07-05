@@ -1,21 +1,22 @@
 
-Паттерн **Factory Method (Фабричный метод)** — это порождающий шаблон проектирования, который определяет интерфейс для создания объектов, но делегирует решение о том, какой конкретно объект создавать, подклассам. Это позволяет сделать систему более гибкой и расширяемой, так как добавление новых типов объектов не требует изменения существующего кода, а лишь создания новых подклассов с нужной логикой создания объектов[^1_1][^1_3][^1_5]
+> Паттерн **Factory Method (Фабричный метод)** — это порождающий шаблон проектирования, который определяет интерфейс для создания объектов, но делегирует решение о том, какой конкретно объект создавать, подклассам.
+
+Это позволяет сделать систему более гибкой и расширяемой, так как добавление новых типов объектов не требует изменения существующего кода, а лишь создания новых подклассов с нужной логикой создания объектов[^1_1][^1_3][^1_5]
 
 ### Когда использовать Factory Method?
 
-- Когда заранее неизвестно, объекты каких классов нужно создавать.
+- Когда заранее неизвестно, объекты каких классов нужно создавать
 
-- Когда нужно делегировать создание объектов подклассам.
+- Когда нужно делегировать создание объектов подклассам
 
-- Чтобы избежать жесткой привязки к конкретным классам и упростить расширение системы новыми типами объектов[^1_1][^1_3][^1_5].
+- Чтобы избежать жесткой привязки к конкретным классам и упростить расширение системы новыми типами объектов[^1_1][^1_3][^1_5]
 
 ### Пример реализации Factory Method на C\#
 
 ```csharp
-
 // Абстрактный продукт
 public abstract class Transport {
-    public abstract void Deliver();
+    public abstract void Deliver();
 }
 
 // Конкретные продукты
@@ -33,41 +34,41 @@ public class Ship : Transport {
 
 // Абстрактный создатель
 public abstract class Logistics {
-
-    // Фабричный метод
-    public abstract Transport CreateTransport();
-
-    public void PlanDelivery() {
-    
-        // Используем фабричный метод для получения объекта
-        Transport transport = CreateTransport();
-        transport.Deliver();
-    }
+    
+    // Фабричный метод
+    public abstract Transport CreateTransport();
+    
+    public void PlanDelivery() {
+        
+        // Используем фабричный метод для получения объекта
+        Transport transport = CreateTransport();
+        transport.Deliver();
+    }
 }
 
 // Конкретные создатели
 public class RoadLogistics : Logistics {
-    public override Transport CreateTransport() {
-        return new Truck();
-    }
+    public override Transport CreateTransport() {
+        return new Truck();
+    }
 }
 
 public class SeaLogistics : Logistics {
-    public override Transport CreateTransport() {
-        return new Ship();
-    }
+    public override Transport CreateTransport() {
+        return new Ship();
+    }
 }
 
 // Использование
 class Program {
-    static void Main() {
-
-        Logistics logistics = new RoadLogistics();
-        logistics.PlanDelivery();  // Выведет: Доставка грузовиком
-
-        logistics = new SeaLogistics();
-        logistics.PlanDelivery();  // Выведет: Доставка кораблем
-    }
+    static void Main() {
+        
+        Logistics logistics = new RoadLogistics();
+        logistics.PlanDelivery();  // Выведет: Доставка грузовиком
+        
+        logistics = new SeaLogistics();
+        logistics.PlanDelivery();  // Выведет: Доставка кораблем
+    }
 }
 ```
 
@@ -83,7 +84,6 @@ class Program {
 
 <div style="text-align: center">⁂</div>
 
-  
 [^1_1]: https://metanit.com/sharp/patterns/2.1.php
 [^1_2]: https://vertex-academy.com/tutorials/ru/pattern-factory-java/
 [^1_3]: https://habr.com/ru/articles/556512/

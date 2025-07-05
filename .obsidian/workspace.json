@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/01 План разработки.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/03 Проект YourCoreFunctionality.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 План разработки"
+              "title": "03 Проект YourCoreFunctionality"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/01 План разработки.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/03 Проект YourCoreFunctionality.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 План разработки"
+              "title": "Структура 03 Проект YourCoreFunctionality"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/01 План разработки.md"
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/03 Проект YourCoreFunctionality.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для 01 План разработки"
+              "title": "Свойства файла для 03 Проект YourCoreFunctionality"
             }
           }
         ]
@@ -227,10 +227,10 @@
   "active": "6c55b5412bd6d3f3",
   "lastOpenFiles": [
     "01 Идеи проектов/Дерево зависимостей Upper Level.drawio.crswap",
+    "01 Идеи проектов/Целевые проекты/Upper Level/01 План разработки.md",
     "01 Идеи проектов/Дерево зависимостей Upper Level.drawio",
     "01 Идеи проектов/Модули Core Functionality.drawio.crswap",
     "01 Идеи проектов/Целевые проекты/Upper Level/00 Название приложения.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/01 План разработки.md",
     "02 Программирование/41 IT-технологии и лицензии.md",
     "02 Программирование/05 Десктопная разработка/Avalonia (.Net)/Ресурсы.md",
     "02 Программирование/02 1С - Предприятие/Конфигурация 1С ERP/Ресурсное планирование.md",
@@ -265,7 +265,6 @@
     "Files/Шрифты/Jost/static/Jost-ThinItalic.ttf",
     "Files/Шрифты/Jost/static/Jost-Thin.ttf",
     "Files/Шрифты/Jost/static/Jost-SemiBoldItalic.ttf",
-    "Files/Шрифты/Jost/static/Jost-SemiBold.ttf",
     "Files/1С_Async1.png",
     "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
     "Files/1C_Редактор_граф_схемы_прил.png",

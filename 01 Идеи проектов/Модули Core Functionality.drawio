@@ -12,7 +12,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-3" value="Позволяет программно задавать иконки для ярлыков, папок и файлов. На вход можно передать маппер" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-2">
           <mxGeometry y="30" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-8" value="FileIconSetter" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-8" value="TextProcessor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;" vertex="1" parent="1">
           <mxGeometry x="140" y="290" width="250" height="100" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>

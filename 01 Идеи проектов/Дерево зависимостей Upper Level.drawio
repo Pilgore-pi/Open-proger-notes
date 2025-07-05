@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="2">
   <diagram id="LIL5fh-anm8q5ZdmFxx9" name="Дерево функционала">
-    <mxGraphModel dx="2658" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2395" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,7 +144,7 @@
           <mxGeometry y="30" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-46" value="Machine code&amp;nbsp;&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=JetBrains+Mono&quot; face=&quot;JetBrains Mono&quot;&gt;0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="10" width="130" height="30" as="geometry" />
+          <mxGeometry x="2150" y="10" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-47" value="AppInstaller" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;strokeColor=light-dark(#36393D,#D5D500);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=light-dark(#FFFF88,#4E4E00);" vertex="1" parent="1">
           <mxGeometry x="1000" y="170" width="250" height="70" as="geometry">
@@ -233,8 +233,8 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-68" value="API for updating the main app &quot;UpperLevel&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-67">
           <mxGeometry y="30" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-70" value="Native implementations of interfaces and methods source code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1555" y="110" width="180" height="70" as="geometry" />
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-70" value="Native implementations of interfaces and methods source code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="75" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-71" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;curved=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -242,8 +242,8 @@
             <mxPoint x="1310" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-72" value="Low-level computer instructions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="100" width="170" height="40" as="geometry" />
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-72" value="Low-level computer instructions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="90" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-74" value="RasterImageApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="345" y="660" width="265" height="60" as="geometry">
@@ -277,7 +277,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-81" value="&lt;div&gt;One of mail services implementations&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-80">
           <mxGeometry y="30" width="265" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-86" value="user32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-86" value="user32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="60" width="310" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -285,7 +285,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-87" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font&gt;Управление пользовательским интерфейсом: окна, сообщения, обработка событий, меню, клавиатура, мышь&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-86">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-88" value="kernel32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-88" value="kernel32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="150" width="310" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -293,7 +293,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-89" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Базовые функции ОС: управление памятью, процессами, потоками, файлами, синхронизация&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-88">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-90" value="gdi32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-90" value="gdi32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="240" width="310" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -301,7 +301,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-91" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Графический вывод: рисование, работа с изображениями, шрифтами, вывод на экран и принтер&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-90">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-92" value="advapi32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-92" value="advapi32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="330" width="310" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -309,7 +309,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-93" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Расширенные функции: работа с реестром, безопасностью, службами, журналами событий&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-92">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-94" value="shell32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-94" value="shell32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="420" width="310" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -317,7 +317,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-95" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Функции оболочки Windows: работа с рабочим столом, ярлыками, запуск программ, диалоги Проводника&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-94">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-96" value="comdlg32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-96" value="comdlg32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="510" width="310" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -325,15 +325,15 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-97" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Стандартные диалоговые окна: открытие/сохранение файлов, выбор цвета, шрифта, печать&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-96">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-98" value="ws2_32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-98" value="ws2_32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="600" width="310" height="80" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-99" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Сетевые функции: работа с сокетами, протокол TCP/IP, сетевые соединения&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-98">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-99" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Сетевые функции: работа с сокетами, протокол TCP/IP, сетевые соединения&lt;/span&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-98">
           <mxGeometry y="30" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-100" value="winmm.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-100" value="winmm.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="680" width="310" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -341,7 +341,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-101" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Мультимедиа: воспроизведение звука, MIDI, таймеры мультимедиа, управление устройствами&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-100">
           <mxGeometry y="30" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-102" value="ntdll.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-102" value="ntdll.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="770" width="310" height="80" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -349,7 +349,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-103" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Низкоуровневые функции ядра NT: системные вызовы, поддержка работы ОС&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-102">
           <mxGeometry y="30" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-104" value="comctl32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-104" value="comctl32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1780" y="850" width="310" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -424,6 +424,18 @@
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-123" value="ns: Builds" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="900" y="177.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-124" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;curved=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1742.75" y="1000" as="sourcePoint" />
+            <mxPoint x="1742.75" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-125" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;curved=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2120" y="1000" as="sourcePoint" />
+            <mxPoint x="2120" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

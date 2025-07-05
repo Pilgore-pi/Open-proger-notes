@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="2">
   <diagram id="LIL5fh-anm8q5ZdmFxx9" name="Дерево функционала">
-    <mxGraphModel dx="2211" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3064" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,7 +210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-63" value="interface KeyInputBindable" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;strokeColor=light-dark(#36393D,#D5D500);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=light-dark(#FFFF88,#4E4E00);" vertex="1" parent="1">
-          <mxGeometry x="700" y="40" width="250" height="70" as="geometry">
+          <mxGeometry x="665" y="40" width="250" height="70" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -218,7 +218,7 @@
           <mxGeometry y="30" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-65" value="KeyInputEventArgs.cs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;strokeColor=light-dark(#36393D,#D5D500);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=light-dark(#FFFF88,#4E4E00);" vertex="1" parent="1">
-          <mxGeometry x="700" y="110" width="250" height="100" as="geometry">
+          <mxGeometry x="665" y="110" width="250" height="100" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -580,7 +580,7 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-144" value="Set of GUI controls derived from Avalonia UI controls" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-143">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-145" value="Avalonia UI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=light-dark(#FFFF88,#4E4E00);strokeColor=light-dark(#000000,#7F00FF);swimlaneFillColor=default;align=center;verticalAlign=middle;fontSize=12;fontColor=light-dark(#000000,#7F00FF);" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-145" value="Avalonia UI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=light-dark(#FFFF88,#292900);strokeColor=light-dark(#000000,#AA69FF);swimlaneFillColor=default;align=center;verticalAlign=middle;fontSize=12;fontColor=light-dark(#000000,#B773FF);" vertex="1" parent="1">
           <mxGeometry x="665" y="1005" width="265" height="25" as="geometry">
             <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
           </mxGeometry>

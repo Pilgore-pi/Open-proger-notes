@@ -1,15 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="2">
   <diagram id="LIL5fh-anm8q5ZdmFxx9" name="Дерево функционала">
-    <mxGraphModel dx="2003" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2906" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-2" value="FileIconSetter" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="640" y="750" width="250" height="90" as="geometry">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-2" value="FileIconSetter" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;strokeColor=light-dark(#36393D,#D5D500);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=light-dark(#FFFF88,#4E4E00);" vertex="1" parent="1">
+          <mxGeometry x="680" y="880" width="250" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-3" value="Позволяет программно задавать иконки для ярлыков, папок и файлов. На вход можно передать маппер" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-2">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-3" value="Позволяет программно задавать иконки для ярлыков, папок и файлов. На вход можно передать маппер" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-2">
           <mxGeometry y="30" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-8" value="Procable" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -136,11 +136,11 @@
           <mxGeometry y="30" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-44" value="[Specific]MessangerApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=light-dark(#FFFF88,#4E4E00);strokeColor=light-dark(#36393D,#D5D500);swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="650" y="404" width="265" height="60" as="geometry">
+          <mxGeometry x="740" y="390" width="265" height="60" as="geometry">
             <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-45" value="&lt;div&gt;One of messanger services implementations&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-44">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-45" value="&lt;div&gt;Specific messanger API implementation&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-44">
           <mxGeometry y="30" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-46" value="Machine code&amp;nbsp;&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=JetBrains+Mono&quot; face=&quot;JetBrains Mono&quot;&gt;0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
@@ -210,7 +210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-63" value="interface KeyInputBindable" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;strokeColor=light-dark(#36393D,#D5D500);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=light-dark(#FFFF88,#4E4E00);" vertex="1" parent="1">
-          <mxGeometry x="1000" y="384" width="250" height="70" as="geometry">
+          <mxGeometry x="940" y="660" width="250" height="70" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -218,7 +218,7 @@
           <mxGeometry y="30" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-65" value="KeyInputEventArgs.cs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;strokeColor=light-dark(#36393D,#D5D500);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=light-dark(#FFFF88,#4E4E00);" vertex="1" parent="1">
-          <mxGeometry x="1000" y="454" width="250" height="100" as="geometry">
+          <mxGeometry x="940" y="730" width="250" height="100" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -262,7 +262,7 @@
           <mxGeometry y="30" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-78" value="[Specific]MailApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=light-dark(#FFFF88,#4E4E00);strokeColor=light-dark(#36393D,#D5D500);swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="650" y="464" width="265" height="60" as="geometry">
+          <mxGeometry x="740" y="450" width="265" height="60" as="geometry">
             <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -270,7 +270,7 @@
           <mxGeometry y="30" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-80" value="[Specific]LlmApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=light-dark(#FFFF88,#4E4E00);strokeColor=light-dark(#36393D,#D5D500);swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="650" y="524" width="265" height="60" as="geometry">
+          <mxGeometry x="740" y="510" width="265" height="60" as="geometry">
             <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -438,12 +438,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-126" value="[Specific]TranslationApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=light-dark(#FFFF88,#4E4E00);strokeColor=light-dark(#36393D,#D5D500);swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="650" y="584" width="265" height="60" as="geometry">
+          <mxGeometry x="740" y="570" width="265" height="60" as="geometry">
             <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-127" value="&lt;div&gt;Specific translation API implementations&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-126">
           <mxGeometry y="30" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-128" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="320" width="70" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

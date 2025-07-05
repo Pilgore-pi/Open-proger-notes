@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Архитектура ПО/Без названия.md",
+                "file": "04 Архитектура ПО/Паттерн Фабрика (Factory).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Паттерн Фабрика (Factory)"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Архитектура ПО/Без названия.md",
+                "file": "04 Архитектура ПО/Паттерн Фабрика (Factory).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Паттерн Фабрика (Factory)"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 Архитектура ПО/Без названия.md"
+                "file": "04 Архитектура ПО/Паттерн Фабрика (Factory).md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Без названия"
+              "title": "Свойства файла для Паттерн Фабрика (Factory)"
             }
           }
         ]
@@ -227,7 +227,7 @@
   "active": "6c55b5412bd6d3f3",
   "lastOpenFiles": [
     "04 Архитектура ПО/Паттерн Стратегия (Strategy).md",
-    "04 Архитектура ПО/Без названия.md",
+    "04 Архитектура ПО/Паттерн Фабрика (Factory).md",
     "08 Методологии разработки/DevOps.md",
     "08 Методологии разработки/CI-CD.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/04 Подробно - YourFiles.md",

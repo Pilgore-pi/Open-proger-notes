@@ -145,12 +145,20 @@
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-42" value="CommunicationApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad9d5;strokeColor=#ae4132;swimlaneFillColor=default;" vertex="1" parent="1">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-42" value="abstract CommunicationApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad9d5;strokeColor=#ae4132;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="30" y="840" width="270" height="70" as="geometry">
             <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-43" value="&lt;div&gt;CRUD for text (insert; read &amp;amp; format; edit &amp;amp; convert; remove)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-42">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-43" value="&lt;div&gt;Abstract implementation of communication operations (send, receive).&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-42">
+          <mxGeometry y="30" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-44" value="[Specific]Api" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad9d5;strokeColor=#ae4132;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="345" y="420" width="270" height="70" as="geometry">
+            <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-45" value="&lt;div&gt;Abstract implementation of communication operations (send, receive).&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-44">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
         </mxCell>
       </root>

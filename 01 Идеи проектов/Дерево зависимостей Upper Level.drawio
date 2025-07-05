@@ -292,21 +292,53 @@
             <mxRectangle x="1780" y="390" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-86" value="interface KeyInputBindable" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="509" width="300" height="160" as="geometry">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-86" value="user32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="509" width="310" height="110" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-87" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font&gt;Управление пользовательским интерфейсом: окна, сообщения, обработка событий, меню, клавиатура, мышь&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-86">
-          <mxGeometry y="30" width="300" height="130" as="geometry" />
+          <mxGeometry y="30" width="310" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-88" value="interface KeyInputBindable" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="690" width="300" height="100" as="geometry">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-88" value="kernel32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="630" width="310" height="100" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-89" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Базовые функции ОС: управление памятью, процессами, потоками, файлами, синхронизация&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-88">
-          <mxGeometry y="30" width="300" height="70" as="geometry" />
+          <mxGeometry y="30" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-90" value="gdi32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="750" width="310" height="100" as="geometry">
+            <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-91" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Графический вывод: рисование, работа с изображениями, шрифтами, вывод на экран и принтер&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-90">
+          <mxGeometry y="30" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-92" value="advapi32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="870" width="310" height="100" as="geometry">
+            <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-93" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Расширенные функции: работа с реестром, безопасностью, службами, журналами событий&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-92">
+          <mxGeometry y="30" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-94" value="shell32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="990" width="310" height="100" as="geometry">
+            <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-95" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Функции оболочки Windows: работа с рабочим столом, ярлыками, запуск программ, диалоги Проводника&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-94">
+          <mxGeometry y="30" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-96" value="comdlg32.dll" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1110" width="310" height="100" as="geometry">
+            <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-97" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Функции оболочки Windows: работа с рабочим столом, ярлыками, запуск программ, диалоги Проводника&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-96">
+          <mxGeometry y="30" width="310" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

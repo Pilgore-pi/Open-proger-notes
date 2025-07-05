@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-2" value="FileIconSetter" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="650" y="570" width="250" height="90" as="geometry">
+          <mxGeometry x="640" y="750" width="250" height="90" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -145,13 +145,13 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-43" value="&lt;div&gt;Abstract implementation of communication operations (send, receive).&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-42">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-44" value="[Specific]Api" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="650" y="404" width="265" height="90" as="geometry">
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-44" value="[Specific]MessangerApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="650" y="404" width="265" height="60" as="geometry">
             <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iuknk3VW_UgzlPB3RnVS-45" value="&lt;div&gt;One of given implementations:&lt;/div&gt;&lt;div&gt;- TelegramAPI&lt;/div&gt;&lt;div&gt;- MailAPI (based on SMTP)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-44">
-          <mxGeometry y="30" width="265" height="60" as="geometry" />
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-45" value="&lt;div&gt;One of messanger services implementations&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-44">
+          <mxGeometry y="30" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-46" value="Machine code&amp;nbsp;&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=JetBrains+Mono&quot; face=&quot;JetBrains Mono&quot;&gt;0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2110" y="10" width="130" height="30" as="geometry" />
@@ -269,6 +269,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-77" value="&lt;div&gt;General API for processing audio files&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-76">
+          <mxGeometry y="30" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-78" value="[Specific]MailApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="650" y="470" width="265" height="60" as="geometry">
+            <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-79" value="&lt;div&gt;One of mail services implementations&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-78">
+          <mxGeometry y="30" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-80" value="[Specific]LlmApi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="650" y="530" width="265" height="60" as="geometry">
+            <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-81" value="&lt;div&gt;One of mail services implementations&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-80">
           <mxGeometry y="30" width="265" height="30" as="geometry" />
         </mxCell>
       </root>

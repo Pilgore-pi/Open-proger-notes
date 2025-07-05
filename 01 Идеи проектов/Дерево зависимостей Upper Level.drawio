@@ -204,6 +204,21 @@
         <mxCell id="Iuknk3VW_UgzlPB3RnVS-58" value="An interface for any network protocol (TCP, FTP, HTTPS...)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;" vertex="1" parent="Iuknk3VW_UgzlPB3RnVS-57">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-59" value="interface Encryptable" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="345" y="680" width="265" height="40" as="geometry">
+            <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-61" value="interface Compressable" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="345" y="720" width="265" height="40" as="geometry">
+            <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iuknk3VW_UgzlPB3RnVS-62" value="interface Convertable" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fillColor=#fad7ac;strokeColor=#b46504;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="345" y="760" width="265" height="40" as="geometry">
+            <mxRectangle x="30" y="350" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

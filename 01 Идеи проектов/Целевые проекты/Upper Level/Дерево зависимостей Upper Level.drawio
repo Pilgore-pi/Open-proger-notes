@@ -698,7 +698,7 @@
           <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j2bodJuk_YieHhDp1F_B-1" value="OpenCV library" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;swimlaneFillColor=default;strokeColor=light-dark(#36393D,#D5D500);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=light-dark(#FFFF88,#4E4E00);" vertex="1" parent="1">
-          <mxGeometry x="672.5" y="380" width="250" height="30" as="geometry">
+          <mxGeometry x="665" y="380" width="250" height="30" as="geometry">
             <mxRectangle x="410" y="260" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>

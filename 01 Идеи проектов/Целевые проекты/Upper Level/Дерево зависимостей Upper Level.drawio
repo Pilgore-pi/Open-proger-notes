@@ -706,7 +706,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8qf9jYbE25TJ3ORe24SO" name="Зависимости модулей">
-    <mxGraphModel dx="1489" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -890,6 +890,9 @@
               <mxPoint x="704" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KKnZo7FDDrdHylPFWn8s-1" value="CRUD" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="920" y="280" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

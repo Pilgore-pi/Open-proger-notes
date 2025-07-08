@@ -1,3 +1,6 @@
+https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke
+
+https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke-source-generation
 
 https://www.youtube.com/watch?v=KYq2WF3otxc
 

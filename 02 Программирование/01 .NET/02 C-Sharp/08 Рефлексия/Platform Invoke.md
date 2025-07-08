@@ -22,56 +22,56 @@ https://learn.microsoft.com/ru-ru/windows/win32/api/winuser/nf-winuser-mouse_eve
 ```csharp
 [DllImport("user32.dll")]
 static extern void Mouse_event(uint dwFlags, uint dx, uint dy, uint dwData, int dwExtraInfo);
-	
-	Возрват: отсутствует
-	Действие: Позволяет программно управлять событиями мышью
-	Параметры (C++ типы):
-	
-		[in] DWORD dwFlags // Определяет события, которые будут выполняться
-						   // при вызове функции. Является аналогом [Flags] enum
-			Возможные состояния:
-				MOUSEEVENTF_MOVE       0x0001  // Курсор был сдвинут
-				MOUSEEVENTF_LEFTDOWN   0x0002  // ЛКМ нажата
-				MOUSEEVENTF_LEFTUP     0x0004  // ЛКМ отпущена
-				MOUSEEVENTF_RIGHTDOWN  0x0008  // ПКМ нажата
-				MOUSEEVENTF_RIGHTUP    0x0010  // ПКМ отпущена
-				MOUSEEVENTF_MIDDLEDOWN 0x0020  // СКМ нажата
-				MOUSEEVENTF_MIDDLEUP   0x0040  // СКМ отпущена
-				MOUSEEVENTF_XDOWN      0x0080  // Доп. кнопка мыши нажата
-				MOUSEEVENTF_XUP        0x0100  // Доп. кнопка мыши отпущена
-				MOUSEEVENTF_WHEEL      0x0800  // Колесико прокручено на dwData единиц
-				MOUSEEVENTF_HWHEEL     0x1000  // Колесико наклонено
-				MOUSEEVENTF_ABSOLUTE   0x8000  // 
-				
-		[in] DWORD dx, dy // нормализованные абсолютные координаты курсора
-		
-		[in] DWORD dwData — Если задано событие:
-				MOUSEEVENTF_WHEEL  // - WHEEL_DELTA, единицы прокрутки колесика
-								   //   Одна прокрутка колесика = +-120 единицам
-				MOUSEEVENTF_HWHEEL // - Положительное dwData означает, что колесико
-								   //   наклонено вправо, Отрицательное - влево
-				MOUSEEVENTF_XDOWN или MOUSEEVENTF_XUP
-					// dwData содержит флаги,
-					// соответсвтующие нажатым доп. кнопкам:
-					XBUTTON1 0x0001
-					XBUTTON2 0x0002 
-				Если перечисленные флаги dwFlags не заданы, то dwData = 0
-		
-		[in] ULONG_PTR dwExtraInfo // Доп. инфа, привязанная к событию.
-		                           // Для получения доп. инфы, требуется
-		                           // вызывать функцию GetMessageExtraInfo
+    
+    Возрват: отсутствует
+    Действие: Позволяет программно управлять событиями мышью
+    Параметры (C++ типы):
+    
+        [in] DWORD dwFlags // Определяет события, которые будут выполняться
+                           // при вызове функции. Является аналогом [Flags] enum
+            Возможные состояния:
+                MOUSEEVENTF_MOVE       0x0001  // Курсор был сдвинут
+                MOUSEEVENTF_LEFTDOWN   0x0002  // ЛКМ нажата
+                MOUSEEVENTF_LEFTUP     0x0004  // ЛКМ отпущена
+                MOUSEEVENTF_RIGHTDOWN  0x0008  // ПКМ нажата
+                MOUSEEVENTF_RIGHTUP    0x0010  // ПКМ отпущена
+                MOUSEEVENTF_MIDDLEDOWN 0x0020  // СКМ нажата
+                MOUSEEVENTF_MIDDLEUP   0x0040  // СКМ отпущена
+                MOUSEEVENTF_XDOWN      0x0080  // Доп. кнопка мыши нажата
+                MOUSEEVENTF_XUP        0x0100  // Доп. кнопка мыши отпущена
+                MOUSEEVENTF_WHEEL      0x0800  // Колесико прокручено на dwData единиц
+                MOUSEEVENTF_HWHEEL     0x1000  // Колесико наклонено
+                MOUSEEVENTF_ABSOLUTE   0x8000  // 
+                
+        [in] DWORD dx, dy // нормализованные абсолютные координаты курсора
+        
+        [in] DWORD dwData — Если задано событие:
+                MOUSEEVENTF_WHEEL  // - WHEEL_DELTA, единицы прокрутки колесика
+                                   //   Одна прокрутка колесика = +-120 единицам
+                MOUSEEVENTF_HWHEEL // - Положительное dwData означает, что колесико
+                                   //   наклонено вправо, Отрицательное - влево
+                MOUSEEVENTF_XDOWN или MOUSEEVENTF_XUP
+                    // dwData содержит флаги,
+                    // соответсвтующие нажатым доп. кнопкам:
+                    XBUTTON1 0x0001
+                    XBUTTON2 0x0002 
+                Если перечисленные флаги dwFlags не заданы, то dwData = 0
+        
+        [in] ULONG_PTR dwExtraInfo // Доп. инфа, привязанная к событию.
+                                   // Для получения доп. инфы, требуется
+                                   // вызывать функцию GetMessageExtraInfo
 ```
 
 ```csharp
 [DllImport("user32.dll")]
 static extern bool SetCursorPos(int x, int y);
 
-	Возрват: отсутствует
-	Действие: Мгновенно перемещает курсор в указанную позицию. Если позиция курсора
-		вне пределов экрана, то курсор будет перемещен в крайнюю точку экрана
-	Параметры:
-		int x — Позиция по оси X
-		int y — Позиция по оси Y (направление сверху вниз)
+    Возрват: отсутствует
+    Действие: Мгновенно перемещает курсор в указанную позицию. Если позиция курсора
+        вне пределов экрана, то курсор будет перемещен в крайнюю точку экрана
+    Параметры:
+        int x — Позиция по оси X
+        int y — Позиция по оси Y (направление сверху вниз)
 ```
 
 ```csharp
@@ -94,10 +94,10 @@ static extern int MessageBox(IntPtr hWnd, string text, string caption, int optio
 Возврат:
 Действие: открывает окно с сообщением
 Параметры:
-	hWnd    // 
-	text    // текст сообщения
-	caption // текст заголовка
-	options // 
+    hWnd    // 
+    text    // текст сообщения
+    caption // текст заголовка
+    options // 
 ```
 
 ### Функционал библиотеки `win32.dll`

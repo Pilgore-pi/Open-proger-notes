@@ -212,3 +212,4 @@ ConsoleWindow.Restore();
 
 [^2_20]: https://learn.microsoft.com/en-us/windows/console/console-functions
 
+#MERGE_NOTES

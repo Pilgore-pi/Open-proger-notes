@@ -36,5 +36,4 @@
 
 - Roslyn используется не только в Visual Studio, но и в других IDE и инструментах, например, Xamarin Studio
 
-**Итог:** 
-Roslyn — это современная, открытая и расширяемая платформа компилятора C# и VB.NET, которая значительно расширяет возможности традиционного компилятора, предоставляя API для полного доступа к процессу компиляции, анализа и генерации кода. Это делает Roslyn ключевым инструментом для создания интеллектуальных средств разработки и динамического исполнения кода в экосистеме .NET[1](https://ru.wikipedia.org/wiki/Roslyn)[2](https://habr.com/ru/companies/veeam/articles/648775/)[3](https://itvdn.com/ru/blog/article/compiler-roslyn)[4](https://habr.com/ru/companies/pvs-studio/articles/301204/)[5](https://xn--90aia9aifhdb2cxbdg.xn--p1ai/blogs/roslyn-features-visual-studio).
+#Dotnet/Roslyn #C-Sharp #C-Sharp/Reflection

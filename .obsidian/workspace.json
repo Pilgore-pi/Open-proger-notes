@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/_Атрибуты.md",
+                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/02 Атрибуты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Атрибуты"
+              "title": "02 Атрибуты"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/_Атрибуты.md",
+                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/02 Атрибуты.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура _Атрибуты"
+              "title": "Структура 02 Атрибуты"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/_Атрибуты.md"
+                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/02 Атрибуты.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для _Атрибуты"
+              "title": "Свойства файла для 02 Атрибуты"
             }
           }
         ]
@@ -226,6 +226,8 @@
   },
   "active": "106c5e3360411979",
   "lastOpenFiles": [
+    "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/Введение в рефлексию.md",
+    "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/02 Атрибуты.md",
     "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/Roslyn/01 Введение в Roslyn.md",
     "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/Roslyn/02 Bootstrapping.md",
     "02 Программирование/01 .NET/02 C-Sharp/01 Основы/01 Введение в C-Sharp.md",
@@ -257,8 +259,6 @@
     "02 Программирование/01 .NET/02 C-Sharp/11 Внешние компоненты. Platform Invoke/MERGE_NOTES Аутентификация через учетную запись Windows.md",
     "02 Программирование/01 .NET/02 C-Sharp/11 Внешние компоненты. Platform Invoke/MERGE_NOTES Console win api.md",
     "02 Программирование/01 .NET/02 C-Sharp/11 Внешние компоненты. Platform Invoke",
-    "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/02 Асинхронное программирование/MERGE_NOTES.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Дерево зависимостей Upper Level.drawio.crswap",
     "01 Идеи проектов/Дерево зависимостей Upper Level.drawio.crswap",
     "01 Идеи проектов/Целевые проекты/Upper Level/Дерево зависимостей Upper Level.drawio",

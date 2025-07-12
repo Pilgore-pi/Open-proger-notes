@@ -1,12 +1,8 @@
 > **Roslyn** — это современная [открытая](https://github.com/dotnet/roslyn) реализация компиляторов C\# и Visual Basic а также API предоставляющий инструменты анализа кода
 
-Существует статья от ведущего архитектора C# по Roslyn, переведенная на русский язык, в которой можно узнать историю создания платформы Roslyn
+Существует [статья на Хабре](https://habr.com/ru/articles/426961/) от ведущего архитектора C# по Roslyn, переведенная на русский язык, в которой можно узнать историю создания платформы Roslyn
 
-## Что такое Roslyn?
-
-- Roslyn — это не просто компилятор, а полноценная **платформа Compiler-as-a-Service**.
-
-- Компиляторы C# и VB.NET в Roslyn написаны на самих этих языках (C# компилятор на C#), в отличие от старых компиляторов, написанных на C++[1](https://ru.wikipedia.org/wiki/Roslyn)[5](https://xn--90aia9aifhdb2cxbdg.xn--p1ai/blogs/roslyn-features-visual-studio).
+Компиляторы Roslyn: C\# и Visual Basic
 
 - Roslyn предоставляет **API для лексического, синтаксического и семантического анализа кода**, что позволяет программно работать с исходным кодом, создавать инструменты рефакторинга, статического анализа и генерации кода[2](https://habr.com/ru/companies/veeam/articles/648775/)[3](https://itvdn.com/ru/blog/article/compiler-roslyn)[4](https://habr.com/ru/companies/pvs-studio/articles/301204/)[8](https://learn.microsoft.com/ru-ru/dotnet/csharp/roslyn-sdk/).
 

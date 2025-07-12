@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/12 C-Sharp Interactive/01 Интерпретируемая версия языка.md",
+                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/Roslyn/Введение в Roslyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Интерпретируемая версия языка"
+              "title": "Введение в Roslyn"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/12 C-Sharp Interactive/01 Интерпретируемая версия языка.md",
+                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/Roslyn/Введение в Roslyn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Интерпретируемая версия языка"
+              "title": "Структура Введение в Roslyn"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/12 C-Sharp Interactive/01 Интерпретируемая версия языка.md"
+                "file": "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/Roslyn/Введение в Roslyn.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для 01 Интерпретируемая версия языка"
+              "title": "Свойства файла для Введение в Roslyn"
             }
           }
         ]
@@ -226,8 +226,10 @@
   },
   "active": "106c5e3360411979",
   "lastOpenFiles": [
-    "02 Программирование/01 .NET/Полезные утилиты/Консольное логирование.md",
     "02 Программирование/01 .NET/02 C-Sharp/12 C-Sharp Interactive/01 Интерпретируемая версия языка.md",
+    "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/Roslyn/Введение в Roslyn.md",
+    "02 Программирование/01 .NET/02 C-Sharp/08 Рефлексия/Roslyn",
+    "02 Программирование/01 .NET/Полезные утилиты/Консольное логирование.md",
     "02 Программирование/01 .NET/02 C-Sharp/12 C-Sharp Interactive",
     "01 Идеи проектов/Целевые проекты/Upper Level/03 Проект YourCoreFunctionality.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/01 План разработки.md",
@@ -259,9 +261,7 @@
     "01 Идеи проектов/Целевые проекты/Upper Level/00 Название приложения.md",
     "04 Архитектура ПО/Паттерн Фабрика (Factory).md",
     "01 Идеи проектов/Дерево зависимостей Upper Level.drawio.crswap",
-    "04 Архитектура ПО/Паттерн Стратегия (Strategy).md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Дерево зависимостей Upper Level.drawio",
-    "01 Идеи проектов/Модули Core Functionality.drawio.crswap",
     "06 Информационная безопасность/any2fbimgloader0.jpeg",
     "Files/Fonts3.png",
     "Files/Fonts2.png",

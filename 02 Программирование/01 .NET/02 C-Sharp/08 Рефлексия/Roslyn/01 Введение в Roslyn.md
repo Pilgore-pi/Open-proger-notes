@@ -2,7 +2,7 @@
 
 Существует [статья на Хабре](https://habr.com/ru/articles/426961/) от ведущего архитектора C# по Roslyn, переведенная на русский язык, в которой можно узнать историю создания платформы Roslyn
 
-Компиляторы Roslyn: C\# и Visual Basic
+Компиляторы Roslyn: C\# и Visual Basic написаны на самих этих же языках, то есть C\# на C\#, Visual Basic на Visual Basic. [[02 Bootstrapping|Как такое может быть?]]
 
 - Roslyn предоставляет **API для лексического, синтаксического и семантического анализа кода**, что позволяет программно работать с исходным кодом, создавать инструменты рефакторинга, статического анализа и генерации кода[2](https://habr.com/ru/companies/veeam/articles/648775/)[3](https://itvdn.com/ru/blog/article/compiler-roslyn)[4](https://habr.com/ru/companies/pvs-studio/articles/301204/)[8](https://learn.microsoft.com/ru-ru/dotnet/csharp/roslyn-sdk/).
 

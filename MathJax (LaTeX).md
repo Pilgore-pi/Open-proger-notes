@@ -1,4 +1,4 @@
->==Last file update 10.04.24==
+>==Last file update 13.07.25==
 
 Формулы начинаются и заканчиваются на знак: `$` или `$$`
 [Полный перечень](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
@@ -60,6 +60,7 @@
 | $\vec{my\_vector}$                    | `$\vec{my\_vector}$`                             |
 | $\overrightarrow {my\_vector}$        | `$\overrightarrow {my\_vector}$`                 |
 | $\sqrt{1024}$                         | `$\sqrt{1024}$`                                  |
+| $\sqrt[3]{27}$                        | `$\sqrt[3]{27}$`                                 |
 | `$$formula$$`                         | центрированная формула                           |
 
 $$\sum_{i=1}^{10}c_i$$ — `$$\sum_{i=1}^{10}c_i$$` (для лучшего отображения нужно центрировать формулу)

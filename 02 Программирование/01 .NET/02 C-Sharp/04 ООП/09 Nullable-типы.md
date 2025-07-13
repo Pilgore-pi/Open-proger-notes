@@ -21,11 +21,11 @@ Nullable-контекст позволяет компилятору опреде
 ```cs
 // Нет предупреждения
 string name = null;
-PrintUpper(name);  // NullReferenceException
+PrintUpper(name);
  
 void PrintUpper(string text)
 {
-    Console.WriteLine(text.ToUpper());
+    Console.WriteLine(text.ToUpper()); // NullReferenceException
 }
 ```
 
@@ -50,18 +50,20 @@ Nullable-типы следует использовать только в nullab
 ```xml
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net7.0</TargetFramework>
-	  <Nullable>enable</Nullable>
-  </PropertyGroup>
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
 
 </Project>
 ```
 Для этого нужно, нажав на проект, выбрать "изменить файл проекта".
 
 ## Оператор ! (null-forgiving operator)
+
 Данный оператор влияет только на статический анализ nullable-типов. Оператор "!" позволяет указать, что переменная ссылочного типа не равна **null**:
+
 ```cs
 string? name = null;
  
@@ -76,6 +78,6 @@ void PrintUpper(string text)
 ```
 Здесь мы явно говорим, что **name != null**, хоть оно и равно null, так как мы и так проверяем значение на **null**. Это делается для того, чтобы компилятор не создавал предупреждения.
 
-Далее: [[10 _Структура Nullable]]
+Далее: [[10 Структура Nullable]]
 
 #C-Sharp #OOP #C-Sharp/Nullable

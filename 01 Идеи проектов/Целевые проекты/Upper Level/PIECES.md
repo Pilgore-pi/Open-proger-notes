@@ -63,6 +63,7 @@ namespace ConvertXml2Json
         - Utf16Bytes
         - UTF32Bytes
     - AS
+        -  ==Serialization format==
         - JsonString (simple struct, json wrapper around string)
             - TO
                 - DataTable
@@ -83,3 +84,8 @@ namespace ConvertXml2Json
                 - Json
                 - ...
         - DataTable
+        
+        - AsciiString
+        - Utf8String
+        - Utf16String ?
+        - Utf32String

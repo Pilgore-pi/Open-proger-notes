@@ -56,9 +56,15 @@ namespace ConvertXml2Json
         - Utf8Codes
         - Utf16Codes
         - Utf32Codes
+        - AsciiBytes
+        - Utf8Bytes
+        - Utf16Bytes
+        - UTF32Bytes
     - AS
-        - JSON (simple struct, json wrapper around string)
-        - XML
-        - YAML
-        - CSV
-        - 
+        - JsonString (simple struct, json wrapper around string)
+            - TO
+                - 
+        - XmlString
+        - YamlString
+        - CsvString
+        

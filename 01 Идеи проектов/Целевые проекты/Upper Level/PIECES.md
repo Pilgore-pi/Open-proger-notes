@@ -85,7 +85,3 @@ namespace ConvertXml2Json
                 - ...
         - DataTable
         
-        - AsciiString
-        - Utf8String
-        - Utf16String ?
-        - Utf32String

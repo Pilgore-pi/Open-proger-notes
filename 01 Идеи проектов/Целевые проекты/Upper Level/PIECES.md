@@ -1,4 +1,6 @@
 
+# Составить полный список библиотек, чтобы учесть все лицензии
+
 **SUPER CONVERT:**
 
 https://github.com/SDN-X/SuperConvert

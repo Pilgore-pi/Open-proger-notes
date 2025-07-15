@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8dbf626de2c4f11",
+        "id": "c8e4c79ff86e0f84",
         "type": "tabs",
         "children": [
           {
-            "id": "4b802cca8f1d8f84",
+            "id": "abeadf81220aa9bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/02 Асинхронное программирование/MERGE_NOTES.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MERGE_NOTES"
+              "title": "PIECES"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/02 Асинхронное программирование/MERGE_NOTES.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура MERGE_NOTES"
+              "title": "Структура PIECES"
             }
           },
           {
@@ -203,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/02 Асинхронное программирование/MERGE_NOTES.md"
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для MERGE_NOTES"
+              "title": "Свойства файла для PIECES"
             }
           }
         ]
@@ -225,8 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b802cca8f1d8f84",
+  "active": "abeadf81220aa9bc",
   "lastOpenFiles": [
+    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",
+    "README.md",
+    "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/02 Асинхронное программирование/Асинх с задержкой.md",
     "02 Программирование/02 1С - Предприятие/06 Средства интеграции/Enterprise Data.md",
     "02 Программирование/Внутреннее устройство языков программирования высокого уровня.md",
     "02 Программирование/05 Десктопная разработка/Avalonia (.Net)/Конвертеры.md",
@@ -250,10 +253,6 @@
     "02 Программирование/01 .NET/02 C-Sharp/04 ООП/10 Структура Nullable.md",
     "02 Программирование/01 .NET/02 C-Sharp/04 ООП/09 Nullable-типы.md",
     "02 Программирование/01 .NET/02 C-Sharp/04 ООП/08 Индексаторы.md",
-    "02 Программирование/01 .NET/02 C-Sharp/04 ООП/07 _Перегрузка операторов.md",
-    "02 Программирование/01 .NET/02 C-Sharp/04 ООП/06 _Отношения классов.md",
-    "02 Программирование/01 .NET/02 C-Sharp/04 ООП/05 _ПОЛИМОРФИЗМ.md",
-    "02 Программирование/01 .NET/02 C-Sharp/04 ООП/04 _ИНКАПСУЛЯЦИЯ.md",
     "02 Программирование/01 .NET/02 C-Sharp/05 Подробно о типах данных/03 Дата и время",
     "02 Программирование/01 .NET/02 C-Sharp/05 Подробно о типах данных/01 Числа",
     "02 Программирование/01 .NET/02 C-Sharp/05 Подробно о типах данных/02 Строки",

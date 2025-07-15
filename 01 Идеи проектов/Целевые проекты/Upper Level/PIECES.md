@@ -53,7 +53,7 @@ namespace ConvertXml2Json
 
 
 - STRING
-    - TO
+    - TO // returns String_TO_Helper struct
         - AsciiCodes
         - Utf8Codes
         - Utf16Codes

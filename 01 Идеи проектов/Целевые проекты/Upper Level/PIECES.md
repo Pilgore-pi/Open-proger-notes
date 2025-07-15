@@ -48,3 +48,12 @@ namespace ConvertXml2Json
     }
 }
 ```
+
+
+- STRING
+    - TO
+        - AsciiCodes
+        - Utf8Codes
+        - Utf16Codes
+        - Utf32Codes
+        - 

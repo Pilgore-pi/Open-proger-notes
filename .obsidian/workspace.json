@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -224,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "abeadf81220aa9bc",
   "lastOpenFiles": [
     "01 Идеи проектов/Целевые проекты/Upper Level/Дерево зависимостей Upper Level.drawio.crswap",
     "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",

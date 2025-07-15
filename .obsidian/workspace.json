@@ -11,10 +11,14 @@
             "id": "4b802cca8f1d8f84",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/02 Асинхронное программирование/MERGE_NOTES.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MERGE_NOTES"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#YAML",
+                "query": "tag: #MERGE_NOTES ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/02 Асинхронное программирование/MERGE_NOTES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура MERGE_NOTES"
             }
           },
           {
@@ -197,9 +202,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02 Программирование/01 .NET/02 C-Sharp/07 Многопоточность/02 Асинхронное программирование/MERGE_NOTES.md"
+              },
               "icon": "lucide-info",
-              "title": "Свойства файла"
+              "title": "Свойства файла для MERGE_NOTES"
             }
           }
         ]
@@ -218,8 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d34781bcf16267d7",
+  "active": "4b802cca8f1d8f84",
   "lastOpenFiles": [
+    "02 Программирование/02 1С - Предприятие/06 Средства интеграции/Enterprise Data.md",
+    "02 Программирование/Внутреннее устройство языков программирования высокого уровня.md",
+    "02 Программирование/05 Десктопная разработка/Avalonia (.Net)/Конвертеры.md",
     "02 Программирование/EXCEL_READER.md",
     "02 Программирование/FORMAT.md",
     "02 Программирование/Git/Задача 01. Создание удаленного репозитория.md",
@@ -244,9 +254,6 @@
     "02 Программирование/01 .NET/02 C-Sharp/04 ООП/06 _Отношения классов.md",
     "02 Программирование/01 .NET/02 C-Sharp/04 ООП/05 _ПОЛИМОРФИЗМ.md",
     "02 Программирование/01 .NET/02 C-Sharp/04 ООП/04 _ИНКАПСУЛЯЦИЯ.md",
-    "02 Программирование/01 .NET/02 C-Sharp/04 ООП/03 _Статические классы.md",
-    "02 Программирование/01 .NET/02 C-Sharp/04 ООП/02 НАСЛЕДОВАНИЕ.md",
-    "02 Программирование/01 .NET/02 C-Sharp/03 Функции и делегаты/08 События.md",
     "02 Программирование/01 .NET/02 C-Sharp/05 Подробно о типах данных/03 Дата и время",
     "02 Программирование/01 .NET/02 C-Sharp/05 Подробно о типах данных/01 Числа",
     "02 Программирование/01 .NET/02 C-Sharp/05 Подробно о типах данных/02 Строки",

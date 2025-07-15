@@ -57,7 +57,7 @@ namespace ConvertXml2Json
         - Utf16Codes
         - Utf32Codes
         
-        - Base64Bytes    
+        - Base64Bytes ??
         - AsciiBytes
         - Utf8Bytes
         - Utf16Bytes
@@ -71,6 +71,15 @@ namespace ConvertXml2Json
                 - Csv
                 - Xls
         - XmlString
+            - TO
+                - Json
+                - ...
         - YamlString
+            - TO
+                - Json
+                - ...
         - CsvString
-        
+            - TO
+                - Json
+                - ...
+        - DataTable

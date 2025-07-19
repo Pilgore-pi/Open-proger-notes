@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Выключение экрана.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z/Выключение экрана.md",
                 "mode": "preview",
                 "source": false
               },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Выключение экрана.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z/Выключение экрана.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Выключение экрана.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z/Выключение экрана.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Выключение экрана.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z/Выключение экрана.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Выключение экрана.md"
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z/Выключение экрана.md"
               },
               "icon": "lucide-info",
               "title": "Свойства файла для Выключение экрана"
@@ -220,14 +220,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0222683730dd1669",
+  "active": "c900ac5ff9c19205",
   "lastOpenFiles": [
     "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Без названия.canvas",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Выход из сеанса.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Выключение экрана.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Остановка засыпания экрана.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z/Выход из сеанса.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z/Выключение экрана.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z/Остановка засыпания экрана.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Используемые готовые компоненты.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z",
     "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Дерево зависимостей Upper Level.drawio.crswap",
     "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",

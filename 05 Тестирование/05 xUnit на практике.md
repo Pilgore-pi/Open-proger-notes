@@ -9,9 +9,13 @@
 
 ```csharp
 using Xunit;
-usin
+using Xunit.Abstractions;
 
-public class
+namespace Example;
+
+public class ExampleServiceTests : IDisposable {
+
+}
 ```
 
 #Testing #Testing/Unit_testing

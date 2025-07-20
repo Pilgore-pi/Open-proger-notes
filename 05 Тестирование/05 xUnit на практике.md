@@ -26,6 +26,8 @@ public class ExampleServiceTests : IDisposable {
     
     [Fact] public void Guid_IsNotEmpty(){
         var id = _sut.Id;
+        Assert.NotEqual(Guid.Empty, id);
+        _output.WriteLine(id.ToString());
     }
     
 }
@@ -34,7 +36,7 @@ public class ExampleServiceTests : IDisposable {
 Асинхронный вариант:
 
 ```csharp
-public class ExampleServiceTests : IAsync {
+public class ExampleServiceTests : IAsyncLifetime {
     
     private readonly ExampleService _sut = new();
     

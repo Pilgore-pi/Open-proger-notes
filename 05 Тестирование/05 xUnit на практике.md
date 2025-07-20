@@ -30,6 +30,9 @@ public class ExampleServiceTests : IDisposable {
         _output.WriteLine(id.ToString());
     }
     
+    public void Dispose() {
+        _output.WriteLine("After test");
+    }
 }
 ```
 
@@ -42,13 +45,17 @@ public class ExampleServiceTests : IAsyncLifetime {
     
     private readonly ITestOutputHelper _output;
     
-    public ExampleServiceTests(ITestOutputHelper output) {
+    public async Task InitializeAsync(ITestOutputHelper output) {
         _output = output;
         _output.WriteLine("Before test");
     }
     
     [Fact] public void Guid_IsNotEmpty(){
         var id = _sut.Id;
+    }
+    
+    public async TaskDisposeAsync() {
+        _output.WriteLine("After test");
     }
     
 }

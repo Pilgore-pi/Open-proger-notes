@@ -1,3 +1,8 @@
+Все действия будут выполняться в IDE Rider. В целом, нет больших отличий от Visual Studio
+
+## Создание проекта с тестами
+
+`New project...` > `Unit test` > `Type = xUnit` > 
 
 ```csharp
 

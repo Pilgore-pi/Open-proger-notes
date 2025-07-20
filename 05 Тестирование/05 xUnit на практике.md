@@ -15,9 +15,38 @@ namespace Example;
 
 public class ExampleServiceTests : IDisposable {
     
+    private readonly ExampleService _sut = new();
+    
+    private readonly ITestOutputHelper _output;
+    
     public ExampleServiceTests(ITestOutputHelper output) {
         _output = output;
-        _output.WriteLine()
+        _output.WriteLine("Before test");
+    }
+    
+    [Fact] public void Guid_IsNotEmpty(){
+        var id = _sut.Id;
+    }
+    
+}
+```
+
+Асинхронный вариант:
+
+```csharp
+public class ExampleServiceTests : IAsync {
+    
+    private readonly ExampleService _sut = new();
+    
+    private readonly ITestOutputHelper _output;
+    
+    public ExampleServiceTests(ITestOutputHelper output) {
+        _output = output;
+        _output.WriteLine("Before test");
+    }
+    
+    [Fact] public void Guid_IsNotEmpty(){
+        var id = _sut.Id;
     }
     
 }

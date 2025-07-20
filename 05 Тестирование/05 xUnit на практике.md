@@ -2,7 +2,14 @@
 
 ## Создание проекта с тестами
 
-`New project...` > `Unit test` > `Type = xUnit` > 
+`New project...` > `Unit test` > `Type = xUnit` > `Create`
+
+По умолчанию будут предустановлены 4 пакета Nuget (информация актуальна на 01.08.2025):
+
+```
+coverlet.collector/6.0.2
+C:\Users\andre\.nuget\packages\microsoft.net.test.sdk\17.11.1
+```
 
 ```csharp
 

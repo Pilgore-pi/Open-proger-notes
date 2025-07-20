@@ -6,10 +6,16 @@
 
 По умолчанию будут предустановлены 4 пакета Nuget (информация актуальна на 01.08.2025):
 
-```
+```text
 coverlet.collector/6.0.2
-C:\Users\andre\.nuget\packages\microsoft.net.test.sdk\17.11.1
+Microsoft.NET.Test.Sdk/17.11.1
+xunit.runner.visualstudio/2.8.2
+xunit/2.9.2
 ```
+
+Для тестирования целевого проекта, на него нужно добавить ссылку в проект с тестами.
+
+`ПКМ на "Dependencies"`
 
 ```csharp
 

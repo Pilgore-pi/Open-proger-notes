@@ -30,6 +30,8 @@ public class ExampleServiceTests : IDisposable {
         _output.WriteLine(id.ToString());
     }
     
+    //...
+    
     public void Dispose() {
         _output.WriteLine("After test");
     }
@@ -52,9 +54,13 @@ public class ExampleServiceTests : IAsyncLifetime {
     
     [Fact] public void Guid_IsNotEmpty(){
         var id = _sut.Id;
+        Assert.NotEqual(Guid.Empty, id);
+        _output.WriteLine(id.ToString());
     }
     
-    public async TaskDisposeAsync() {
+    //...
+    
+    public async Task DisposeAsync() {
         _output.WriteLine("After test");
     }
     

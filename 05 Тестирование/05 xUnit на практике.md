@@ -15,11 +15,9 @@ xunit/2.9.2
 
 Для тестирования целевого проекта, на него нужно добавить ссылку в проект с тестами.
 
-`ПКМ на "Dependencies"`
+`ПКМ на "Dependencies"` > `Add reference...` > `<Имя проекта>`
 
-```csharp
-
-```
+Всё готово к написанию тестов
 
 ## События "перед тестом" и "после теста"
 
@@ -81,7 +79,6 @@ public class ExampleServiceTests : IAsyncLifetime {
     public async Task DisposeAsync() {
         _output.WriteLine("After test");
     }
-    
 }
 ```
 

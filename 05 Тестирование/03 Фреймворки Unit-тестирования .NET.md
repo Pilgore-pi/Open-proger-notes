@@ -120,9 +120,7 @@ public class MyTests {
 
 ```csharp
 public class MyTests {
-    [Theory]
-    [InlineData(1, 2, 3), InlineData(0, 0, 0)]
-    [InlineData(-1, 1, 0)]
+    [Theory, InlineData(1, 2, 3), InlineData(0, 0, 0), InlineData(-1, 1, 0)]
     public void Add_WhenGivenMultipleInputs_ReturnsCorrectSum(int a, int b, int expected) {
         int result = a + b;
         Assert.Equal(expected, result);
@@ -172,10 +170,7 @@ public class MathTests {
 ```csharp
 [TestClass]
 public class MathTests {
-    [TestMethod]
-    [DataRow(2, 3, 5)]
-    [DataRow(0, 0, 0)]
-    [DataRow(-1, 1, 0)]
+    [TestMethod, DataRow(2, 3, 5), DataRow(0, 0, 0), DataRow(-1, 1, 0)]
     public void Add_WhenGivenMultipleInputs_ReturnsCorrectSum(int a, int b, int expected) {
         int result = a + b;
         Assert.AreEqual(expected, result);
@@ -188,7 +183,7 @@ public class MathTests {
 | Отлично интегрирован с Visual Studio | Преимущественно, для Windows разработки            |
 | Прост для разработчиков Microsoft    | Менее гибок, по сравнению с другими фреймворками   |
 | Полезные инструменты в Visual Studio | Зависимость от Visual Studio                       |
-| Работает на разных ОС                | Не такое большое коммьюнити, как у NUnit или xUnit |
+|                                      | Не такое большое коммьюнити, как у NUnit или xUnit |
 |                                      | Меньше продвинутых инструментов                    |
 
 #Testing #Testing/Unit_testing #Dotnet

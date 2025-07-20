@@ -14,7 +14,12 @@ using Xunit.Abstractions;
 namespace Example;
 
 public class ExampleServiceTests : IDisposable {
-
+    
+    public ExampleServiceTests(ITestOutputHelper output) {
+        _output = output;
+        _output.WriteLine()
+    }
+    
 }
 ```
 

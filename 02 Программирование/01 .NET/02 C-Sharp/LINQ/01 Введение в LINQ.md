@@ -21,7 +21,7 @@ LINQ (Language-Integrated Query) — язык запросов к источни
 
 ## Выполнение запросов LINQ
 
-Существует 2 способа выполнения отложенное (deferred) и немендленное (immidiate).
+Существует 2 способа выполнения — отложенное (deferred) и немендленное (immidiate).
 Отложенное выполнение запросов LINQ происходит при вызове следующих методов (полный список):
 
 * AsEnumerable
@@ -70,7 +70,7 @@ foreach (string s in selectedPeople)
 
 ### Немедленное выполнение запроса
 
-С помощью ряда методов можно применить немедленное выполнение запроса. Эти методы возвращают атомарное значение, Array, List или Dictionary. Полный список методов:
+С помощью ряда методов можно применить немедленное выполнение запроса. Эти методы возвращают атомарное значение, `Array`, `List<T>` или `Dictionary<T>`. Полный список методов:
 
 * Aggregate
 * All
@@ -100,7 +100,7 @@ foreach (string s in selectedPeople)
 ```cs
 string[] people = { "Tom", "Sam", "Bob" };
 // определение и выполнение LINQ-запроса
-var count = people.Where(s=>s.Length == 3).OrderBy(s=>s).Count();
+var count = people.Where(s => s.Length == 3).OrderBy(s => s).Count();
  
 Console.WriteLine(count);   // 3 - до изменения коллекции
  

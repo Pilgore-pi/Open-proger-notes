@@ -9,10 +9,10 @@ LINQ (Language-Integrated Query) — язык запросов к источни
 
 Фактически LINQ — это язык в языке.
 
-Существует несколько разновидностей LINQ. 
+Существует несколько разновидностей LINQ. Разновидности не отличаются синтаксически, но отличаются функциональными возможностями.
 
-- LINQ to Objects — применяется для работы с `IEnumerable<T>`
-- LINQ to Entities — используется в базах данных (технология Entity Framework)
+- LINQ to Objects — применяется для работы с коллекциями `IEnumerable<T>`
+- LINQ to Entities — используется для работы с таблицами БД (интерфейс `IQueryable<T>`) (технология Entity Framework)
 - LINQ to XML — работа с файлами XML
 - LINQ to DataSet — работа с объектом DataSet
 - Parrallel LINQ (PLINQ) — выполнение параллельных запросов

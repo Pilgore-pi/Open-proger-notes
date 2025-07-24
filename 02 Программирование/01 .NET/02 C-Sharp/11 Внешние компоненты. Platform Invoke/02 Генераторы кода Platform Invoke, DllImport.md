@@ -31,4 +31,20 @@ internal static extern string ToLower(string str);
 
 По этим и другим причинам, начиная с версии .NET 7 был добавлен новый генератор кода для P/Invoke, который распознает атрибут `LibraryImportAttribute` в C\# коде и генерирует весь необходимый код с атрибутами `DllImport`, `extern`-методами и спец. структурами, отображающие неуправляемые типы.
 
+## Генераторы кода и атрибут LibraryImport
+
+Работа с атрибутом `LibraryImport` орагнизована аналогично механизму через `DllImport`. Пример, приведенный выше, можено преобразовать в следующий код без особых изменений:
+
+```cs
+[LibraryImport(
+    "nativelib",
+    EntryPoint = "to_lower",
+    StringMarshalling = StringMarshalling.Utf16)]
+internal static partial string ToLower(string str);
+```
+
+В процессе компиляции, генератор кода создаст метод `ToLower()` и весь поддерживающий его код. Все маршаллинги и создание управляемых типов оберток будут выполненены автоматически.
+
+
+
 #MERGE_NOTES

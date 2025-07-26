@@ -1,8 +1,31 @@
 
-| Тип      | Поле | Описание |
-| -------- | ---- | -------- |
-| `double` | `PI` | Число пи |
-| `double` | `E`  | Число е  |
+API для выполнения сложных математических вычислений
 
+| Поле | Тип      | Описание |
+| ---- | -------- | -------- |
+| `PI` | `double` | Число пи |
+| `E`  | `double` | Число е  |
 
- #Dotnet #C-Sharp
+| Метод                        | Возвращаемое значение                  |
+| ---------------------------- | -------------------------------------- |
+| `Abs()`                      | модуль числа                           |
+| `Acos(Double)`               | `arccos d`                             |
+| `Asin(Double)`               | `arcsin d`                             |
+| `Atan(Double)`               | `arctan d`                             |
+| `Atan2(Double, Double)`      | `arctan d`, $tan\ d = \frac{d_1}{d_2}$ |
+| `Ceiling(Double) or Decimal` | округление в большую сторону до целого |
+| `Floor(Double) or Decimal`   | округление в меньшую сторону до целого |
+| `Cos(Double)`                | `cos d`                                |
+| `Sin(Double)`                | `sin d`                                |
+| `Tan(Double)`                | `tan d`                                |
+| `Exp(Double)`                | $e^d$                                  |
+| `Log(Double)`                | `ln d`                                 |
+| `Log10(Double)`              | `lg d`                                 |
+| `Log(Double, Double)`        | $log_{d_2}\ d_1$                       |
+| `Max(NUM, NUM)`              | Наибольшее число                       |
+| `Min(NUM, NUM)`              | Наименьшее число                       |
+| `Pow(Double, Double)`        | $d_1^{d_2}$                            |
+| `Sqrt(Double)`               | $\sqrt{d}$                             |
+| `Cbrt(Double)`               | $\sqrt[3]{d}$ кубический корень из d   |
+
+#Dotnet #C-Sharp #C-Sharp/Numbers

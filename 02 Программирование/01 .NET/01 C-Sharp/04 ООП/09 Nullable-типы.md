@@ -62,13 +62,13 @@ Nullable-типы следует использовать только в nullab
 
 ```xml
 <Project Sdk="Microsoft.NET.Sdk">
-
+    
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
     </PropertyGroup>
-
+    
 </Project>
 ```
 
@@ -76,7 +76,7 @@ Nullable-типы следует использовать только в nullab
 
 ## Оператор ! (null-forgiving operator)
 
-Данный оператор влияет только на статический анализ nullable-типов. Оператор "!" позволяет указать, что переменная ссылочного типа не равна **null**:
+Данный оператор — аннотация "не допускающий null", лияет только на статический анализ nullable-типов. Оператор "`!`" позволяет указать, что переменная ссылочного типа не равна **null**:
 
 ```cs
 string? name = null;

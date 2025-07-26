@@ -1,11 +1,11 @@
-**Запись (Record)** — это неизменяемый класс. Записи автоматически предоставляют реализацию методов `Equals`, `GetHashCode` и `ToString`.
+**Запись (Record)** — это неизменяемый класс или структура. Записи автоматически предоставляют реализацию методов `Equals`, `GetHashCode` и `ToString`
 
 ```csharp
 public record Person
 {
-  // Можно устанавливать значения по умолчанию
-  public string Name { get; init; }
-  public Person(string name) => Name = name;
+    // Можно устанавливать значения по умолчанию
+    public string Name { get; init; }
+    public Person(string name) => Name = name;
 }
 // Сокращенный синтаксис
 public record PersonRecord(string FirstName, string LastName);

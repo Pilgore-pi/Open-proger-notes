@@ -144,9 +144,9 @@ catch (Exception ex)
 - 11 бит — код устройства (facility code)
 - 16 бит — код ошибки (error code) ([1](http://www.delphikingdom.com/asp/viewitem.asp?catalogid=1112)) ([2](https://pvs-studio.ru/ru/docs/warnings/v716/))
 
-| Метод | Возвращает | Описание |
-| ----- | ---------- | -------- |
-| ``    | ``         |          |
-| ``    | ``         |          |
+| Метод        | Возвращает | Описание                                                                                                                                                                                      |
+| ------------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ToString()` | `string`   | Возвращает [текстовое представление](https://learn.microsoft.com/en-us/dotnet/api/system.exception.tostring?view=net-8.0#system-exception-tostring) объекта исключения (Message + StackTrace) |
+
 
  #Dotnet #C-Sharp #C-Sharp/Exceptions

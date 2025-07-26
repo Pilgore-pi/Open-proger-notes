@@ -27,4 +27,4 @@ int? w = x + 7; // w == null
 
 Далее: [to be continued](https://metanit.com/sharp/tutorial/3.26.php)
 
-#C-Sharp #OOP #C-Sharp/Nullable
+#Dotnet #C-Sharp #OOP #C-Sharp/Nullable

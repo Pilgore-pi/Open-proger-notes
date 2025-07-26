@@ -134,8 +134,8 @@ catch (Exception ex)
 | `Data`           | `IDictionary` | `{ get; set; }`   | Словарь с доп. информацией, которую поместил в исключение программист. По умолчанию словарь пуст. Интерфейс очень похож на `Dictionary<T,Key>` |
 | `TargetSite`     | `MethodBase?` | `{ get; }`        | Возвращает информацию о методе, вызвавшем исключение через рефлексию                                                                           |
 | `InnerException` | `Exception?`  | `{ get; }`        | Объект, описывающий ошибку, вызвавшую текущее исключение                                                                                       |
-| `HelpLink`       | `string?`     | `{ get; set; }`   | Ссылка на источник с документацией.Uniform Resource Name (URN) or Uniform Resource Locator (URL)                                               |
-| ``               | ``            | `{  }`            |                                                                                                                                                |
+| `HelpLink`       | `string?`     | `{ get; set; }`   | Ссылка на источник с документацией — Uniform Resource Name (URN) или Uniform Resource Locator (URL)                                            |
+| `HResult`        | `int`         | `{ get; set; }`   |                                                                                                                                                |
 
 
 

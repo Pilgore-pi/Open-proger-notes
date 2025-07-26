@@ -39,6 +39,8 @@ try {
 }
 ```
 
+Пример простой обработки исключения
+
 ```cs
 try {
     int a = 10;
@@ -49,7 +51,31 @@ try {
 } finally {
     Console.WriteLine("Этот блок выполнится всегда");
 }
+```
 
+Можно создавать собственные классы исключений, наследуя от `Exception`:
+
+```cs
+public class MyCustomException : Exception {
+    public MyCustomException(string message) : base(message) { }
+}
+```
+
+> Важно перехватывать исключения **от более специфичных к более общим**, чтобы правильно обработать каждое из них
+
+```cs
+try {
+    // Код
+}
+catch (ArgumentNullException ex) {
+    Console.WriteLine("Пустой аргумент");
+}
+catch (ArgumentException ex) {
+    Console.WriteLine("Некорректный аргумент");
+}
+catch (Exception ex) {
+    Console.WriteLine("Общее исключение");
+}
 ```
 
  #Dotnet #C-Sharp

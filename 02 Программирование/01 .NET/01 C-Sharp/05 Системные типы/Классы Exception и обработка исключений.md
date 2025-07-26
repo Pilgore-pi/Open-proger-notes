@@ -144,4 +144,9 @@ catch (Exception ex)
 - 11 бит — код устройства (facility code)
 - 16 бит — код ошибки (error code) ([1](http://www.delphikingdom.com/asp/viewitem.asp?catalogid=1112)) ([2](https://pvs-studio.ru/ru/docs/warnings/v716/))
 
- #Dotnet #C-Sharp
+| Метод | Возвращает | Описание |
+| ----- | ---------- | -------- |
+| ``    | ``         |          |
+| ``    | ``         |          |
+
+ #Dotnet #C-Sharp #C-Sharp/Exceptions

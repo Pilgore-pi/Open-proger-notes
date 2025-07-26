@@ -402,4 +402,4 @@ AOT-компиляция преобразует IL-код в нативный м
 
 [^3_41]: https://github.com/AustinWise/SmallestDotnetHelloWorlds
 
-#Dotnet/Applications #Dotnet/AOT
+#Dotnet #Dotnet/Applications/AOT

@@ -69,4 +69,4 @@ dotnet sln add путь_к_проекту.csproj
 
 
 
-#Dotnet/Applications
+#Dotnet #Dotnet/Applications

@@ -42,11 +42,12 @@ void PrintUpper(string? text)
 }
 ```
 
-Nullable массивы:
+Nullable-массивы:
 
 ```cs
-int?[] arr; // non-nullable array, where every element is `int?`
-int
+int?[] nullableElements; // Массив не допускает null, элементы допускают
+int[]? nullableArray;    // Массив допускает null, элементы не допускают
+int?[]? allNullable;     // Массив и элементы допускают null
 ```
 
 Nullable-типы следует использовать только в nullable-контексте, который можно объявить локально с помощью директивы \#nullable:

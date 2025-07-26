@@ -6,4 +6,4 @@ Nuget-packeges представляют собой готовые библиот
 | `Install-Package WindowsInput` | Программное управление клавиатурой и мышью |
 |                                |                                            |
 
-#Dotnet/Nuget
+#Dotnet #Dotnet/Nuget

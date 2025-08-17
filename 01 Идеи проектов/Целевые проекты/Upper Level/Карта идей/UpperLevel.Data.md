@@ -3,11 +3,13 @@
 
 ## UpperLevel.Data.Converters
 
-Json — XML (elementary)
-Json — CSV (elementary)
-XML — CSV (easy)
-XML — YAML (easy)
-Json — HTML (ok, multiple implementations)
+- Json — XML (elementary)
+- Json — CSV (elementary)
+- XML — CSV (easy)
+- XML — YAML (easy)
+- Json — HTML (ok, multiple implementations)
+- obsidian vault to HTML site (No JS, include CSS (optionally))
+
 
 Serialization formats:
 

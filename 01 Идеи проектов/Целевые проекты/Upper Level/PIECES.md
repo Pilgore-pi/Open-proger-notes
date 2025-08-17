@@ -87,3 +87,28 @@ namespace ConvertXml2Json
                 - ...
         - DataTable
         
+
+
+## DBF reading
+
+```cs
+OdbcConnection Conn = null;
+...
+string str = @"SELECT * FROM D:\Work\rrk.dbf";
+DataTable dt = new DataTable();
+OdbcDataAdapter da = new OdbcDataAdapter(str, Conn);
+da.Fill(dt);
+dataGridView1.DataSource = dt;
+
+
+string constr = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=directoryPath;Extended Properties=dBASE IV;User ID=Admin;Password=;";
+using (OleDbConnection con = new OleDbConnection(constr))
+{
+    var sql = "select * from " + fileName;
+    OleDbCommand cmd = new OleDbCommand(sql, con);
+    con.Open();
+    DataSet ds = new DataSet(); ;
+    OleDbDataAdapter da = new OleDbDataAdapter(cmd);
+    da.Fill(ds);
+}
+```

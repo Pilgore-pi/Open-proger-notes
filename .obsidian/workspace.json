@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.GuiEngine.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UpperLevel.GuiEngine"
+              "title": "UpperLevel.Text"
             }
           }
         ],
@@ -237,17 +237,17 @@
   },
   "active": "bb94afb53648fb54",
   "lastOpenFiles": [
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Procs.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Os.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.GuiEngine.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Files.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Data.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Пасхалки.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Архитектура сетевых моделей.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/04 Проектирование UpperLevel.Files.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Procs.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Files.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/05 Проектирование UpperLevel.Procs.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Text.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Data.md",
     "07 Администрирование/Windows/Системные компоненты/Службы компонентов.md",
     "07 Администрирование/Windows/Системные компоненты/Без названия.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",

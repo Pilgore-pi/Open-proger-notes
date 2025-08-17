@@ -24,6 +24,19 @@ HTML
 
 Add opportunity to user him to be able to create his own text format by implementing ISerializationFormat
 
-### 
+### Functions examples
+
+
+bytes `|11111111|01010101|00001111|` to:
+- int
+- float
+- decimal
+- double
+- \<Encoding\>
+
+Parameters:
+- byte order (Big endian, Little endian)
+- bit order
+
 
 #Идеи_проектов #Идеи_проектов/Upper_Level/Data

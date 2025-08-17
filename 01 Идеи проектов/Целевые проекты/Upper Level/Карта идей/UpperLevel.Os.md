@@ -15,7 +15,11 @@
 
 ## UpperLevel.Os.InputDevices
 
-### Keyboa
+### Keyboard
+
+Библиотеки: SharpHook ([MIT Licence](https://github.com/TolikPylypchuk/SharpHook?tab=MIT-1-ov-file#))
+
+
 
 ### Screens
 

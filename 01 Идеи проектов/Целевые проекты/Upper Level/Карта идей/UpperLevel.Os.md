@@ -17,9 +17,10 @@
 
 ### Keyboard
 
-Библиотеки: SharpHook ([MIT Licence](https://github.com/TolikPylypchuk/SharpHook?tab=MIT-1-ov-file#))
+Библиотеки: [SharpHook](https://sharphook.tolik.io/) ([MIT Licence](https://github.com/TolikPylypchuk/SharpHook?tab=MIT-1-ov-file#))
 
-
+- Симуляция нажатия и отпускания клавиш
+- Обработка событий нажатий
 
 ### Screens
 

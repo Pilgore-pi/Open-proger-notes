@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Data.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UpperLevel.Data"
+              "title": "UpperLevel.Text"
             }
           }
         ]
@@ -222,9 +222,9 @@
   },
   "active": "4338b31cdec10ed0",
   "lastOpenFiles": [
-    "07 Администрирование/Windows/Системные компоненты/Без названия.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Data.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Os.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Data.md",
+    "07 Администрирование/Windows/Системные компоненты/Без названия.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Text.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Procs.md",
     "07 Администрирование/Windows/Системные компоненты/Версия Windows.md",

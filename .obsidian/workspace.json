@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Procs.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.GuiEngine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UpperLevel.Procs"
+              "title": "UpperLevel.GuiEngine"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Архитектура сетевых моделей.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Архитектура сетевых моделей"
+              "title": "РАЗНОЕ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,19 +234,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb94afb53648fb54",
+  "active": "4338b31cdec10ed0",
   "lastOpenFiles": [
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Text.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Procs.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Архитектура сетевых моделей.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/05 Проектирование UpperLevel.Procs.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Text.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Os.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.GuiEngine.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Files.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Data.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Пасхалки.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Архитектура сетевых моделей.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/04 Проектирование UpperLevel.Files.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/05 Проектирование UpperLevel.Procs.md",
     "07 Администрирование/Windows/Системные компоненты/Службы компонентов.md",
     "07 Администрирование/Windows/Системные компоненты/Без названия.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",

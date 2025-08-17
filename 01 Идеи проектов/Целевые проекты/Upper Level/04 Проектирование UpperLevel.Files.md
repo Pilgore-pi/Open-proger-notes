@@ -3,8 +3,6 @@
 
 Выяснить, нужна ли сериализация
 
-# YourFIles
-
 ## General
 
 #### **`[UI]`** [[Comfort explorer|Advanced efficient explorer]]

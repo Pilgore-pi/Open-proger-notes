@@ -9,6 +9,7 @@
 | Yandex Vision | Яндекс | Россия | SaaS, облако (платный, API) | Визуальная аналитика, API, поддержка для бизнеса |
 | PDFelement | Wondershare | Китай | Бесплатно (14 дней) / Платно (76$ бессрочно) | Все для PDF, продвинутый OCR, корпоративные лицензии |
 | Tesseract | Open Source Community | США | Бесплатный, open source | Кроссплатформенный, CLI, 100+ языков, модифицируемый |
+| Paddle OCR | Open Source Community | Китай и другие страны | [Apache-2.0 Licence](https://github.com/PaddlePaddle/PaddleOCR?tab=Apache-2.0-1-ov-file) | ПО для разработки OCR систем |
 | Adobe Acrobat | Adobe | США | Платно (13$, 20$ в месяц), бесплатная ограниченная ознакомительная версия | |
 | ABBYY FineReader | ABBYY | США (недоступно в РФ) | Платно, бесплатная ограниченная ознакомительная версия | Мировой стандарт, поддержка русского языка, экспорт в разные форматы |
 | Tesseract | Google | США | Бесплатно, [Apache-2.0 Licence](https://github.com/tesseract-ocr/tesseract?tab=Apache-2.0-1-ov-file) | ПО для разработки OCR систем |

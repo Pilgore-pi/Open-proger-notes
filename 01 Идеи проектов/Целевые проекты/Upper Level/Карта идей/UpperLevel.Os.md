@@ -13,6 +13,13 @@
 - принудительное удаление файлов приложения
 - очистка реестра (если на винде)
 
+## UpperLevel.OS.Clipboard
+
+Библиотеки: [TextCopy](https://github.com/CopyText/TextCopy) ([MIT Licence](https://github.com/CopyText/TextCopy?tab=MIT-1-ov-file))
+
+- Запись и чтение текста в буфер обмена
+- Очистка буфера обмена
+
 ## UpperLevel.Os.InputDevices
 
 ### Keyboard

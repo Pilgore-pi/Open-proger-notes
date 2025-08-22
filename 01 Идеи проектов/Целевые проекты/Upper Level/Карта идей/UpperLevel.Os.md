@@ -15,12 +15,17 @@
 
 ## UpperLevel.Os.InputDevices
 
-### Keyboard
-
 Библиотеки: [SharpHook](https://sharphook.tolik.io/) ([MIT Licence](https://github.com/TolikPylypchuk/SharpHook?tab=MIT-1-ov-file#))
+
+### Keyboard
 
 - Симуляция нажатия и отпускания клавиш
 - Обработка событий нажатий
+
+### Mouse
+
+- Симуляция нажатия кнопок и движения курсора
+- Обработка событий мыши
 
 ### Screens
 

@@ -10,19 +10,24 @@
 - Json — HTML (ok, multiple implementations)
 - obsidian vault to HTML site (No JS, include CSS (optionally))
 
+## UpperLevel.Data.Serializers
+
+Библиотеки:
+
+1. [Newtonsoft.Json](https://www.newtonsoft.com/json) ([MIT Licence](https://github.com/JamesNK/Newtonsoft.Json?tab=MIT-1-ov-file))
 
 Serialization formats:
 
 xml, json, bson, html, yaml, csv, csharp type, cpp type, python type (pickle), java type, php serialization format
 
-generally i can deserialize from any format to C# objects and then serialize to desired format
+- generally i can deserialize from any format to C# objects and then serialize to desired format
 
-draw a tree showing connections between formats that can be two way converted
+- draw a tree showing connections between formats that can be two way converted
 
 Markup languages:
 
-Markdown
-HTML
+- Markdown
+- HTML
 
 Add opportunity to user him to be able to create his own text format by implementing ISerializationFormat
 

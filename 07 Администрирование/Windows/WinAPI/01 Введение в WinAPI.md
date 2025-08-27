@@ -45,4 +45,6 @@ WinAPI имеет очень богатый функционал, который
 | `gdipluspath.h` (`gdiplus.h`) | `gdiplus.dll` | Графика и гейминг | Windows GDI+ is a class-based API for C/C++ programmers. It enables applications to use graphics and formatted text on both the video display and the printer. Applications based on the Microsoft Win32 API do not access graphics hardware directly. Instead, GDI+ interacts with device drivers on behalf of applications. GDI+ is also supported by Microsoft Win64 |
 | `wincodec.h`, `wincodecsdk.h` | `windowscodecs.dll` | Графика и гейминг | The Windows Imaging Component (WIC) is an extensible platform that provides low-level API for digital images.  WIC supports the standard web image formats, high dynamic range images, and raw camera data.  WIC also supports additional features such as: Built-in support for standard metadata formats; Extensible framework for image codecs, pixel formats, and metadata formats; Wide range of pixel format support; High-color support (including 30-bit extended range, 30-bit high precision, and 48-bit high precision and wide gamut pixel formats); Progressive image decoding |
 
+#OS/Windows
+
 #MERGE_NOTES

@@ -13,19 +13,30 @@
 - принудительное удаление файлов приложения
 - очистка реестра (если на винде)
 
+## UpperLevel.OS.Clipboard
+
+Библиотеки: [TextCopy](https://github.com/CopyText/TextCopy) ([MIT Licence](https://github.com/CopyText/TextCopy?tab=MIT-1-ov-file))
+
+- Запись и чтение текста в буфер обмена
+- Очистка буфера обмена
+
 ## UpperLevel.Os.InputDevices
 
-Библиотеки: [SharpHook](https://sharphook.tolik.io/) ([MIT Licence](https://github.com/TolikPylypchuk/SharpHook?tab=MIT-1-ov-file#))
-
 ### Keyboard
+
+Библиотеки: [SharpHook](https://sharphook.tolik.io/) ([MIT Licence](https://github.com/TolikPylypchuk/SharpHook?tab=MIT-1-ov-file#))
 
 - Симуляция нажатия и отпускания клавиш
 - Обработка событий нажатий
 
 ### Mouse
 
-- Симуляция нажатия кнопок и движения курсора
-- Обработка событий мыши
+Библиотеки: [SharpHook](https://sharphook.tolik.io/) ([MIT Licence](https://github.com/TolikPylypchuk/SharpHook?tab=MIT-1-ov-file#))
+
+- Симуляция нажатия и отпускания кнопок
+- Симуляция прокрутки колеса мыши
+- Обработка событий мыши (нажатие кнопок, движение мыши, прокрутка колеса)
+- Установка и получение системной скорости курсора (P/Invoke)
 
 ### Screens
 

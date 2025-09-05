@@ -14,7 +14,7 @@
 | `CompareTo(char)` |  | Compares this instance to a specified `char` object and indicates whether this instance precedes, follows, or appears in the same position in the sort order as the specified char object.
 | `CompareTo(object)` |  | Compares this instance to a specified object and indicates whether this instance precedes, follows, or appears in the same position in the sort order as the specified object.
 | `ConvertFromUtf32(int)` |  | Converts the specified Unicode code point into a UTF-16 encoded string.
-ConvertToUtf32(char, char)` |  | Converts the value of a UTF-16 encoded surrogate pair into a Unicode code point.
+| `ConvertToUtf32(char, char)` |  | Converts the value of a UTF-16 encoded surrogate pair into a Unicode code point.
 | `ConvertToUtf32(string, int)` |  | Converts the value of a UTF-16 encoded character or surrogate pair at a specified position in a string into a Unicode code point.
 | `Equals(char)` |  | Returns a value that indicates whether this instance is equal to the specified char object.
 | `Equals(object)` |  | Returns a value that indicates whether this instance is equal to a specified object.

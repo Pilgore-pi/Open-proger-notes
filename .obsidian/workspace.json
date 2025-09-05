@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/04 ООП/03 _Статические классы.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Os.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 03 _Статические классы"
+              "title": "Обратные ссылки для UpperLevel.Os"
             }
           },
           {
@@ -252,8 +252,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "28f674ae8ffe23b1",
@@ -275,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,8 +287,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b00e282b44396fe9",
+  "active": "31ab57efba91960b",
   "lastOpenFiles": [
+    "Регулярные выражения/01 Регулярные выражения.md",
+    "Регулярные выражения",
+    "07 Администрирование/ПЕРЕИМЕНОВАТЬ КАТАЛОГ В 07 Системное администрирование",
+    "07 Администрирование/Командные оболочки/02 Язык Batch script/05 Примеры готовых скриптов.md",
+    "07 Администрирование/Windows/WinAPI/01 Введение в WinAPI.md",
+    "07 Администрирование/Windows/WinAPI",
+    "03 Базы данных/Entity Framework Core/Создание базы данных в готовом приложении на практике.md",
+    "03 Базы данных/Entity Framework Core/07 Индексы.md",
+    "03 Базы данных/Entity Framework Core/06 Операции с данными.md",
+    "03 Базы данных/Entity Framework Core/05 IQueryable.md",
+    "03 Базы данных/Entity Framework Core/04 Создание миграций.md",
+    "03 Базы данных/Entity Framework Core/03 Проектирование наследуемых моделей.md",
+    "03 Базы данных/01 SQL-запросы/Язык DML.md",
+    "03 Базы данных/01 SQL-запросы/Язык DDL.md",
+    "03 Базы данных/01 SQL-запросы/Введение в язык SQL.md",
+    "03 Базы данных/01 SQL-запросы/JOIN Соединения таблиц.md",
+    "02 Программирование/Git/08 Очистка истории коммитов.md",
+    "02 Программирование/01 .NET/04 Сети в .NET/System.Net/Протокол TCP.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.GUI.AppInstaller.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES_WinAPI_user32.dll.cs",
+    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES_WinAPI_3.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES_WinAPI_2.md",
     "conflict-files-obsidian-git.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Os.md",
     "02 Программирование/Искусственный интеллект/Распознавание/02 Существующие приложения OCR.md",
@@ -300,33 +321,11 @@
     "02 Программирование/01 .NET/Буфер обмена.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Communication.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Ссылки.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/РАЗНОЕ.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Пасхалки.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES 3.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Scribbles.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Data.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Text.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.GuiEngine.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Procs.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Архитектура сетевых моделей.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/05 Проектирование UpperLevel.Procs.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Files.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/04 Проектирование UpperLevel.Files.md",
-    "07 Администрирование/Windows/Системные компоненты/Службы компонентов.md",
-    "07 Администрирование/Windows/Системные компоненты/Без названия.md",
-    "07 Администрирование/Windows/Системные компоненты/Версия Windows.md",
-    "07 Администрирование/Windows/Системные компоненты/Диспетчер задач.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/01 План разработки.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей",
     "02 Программирование/01 .NET/02 Экосистема .NET/CLR",
     "02 Программирование/01 .NET/~WRL1565.tmp",
     "02 Программирование/01 .NET/~WRD1538.tmp",
-    "02 Программирование/01 .NET/01 C-Sharp/05 Системные типы",
-    "02 Программирование/01 .NET/~$tnet Конспект 2.0.docx",
-    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES 2.cs",
     "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Без названия.canvas",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей_CTRL_Z",
     "06 Информационная безопасность/any2fbimgloader0.jpeg",
     "Files/Fonts3.png",
     "Files/Fonts2.png",

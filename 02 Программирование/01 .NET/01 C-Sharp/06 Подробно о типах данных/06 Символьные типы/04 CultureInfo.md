@@ -102,4 +102,6 @@ Console.WriteLine("Total: " + neutralCultures.Length);
 Продолжение:
 https://csharp.net-tutorials.com/working-with-culture-and-regions/the-cultureinfo-class/
 
+#MERGE_NOTES
+
 #C-Sharp #Char_types

@@ -107,12 +107,12 @@ String.Empty == ""
 
 | Метод экземпляра | Возвращает | Описание |
 | :--------------- | :--------- | :------- |
-| `Clone()` |  |  |
+| `Clone()` | `object` |  |
 | `IndexOf()` | `int` |  |
 | `IndexOfAny()` | `int` |  |
 | `CompareTo()` | `int` |  |
 | `Contains()` | `bool` |  |
-| `CopyTo()` |  |  |
+| `CopyTo()` | `void` |  |
 | `EndsWith()` | `bool` |  |
 | `StartsWith()` | `bool` |  |
 | `LastIndexOf()` | `int` |  |

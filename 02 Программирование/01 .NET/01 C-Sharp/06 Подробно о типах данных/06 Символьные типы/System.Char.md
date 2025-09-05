@@ -10,71 +10,71 @@
 ## Структура System.Char
 
 | Метод | Возвращает | Описание |
-| :- | :- | :- |
-CompareTo(Char) |  | Compares this instance to a specified Char object and indicates whether this instance precedes, follows, or appears in the same position in the sort order as the specified Char object.
-CompareTo(Object) |  | Compares this instance to a specified object and indicates whether this instance precedes, follows, or appears in the same position in the sort order as the specified Object.
-ConvertFromUtf32(Int32) |  | Converts the specified Unicode code point into a UTF-16 encoded string.
-ConvertToUtf32(Char, Char) |  | Converts the value of a UTF-16 encoded surrogate pair into a Unicode code point.
-ConvertToUtf32(String, Int32) |  | Converts the value of a UTF-16 encoded character or surrogate pair at a specified position in a string into a Unicode code point.
-Equals(Char) |  | Returns a value that indicates whether this instance is equal to the specified Char object.
-Equals(Object) |  | Returns a value that indicates whether this instance is equal to a specified object.
-GetHashCode() |  | Returns the hash code for this instance.
-GetNumericValue(Char) |  | Converts the specified numeric Unicode character to a double-precision floating point number.
-GetNumericValue(String, Int32) |  | Converts the numeric Unicode character at the specified position in a specified string to a double-precision floating point number.
-GetTypeCode() |  | Returns the TypeCode for value type Char.
-GetUnicodeCategory(Char) |  | Categorizes a specified Unicode character into a group identified by one of the UnicodeCategory values.
-GetUnicodeCategory(String, Int32) |  | Categorizes the character at the specified position in a specified string into a group identified by one of the UnicodeCategory values.
-IsAscii(Char) |  | Returns true if c is an ASCII character (`[ U+0000..U+007F ]`).
-IsAsciiDigit(Char) |  | Indicates whether a character is categorized as an ASCII digit.
-IsAsciiHexDigit(Char) |  | Indicates whether a character is categorized as an ASCII hexademical digit.
-IsAsciiHexDigitLower(Char) |  | Indicates whether a character is categorized as an ASCII lower-case hexademical digit.
-IsAsciiHexDigitUpper(Char) |  | Indicates whether a character is categorized as an ASCII upper-case hexademical digit.
-IsAsciiLetter(Char) |  | Indicates whether a character is categorized as an ASCII letter.
-IsAsciiLetterLower(Char) |  | Indicates whether a character is categorized as a lowercase ASCII letter.
-IsAsciiLetterOrDigit(Char) |  | Indicates whether a character is categorized as an ASCII letter or digit.
-IsAsciiLetterUpper(Char) |  | Indicates whether a character is categorized as an uppercase ASCII letter.
-IsBetween(Char, Char, Char) |  | Indicates whether a character is within the specified inclusive range.
-IsControl(Char) |  | Indicates whether the specified Unicode character is categorized as a control character.
-IsControl(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a control character.
-IsDigit(Char) |  | Indicates whether the specified Unicode character is categorized as a decimal digit.
-IsDigit(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a decimal digit.
-IsHighSurrogate(Char) |  | Indicates whether the specified Char object is a high surrogate.
-IsHighSurrogate(String, Int32) |  | Indicates whether the Char object at the specified position in a string is a high surrogate.
-IsLetter(Char) |  | Indicates whether the specified Unicode character is categorized as a Unicode letter.
-IsLetter(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a Unicode letter.
-IsLetterOrDigit(Char) |  | Indicates whether the specified Unicode character is categorized as a letter or a decimal digit.
-IsLetterOrDigit(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a letter or a decimal digit.
-IsLower(Char) |  | Indicates whether the specified Unicode character is categorized as a lowercase letter.
-IsLower(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a lowercase letter.
-IsLowSurrogate(Char) |  | Indicates whether the specified Char object is a low surrogate.
-IsLowSurrogate(String, Int32) |  | Indicates whether the Char object at the specified position in a string is a low surrogate.
-IsNumber(Char) |  | Indicates whether the specified Unicode character is categorized as a number.
-IsNumber(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a number.
-IsPunctuation(Char) |  | Indicates whether the specified Unicode character is categorized as a punctuation mark.
-IsPunctuation(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a punctuation mark.
-IsSeparator(Char) |  | Indicates whether the specified Unicode character is categorized as a separator character.
-IsSeparator(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a separator character.
-IsSurrogate(Char) |  | Indicates whether the specified character has a surrogate code unit.
-IsSurrogate(String, Int32) |  | Indicates whether the character at the specified position in a specified string has a surrogate code unit.
-IsSurrogatePair(Char, Char) |  | Indicates whether the two specified Char objects form a surrogate pair.
-IsSurrogatePair(String, Int32) |  | Indicates whether two adjacent Char objects at a specified position in a string form a surrogate pair.
-IsSymbol(Char) |  | Indicates whether the specified Unicode character is categorized as a symbol character.
-IsSymbol(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as a symbol character.
-IsUpper(Char) |  | Indicates whether the specified Unicode character is categorized as an uppercase letter.
-IsUpper(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as an uppercase letter.
-IsWhiteSpace(Char) |  | Indicates whether the specified Unicode character is categorized as white space.
-IsWhiteSpace(String, Int32) |  | Indicates whether the character at the specified position in a specified string is categorized as white space.
-Parse(String) |  | Converts the value of the specified string to its equivalent Unicode character.
-ToLower(Char, CultureInfo) |  | Converts the value of a specified Unicode character to its lowercase equivalent using specified culture-specific formatting information.
-ToLower(Char) |  | Converts the value of a Unicode character to its lowercase equivalent.
-ToLowerInvariant(Char) |  | Converts the value of a Unicode character to its lowercase equivalent using the casing rules of the invariant culture.
-ToString() |  | Converts the value of this instance to its equivalent string representation.
-ToString(Char) |  | Converts the specified Unicode character to its equivalent string representation.
-ToString(IFormatProvider) |  | Converts the value of this instance to its equivalent string representation using the specified culture-specific format information.
-ToUpper(Char, CultureInfo) |  | Converts the value of a specified Unicode character to its uppercase equivalent using specified culture-specific formatting information.
-ToUpper(Char) |  | Converts the value of a Unicode character to its uppercase equivalent.
-ToUpperInvariant(Char) |  | Converts the value of a Unicode character to its uppercase equivalent using the casing rules of the invariant culture.
-TryParse(String, Char) |  | Converts the value of the specified string to its equivalent Unicode character. A return code indicates whether the conversion succeeded or failed.
+| :---- | :--------- | :------- |
+| `CompareTo(char)` |  | Compares this instance to a specified `char` object and indicates whether this instance precedes, follows, or appears in the same position in the sort order as the specified char object.
+| `CompareTo(object)` |  | Compares this instance to a specified object and indicates whether this instance precedes, follows, or appears in the same position in the sort order as the specified object.
+| `ConvertFromUtf32(int)` |  | Converts the specified Unicode code point into a UTF-16 encoded string.
+ConvertToUtf32(char, char)` |  | Converts the value of a UTF-16 encoded surrogate pair into a Unicode code point.
+| `ConvertToUtf32(string, int)` |  | Converts the value of a UTF-16 encoded character or surrogate pair at a specified position in a string into a Unicode code point.
+| `Equals(char)` |  | Returns a value that indicates whether this instance is equal to the specified char object.
+| `Equals(object)` |  | Returns a value that indicates whether this instance is equal to a specified object.
+| `GetHashCode()` |  | Returns the hash code for this instance.
+| `GetNumericValue(char)` |  | Converts the specified numeric Unicode character to a double-precision floating point number.
+| `GetNumericValue(string, int)` |  | Converts the numeric Unicode character at the specified position in a specified string to a double-precision floating point number.
+| `GetTypeCode()` |  | Returns the TypeCode for value type char.
+| `GetUnicodeCategory(char)` |  | Categorizes a specified Unicode character into a group identified by one of the UnicodeCategory values.
+| `GetUnicodeCategory(string, int)` |  | Categorizes the character at the specified position in a specified string into a group identified by one of the UnicodeCategory values.
+| `IsAscii(char)` |  | Returns true if c is an ASCII character (`[ U+0000..U+007F ]`).
+| `IsAsciiDigit(char)` |  | Indicates whether a character is categorized as an ASCII digit.
+| `IsAsciiHexDigit(char)` |  | Indicates whether a character is categorized as an ASCII hexademical digit.
+| `IsAsciiHexDigitLower(char)` |  | Indicates whether a character is categorized as an ASCII lower-case hexademical digit.
+| `IsAsciiHexDigitUpper(char)` |  | Indicates whether a character is categorized as an ASCII upper-case hexademical digit.
+| `IsAsciiLetter(char)` |  | Indicates whether a character is categorized as an ASCII letter.
+| `IsAsciiLetterLower(char)` |  | Indicates whether a character is categorized as a lowercase ASCII letter.
+| `IsAsciiLetterOrDigit(char)` |  | Indicates whether a character is categorized as an ASCII letter or digit.
+| `IsAsciiLetterUpper(char)` |  | Indicates whether a character is categorized as an uppercase ASCII letter.
+| `IsBetween(char, char, char)` |  | Indicates whether a character is within the specified inclusive range.
+| `IsControl(char)` |  | Indicates whether the specified Unicode character is categorized as a control character.
+| `IsControl(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a control character.
+| `IsDigit(char)` |  | Indicates whether the specified Unicode character is categorized as a decimal digit.
+| `IsDigit(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a decimal digit.
+| `IsHighSurrogate(char)` |  | Indicates whether the specified char object is a high surrogate.
+| `IsHighSurrogate(string, int)` |  | Indicates whether the char object at the specified position in a string is a high surrogate.
+| `IsLetter(char)` |  | Indicates whether the specified Unicode character is categorized as a Unicode letter.
+| `IsLetter(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a Unicode letter.
+| `IsLetterOrDigit(char)` |  | Indicates whether the specified Unicode character is categorized as a letter or a decimal digit.
+| `IsLetterOrDigit(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a letter or a decimal digit.
+| `IsLower(char)` |  | Indicates whether the specified Unicode character is categorized as a lowercase letter.
+| `IsLower(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a lowercase letter.
+| `IsLowSurrogate(char)` |  | Indicates whether the specified char object is a low surrogate.
+| `IsLowSurrogate(string, int)` |  | Indicates whether the char object at the specified position in a string is a low surrogate.
+| `IsNumber(char)` |  | Indicates whether the specified Unicode character is categorized as a number.
+| `IsNumber(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a number.
+| `IsPunctuation(char)` |  | Indicates whether the specified Unicode character is categorized as a punctuation mark.
+| `IsPunctuation(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a punctuation mark.
+| `IsSeparator(char)` |  | Indicates whether the specified Unicode character is categorized as a separator character.
+| `IsSeparator(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a separator character.
+| `IsSurrogate(char)` |  | Indicates whether the specified character has a surrogate code unit.
+| `IsSurrogate(string, int)` |  | Indicates whether the character at the specified position in a specified string has a surrogate code unit.
+| `IsSurrogatePair(char, char)` |  | Indicates whether the two specified char objects form a surrogate pair.
+| `IsSurrogatePair(string, int)` |  | Indicates whether two adjacent char objects at a specified position in a string form a surrogate pair.
+| `IsSymbol(char)` |  | Indicates whether the specified Unicode character is categorized as a symbol character.
+| `IsSymbol(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as a symbol character.
+| `IsUpper(char)` |  | Indicates whether the specified Unicode character is categorized as an uppercase letter.
+| `IsUpper(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as an uppercase letter.
+| `IsWhiteSpace(char)` |  | Indicates whether the specified Unicode character is categorized as white space.
+| `IsWhiteSpace(string, int)` |  | Indicates whether the character at the specified position in a specified string is categorized as white space.
+| `Parse(string)` |  | Converts the value of the specified string to its equivalent Unicode character.
+| `ToLower(char, CultureInfo)` |  | Converts the value of a specified Unicode character to its lowercase equivalent using specified culture-specific formatting information.
+| `ToLower(char)` |  | Converts the value of a Unicode character to its lowercase equivalent.
+| `ToLowerInvariant(char)` |  | Converts the value of a Unicode character to its lowercase equivalent using the casing rules of the invariant culture.
+| `ToString()` |  | Converts the value of this instance to its equivalent string representation.
+| `ToString(char)` |  | Converts the specified Unicode character to its equivalent string representation.
+| `ToString(IFormatProvider)` |  | Converts the value of this instance to its equivalent string representation using the specified culture-specific format information.
+| `ToUpper(char, CultureInfo)` |  | Converts the value of a specified Unicode character to its uppercase equivalent using specified culture-specific formatting information.
+| `ToUpper(char)` |  | Converts the value of a Unicode character to its uppercase equivalent.
+| `ToUpperInvariant(char)` |  | Converts the value of a Unicode character to its uppercase equivalent using the casing rules of the invariant culture.
+| `TryParse(string, char)` |  | Converts the value of the specified string to its equivalent Unicode character. A return code indicates whether the conversion succeeded or failed.
 
 Минимальное значение типа char -- `'\0'`, максимальное -- `'\uffff'`.
 Используя escape-последовательности без кавычек (`\u####`) можно именовать сущности кода и заменять любые другие нелитеральные символы соответствующими escape-последовательностями:

@@ -76,12 +76,15 @@ public enum CultureTypes {
     NeutralCultures        = 1, // Языки и региональные параметры, связанные
                                 // с языком, но не с определенным регионом
     SpecificCultures       = 2, // Языки и региональные параметры, присущие региону
-    InstalledWin32Cultures = 4,
+    InstalledWin32Cultures = 4, // Этот элемент устарел. Все языки и региональные
+                                // параметры, установленные в ОС Windows
     AllCultures            = 7,
-    UserCustomCulture      = 8, // **Этот элемент устарел.
+    UserCustomCulture      = 8, // Этот элемент устарел.
                                 // Пользовательские языки и региональные параметры
-    ReplacementCultures    = 16,
-    WindowsOnlyCultures    = 32,
+    ReplacementCultures    = 16,// Этот элемент устарел. Пользовательский язык
+                                // и региональные параметры, замещающие язык
+                                // и региональные параметры платформы .NET Framework
+    WindowsOnlyCultures    = 32,// Этот элемент считается нерекомендуемым и игнорируется
     FrameworkCultures      = 64,
     
 }

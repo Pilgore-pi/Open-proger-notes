@@ -48,11 +48,11 @@ English
 English
 ```
 
-* Можно задавать культуры по специальному иден LCID (LoCale ID). Ниже приведен список возможных культур и их LCID.
+* Можно задавать культуры по специальному идентификатору **LCID** (LoCale ID). Ниже приведен список возможных культур и их **LCID**
 
 | ISO        | LCID  | Регион                                  |
 | ---------- | ----- | --------------------------------------- |
-| __         | 127   | Invariant Language (Invariant Country)  |
+| __         | 127   | Инвариантный язык (страна)              |
 | en         | 9     | английский                              |
 | en-US      | 1033  | английский (США)                        |
 | en-GB      | 2057  | английский (Великобритания)             |
@@ -85,18 +85,19 @@ English
 | zh         | 30724 | китайский                               |
 | zh-Hans-CN | 4096  | китайский (упрощенная китайская, Китай) |
 
-Этот код выводит полный список культур
+Этот код выводит полный список культур:
+
 ```csharp
 CultureInfo[] specificCultures = CultureInfo.GetCultures(CultureTypes.SpecificCultures);
-foreach (CultureInfo ci in specificCultures)
+foreach (CultureInfo ci in specificCultures) {
     Console.WriteLine(ci.Name + " / " + ci.LCID + " -- " + ci.DisplayName);
-Console.WriteLine("Total: " + specificCultures.Length);
-
-Console.WriteLine();
+}
+Console.WriteLine("Total: " + specificCultures.Length + '\n');
 
 CultureInfo[] neutralCultures = CultureInfo.GetCultures(CultureTypes.NeutralCultures);
-foreach (CultureInfo ci in neutralCultures)
+foreach (CultureInfo ci in neutralCultures) {
     Console.WriteLine(ci.Name + " / " + ci.LCID + " -- " + ci.DisplayName);
+}
 Console.WriteLine("Total: " + neutralCultures.Length);
 ```
 

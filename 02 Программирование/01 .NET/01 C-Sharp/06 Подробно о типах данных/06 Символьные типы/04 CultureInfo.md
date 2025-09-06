@@ -56,17 +56,17 @@ English
 
 ## Структура типа CultureInfo
 
-| Метод экземпляра                          | Возвращает | Описание                                                                                                       |
-| ----------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------- |
-| `ClearCachedData()`                       | ``         |                                                                                                                |
-| `Clone()`                                 | ``         |                                                                                                                |
-| `CreateSpecificCulture(string)`           | ``         |                                                                                                                |
-| `GetConsoleFallbackUICulture()`           | ``         |                                                                                                                |
-| `GetCultureInfo()`                        | ``         |                                                                                                                |
-| `GetCultureInfoByIetfLanguageTag(string)` | ``         |                                                                                                                |
-| `GetCultures(CultureTypes)`               | ``         |                                                                                                                |
-| `GetFormat(Type)`                         | `o`        |                                                                                                                |
-| `ToString()`                              | `string`   | Возвращает строку, содержащую имя текущего объекта `CultureInfo` в формате `languagecode2-country/regioncode2` |
+| Метод экземпляра                          | Возвращает | Описание                                                                                                          |
+| ----------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| `ClearCachedData()`                       | ``         |                                                                                                                   |
+| `Clone()`                                 | ``         |                                                                                                                   |
+| `CreateSpecificCulture(string)`           | ``         |                                                                                                                   |
+| `GetConsoleFallbackUICulture()`           | ``         |                                                                                                                   |
+| `GetCultureInfo()`                        | ``         |                                                                                                                   |
+| `GetCultureInfoByIetfLanguageTag(string)` | ``         |                                                                                                                   |
+| `GetCultures(CultureTypes)`               | ``         |                                                                                                                   |
+| `GetFormat(Type?)`                        | `object?`  | Параметр может принимать только 2 значения: `typeof(NumberFormatInfo)`, `typeof(DateTimeFormatInfo)`. Возвращает  |
+| `ToString()`                              | `string`   | Возвращает строку, содержащую имя текущего объекта `CultureInfo` в формате `languagecode2-country/regioncode2`    |
 
 | Статический метод                         | Возвращает    | Описание                                                |
 | ----------------------------------------- | ------------- | ------------------------------------------------------- |

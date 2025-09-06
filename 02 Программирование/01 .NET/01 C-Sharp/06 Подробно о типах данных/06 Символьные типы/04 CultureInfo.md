@@ -63,10 +63,10 @@ English
 | `Calendar`           | `Calendar`                    | Возвращает календарь, используемый по умолчанию для культуры                                                                                                                         |
 | `CultureInfo?`       | `DefaultThreadCurrentCulture` | Культура, используемая по умолчанию для потоков в текущем домене приложения                                                                                                          |
 | `DateTimeFormatInfo` | `DateTimeFormat`              | Информация о формате данных текущей культуры                                                                                                                                         |
-| ``                   | `CurrentUICulture`            | Текущая культура пользовательского интерфейса, используемая диспетчером ресурсов для поиска ресурсов, связанных с конкретным языком и региональными параметрами, во время выполнения |
+| `CultureInfo`        | `CurrentUICulture`            | Текущая культура пользовательского интерфейса, используемая диспетчером ресурсов для поиска ресурсов, связанных с конкретным языком и региональными параметрами, во время выполнения |
 | `CultureInfo`        | `CurrentCulture`              |                                                                                                                                                                                      |
 | `CultureTypes`       | `CultureTypes`                | Флаги типов текущей культуры                                                                                                                                                         |
-| ``                   | ``                            |                                                                                                                                                                                      |
+| `CompareInfo`        | `CompareInfo`                 | Информация о способе сравнения строк в данном языке и региональных параметрах                                                                                                        |
 | ``                   | ``                            |                                                                                                                                                                                      |
 | ``                   | ``                            |                                                                                                                                                                                      |
 | ``                   | ``                            |                                                                                                                                                                                      |
@@ -84,8 +84,6 @@ English
 | `GetConsoleFallbackUICulture()` | `CultureInfo` | Альтернативная культура, используемая для чтения и отображения текста в окне консоли                                                                                  |
 | `GetFormat(Type?)`              | `object?`     | Параметр может принимать только 2 значения: `typeof(NumberFormatInfo)`, `typeof(DateTimeFormatInfo)`. Возвращает данные о формате чисел или даты для текущей культуры |
 | `ToString()`                    | `string`      | Возвращает строку, содержащую имя текущего объекта `CultureInfo` в формате `languagecode2-country/regioncode2`                                                        |
-|                                 |               |                                                                                                                                                                       |
-
 
 [Перечисление](https://learn.microsoft.com/ru-ru/dotnet/api/system.globalization.culturetypes?view=net-8.0) `CultureTypes`:
 

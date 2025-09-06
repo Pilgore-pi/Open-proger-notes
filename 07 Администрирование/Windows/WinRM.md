@@ -113,49 +113,56 @@ Restart-Service WinRM
 ### 4. **Проверьте аутентификацию и порты**
 
    - Убедитесь, что на удаленных компьютерах:
-     - Служба WinRM запущена:
+    - Служба WinRM запущена:
 
 ```powershell
 Get-Service WinRM | Start-Service
 ```
 
-     - Открыты порты **5985 (HTTP)** и **5986 (HTTPS)** в брандмауэре:
+- Открыты порты **5985 (HTTP)** и **5986 (HTTPS)** в брандмауэре:
 
 ```powershell
 Enable-NetFirewallRule -Name "WINRM-HTTP-In-TCP", "WINRM-HTTPS-In-TCP"
 ```
 
----
-
 ### 5. **Настройте HTTPS (рекомендуется для безопасности)**
-   - Создайте самозаверяющий сертификат:
-     ```powershell
-     New-SelfSignedCertificate -DnsName "server.domain" -CertStoreLocation Cert:\LocalMachine\My
-     ```
-   - Привяжите сертификат к WinRM:
-     ```powershell
-     $thumbprint = "XXXXX"  # Замените на отпечаток сертификата
-     winrm create winrm/config/Listener?Address=*+Transport=HTTPS @{Hostname="localhost"; CertificateThumbprint=$thumbprint}
-     ```
-   - Используйте HTTPS в скрипте:
-     ```powershell
-     Invoke-Command -ComputerName $ComputerNames -UseSSL -ScriptBlock { ... }
-     ```
+
+- Создайте самозаверяющий сертификат:
+
+```powershell
+New-SelfSignedCertificate -DnsName "server.domain" -CertStoreLocation Cert:\LocalMachine\My
+```
+
+- Привяжите сертификат к WinRM:
+
+```powershell
+$thumbprint = "XXXXX"  # Замените на отпечаток сертификата
+winrm create winrm/config/Listener?Address=*+Transport=HTTPS @{Hostname="localhost"; CertificateThumbprint=$thumbprint}
+```
+
+- Используйте HTTPS в скрипте:
+
+```powershell
+Invoke-Command -ComputerName $ComputerNames -UseSSL -ScriptBlock { ... }
+```
 
 ---
 
 ### 6. **Дополнительные проверки**
+
    - Убедитесь, что на удаленных компьютерах:
      - Включена групповая политика **Allow Remote Shell Access** (если используется домен).
      - Время на локальном и удаленном компьютерах синхронизировано (расхождение ≤ 5 минут).
    - Проверьте подключение:
-     ```powershell
-     Test-WSMan 192.168.1.77
-     ```
+
+```powershell
+Test-WSMan 192.168.1.77
+```
 
 ---
 
 ### Пример исправленного вызова `Invoke-Command`
+
 ```powershell
 $cred = Get-Credential
 Invoke-Command -ComputerName $ComputerNames -Credential $cred -ScriptBlock {
@@ -164,6 +171,7 @@ Invoke-Command -ComputerName $ComputerNames -Credential $cred -ScriptBlock {
 ```
 
 Если ошибка сохраняется, проверьте журналы WinRM на удаленном компьютере:
+
 ```powershell
 Get-WinEvent -LogName "Microsoft-Windows-WinRM/Operational"
 ```

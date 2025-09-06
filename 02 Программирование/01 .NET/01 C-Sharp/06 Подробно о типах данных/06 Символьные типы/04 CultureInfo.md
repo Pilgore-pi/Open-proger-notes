@@ -188,7 +188,7 @@ foreach (CultureInfo ci in neutralCultures) {
 Console.WriteLine("Total: " + neutralCultures.Length);
 ```
 
-Продолжение:
+Про форматы даты и чисел (осталось законспектировать только это):
 https://csharp.net-tutorials.com/working-with-culture-and-regions/the-cultureinfo-class/
 
 #MERGE_NOTES

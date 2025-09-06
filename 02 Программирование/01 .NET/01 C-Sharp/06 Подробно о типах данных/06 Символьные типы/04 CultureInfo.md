@@ -12,7 +12,7 @@
 
 Каждая культура описывается в формате `RFC 4646`:
 
-```
+```text
 culture-subculture
 ```
 
@@ -22,12 +22,12 @@ culture-subculture
 Создание:
 
 ```csharp
-// По коду ISO
+// По кодам ISO
 var cult1 = new CultureInfo("en-UA");
 var cult2 = new CultureInfo("en");
 
 // По коду LSID
-
+CultureInfo enUs = new CultureInfo(1033); //en-US
 ```
 
 Можно задавать культуры по специальному идентификатору **LCID** (LoCale ID)

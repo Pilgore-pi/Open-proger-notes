@@ -35,8 +35,7 @@
               "title": "The CultureInfo class - The complete C# tutorial"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c675a3bb76c17229",
+  "active": "01f50d13b630a475",
   "lastOpenFiles": [
     "02 Программирование/01 .NET/01 C-Sharp/06 Подробно о типах данных/06 Символьные типы/04 CultureInfo.md",
     "02 Программирование/01 .NET/02 Экосистема .NET/Развертывание приложений .NET/04 Построители приложений.md",

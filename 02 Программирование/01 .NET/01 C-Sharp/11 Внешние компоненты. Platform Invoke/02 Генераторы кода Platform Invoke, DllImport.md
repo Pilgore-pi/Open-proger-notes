@@ -45,6 +45,4 @@ internal static partial string ToLower(string str);
 
 В процессе компиляции, генератор кода создаст метод `ToLower()` и весь поддерживающий его код. Все маршаллинги и создание управляемых типов оберток будут выполненены автоматически.
 
-
-
-#MERGE_NOTES
+#C-Sharp #C-Sharp/P-Invoke #API

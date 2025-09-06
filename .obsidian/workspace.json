@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Тестирование/04.md",
+                "file": "02 Программирование/01 .NET/01 C-Sharp/06 Подробно о типах данных/06 Символьные типы/04 CultureInfo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04"
+              "title": "04 CultureInfo"
             }
           }
         ]
@@ -65,16 +65,6 @@
             }
           },
           {
-            "id": "2db0b73a2c8d0cac",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "starred"
-            }
-          },
-          {
             "id": "e16319efa265a8cf",
             "type": "leaf",
             "state": {
@@ -84,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,8 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "01f50d13b630a475",
   "lastOpenFiles": [
+    "02 Программирование/01 .NET/02 Экосистема .NET/Развертывание приложений .NET/04 Построители приложений.md",
+    "05 Тестирование/04.md",
     "03 Базы данных/Entity Framework Core/03 Проектирование наследуемых моделей.md",
     "03 Базы данных/Entity Framework Core/02 Проектирование моделей.md",
     "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Программное управление формами/03 Программный отбор.md",
@@ -260,8 +253,6 @@
     "03 Базы данных/Entity Framework Core/06 Операции с данными.md",
     "03 Базы данных/Entity Framework Core/05 IQueryable.md",
     "03 Базы данных/Entity Framework Core/04 Создание миграций.md",
-    "03 Базы данных/01 SQL-запросы/Язык DML.md",
-    "03 Базы данных/01 SQL-запросы/Язык DDL.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/PIECES_WinAPI_user32.dll.cs",
     "02 Программирование/Искусственный интеллект/Распознавание",
     "02 Программирование/Искусственный интеллект",

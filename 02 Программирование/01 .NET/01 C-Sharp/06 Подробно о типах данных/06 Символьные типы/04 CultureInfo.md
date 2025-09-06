@@ -70,7 +70,7 @@ English
 | ----------------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | `ClearCachedData()`                       | ``              |                                                                                                                                   |
 | `Clone()`                                 | ``              |                                                                                                                                   |
-| `CreateSpecificCulture(string)`           | ``              |                                                                                                                                   |
+| `CreateSpecificCulture(string)`           | `CultureInfo`   | Создает объект `CultureInfo` на основе кодов ISO (например ``)                                                                    |
 | `GetCultureInfo()`                        | ``              |                                                                                                                                   |
 | `GetCultureInfoByIetfLanguageTag(string)` | ``              |                                                                                                                                   |
 | `GetCultures(CultureTypes)`               | `CultureInfo[]` | Возвращает список поддерживаемых языков и региональных параметров, отфильтрованный по заданным значениям параметра `CultureTypes` |

@@ -73,14 +73,16 @@ English
 ```cs
 [System.Flags]
 public enum CultureTypes {
-    NeutralCultures = 1,
-    SpecificCultures = 2,
+    NeutralCultures        = 1, // Языки и региональные параметры, связанные
+                                // с языком, но не с определенным регионом
+    SpecificCultures       = 2, // Языки и региональные параметры, присущие региону
     InstalledWin32Cultures = 4,
-    AllCultures         = 7,
-    UserCustomCulture = 8,
-    ReplacementCultures = 16,
-    WindowsOnlyCultures = 32,
-    FrameworkCultures = 64,
+    AllCultures            = 7,
+    UserCustomCulture      = 8, // **Этот элемент устарел.
+                                // Пользовательские языки и региональные параметры
+    ReplacementCultures    = 16,
+    WindowsOnlyCultures    = 32,
+    FrameworkCultures      = 64,
     
 }
 ```

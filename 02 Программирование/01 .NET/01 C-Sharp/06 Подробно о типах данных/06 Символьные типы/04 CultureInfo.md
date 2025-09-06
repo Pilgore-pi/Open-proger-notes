@@ -68,24 +68,35 @@ English
 | `GetFormat(Type?)`                        | `object?`       | Параметр может принимать только 2 значения: `typeof(NumberFormatInfo)`, `typeof(DateTimeFormatInfo)`. Возвращает данные о формате чисел или даты для текущей культуры |
 | `ToString()`                              | `string`        | Возвращает строку, содержащую имя текущего объекта `CultureInfo` в формате `languagecode2-country/regioncode2`                                                        |
 
-Перечисление `CultureTypes`:
+[Перечисление](https://learn.microsoft.com/ru-ru/dotnet/api/system.globalization.culturetypes?view=net-8.0) `CultureTypes`:
 
 ```cs
 [System.Flags]
 public enum CultureTypes {
     NeutralCultures        = 1, // Языки и региональные параметры, связанные
                                 // с языком, но не с определенным регионом
+    
     SpecificCultures       = 2, // Языки и региональные параметры, присущие региону
+    
     InstalledWin32Cultures = 4, // Этот элемент устарел. Все языки и региональные
                                 // параметры, установленные в ОС Windows
-    AllCultures            = 7,
+    
+    AllCultures            = 7, // Все языки и региональные параметры, распознаваемые .NET
+    
     UserCustomCulture      = 8, // Этот элемент устарел.
                                 // Пользовательские языки и региональные параметры
+    
     ReplacementCultures    = 16,// Этот элемент устарел. Пользовательский язык
                                 // и региональные параметры, замещающие язык
                                 // и региональные параметры платформы .NET Framework
+    
     WindowsOnlyCultures    = 32,// Этот элемент считается нерекомендуемым и игнорируется
-    FrameworkCultures      = 64,
+    
+    FrameworkCultures      = 64,// Этот элемент считается нерекомендуемым.
+                                // При использовании этого значения с GetCultures(CultureTypes)
+                                // будут возвращены нейтральные и конкретные языки
+                                // и региональные параметры, поставляемые
+                                // с платформой .NET Framework 2.0
     
 }
 ```

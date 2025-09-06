@@ -8,55 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4338b31cdec10ed0",
+            "id": "01f50d13b630a475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.GuiEngine.md",
+                "file": "07 Администрирование/Windows/WinAPI/01 Введение в WinAPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UpperLevel.GuiEngine"
-            }
-          },
-          {
-            "id": "bb94afb53648fb54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Os.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UpperLevel.Os"
-            }
-          },
-          {
-            "id": "12e2f2d43d59d544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта идей/UpperLevel.Os.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UpperLevel.Os"
-            }
-          },
-          {
-            "id": "b00e282b44396fe9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "01 Введение в WinAPI"
             }
           },
           {
@@ -73,8 +35,7 @@
               "title": "UpperLevel.Data"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Mobile",
+                "query": "tag:#MERGE_NOTES",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d34781bcf16267d7",
+  "active": "01f50d13b630a475",
   "lastOpenFiles": [
     "Заметки/Взаимодействие цветов.md",
     "Классификация основных файловых форматов.md",

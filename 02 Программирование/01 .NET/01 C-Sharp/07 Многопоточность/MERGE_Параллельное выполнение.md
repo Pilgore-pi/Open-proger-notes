@@ -5,18 +5,13 @@ using System.Management.Automation.Runspaces;
 
 namespace PowerShellScriptExecutor;
 
-// \\Main\обмен\365\Отдел\Пришутов_Андрей\message.html
-class Program
-{
+class Program {
     private const string UsersFilePath = @"users.txt";
     
-    static void Main(string[] args)
-    {
-        try
-        {
+    static void Main(string[] args) {
+        try {
             string htmlPath;
-            if (args.Length < 1)
-            {
+            if (args.Length < 1) {
                 Colored("Введите путь к HTML файлу: ", ConsoleColor.Yellow);
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 htmlPath = Console.ReadLine();
@@ -29,9 +24,7 @@ class Program
             // Запускаем параллельное выполнение
             Parallel.ForEachAsync(users, async (username, _) =>
                 await OpenHtmlFileForUserAsync(username, htmlPath));
-        }
-        catch (Exception e)
-        {
+        } catch (Exception e) {
             ColoredLine("Произошло исключение: " + e.Message, ConsoleColor.Magenta);
         }
         

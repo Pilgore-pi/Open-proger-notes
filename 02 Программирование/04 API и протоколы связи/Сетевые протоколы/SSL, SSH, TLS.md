@@ -114,13 +114,9 @@
 [^1_41]: https://skillbox.ru/media/code/protokol-tls-chto-eto-zachem-nuzhen-i-kak-rabotaet/
 
 [^1_42]: https://os.kaspersky.ru/solutions/glossary/kaspersky-thin-client/ssl-tls-certificates/
-
 [^1_43]: https://www.entrust.com/ru/resources/learn/what-is-tls
-
 [^1_44]: https://blog.skillfactory.ru/chto-takoe-tls-i-kak-rabotaet-etot-protokol/
-
 [^1_45]: https://habr.com/ru/articles/258285/
-
 [^1_46]: https://www.ssldragon.com/ru/blog/ssl-vs-tls-differences/
 
 #MERGE_NOTES

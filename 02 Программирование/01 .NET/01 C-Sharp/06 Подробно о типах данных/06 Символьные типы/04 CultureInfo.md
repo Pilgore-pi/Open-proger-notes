@@ -68,15 +68,15 @@ English
 
 
 
-| Статический метод                         | Возвращает      | Описание                                                                                                                          |
-| ----------------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| `ClearCachedData()`                       | ``              |                                                                                                                                   |
-| `Clone()`                                 | ``              |                                                                                                                                   |
-| `CreateSpecificCulture(string)`           | `CultureInfo`   | Создает объект `CultureInfo` на основе кодов ISO (например `uz-Latn-UZ` — узбекский)                                              |
-| `GetCultureInfo()`                        | ``              |                                                                                                                                   |
-| `GetCultureInfoByIetfLanguageTag(string)` | ``              |                                                                                                                                   |
-| `GetCultures(CultureTypes)`               | `CultureInfo[]` | Возвращает список поддерживаемых языков и региональных параметров, отфильтрованный по заданным значениям параметра `CultureTypes` |
-| `ReadOnly(CultureInfo)`                   | `CultureInfo`   | Возвращает оболочку над `CultureInfo` только для чтения                                                                           |
+| Статический метод                         | Возвращает      | Описание                                                                                                                                                                                |
+| ----------------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ClearCachedData()`                       | `void`          |                                                                                                                                                                                         |
+| `Clone()`                                 | `CultureInfo`   |                                                                                                                                                                                         |
+| `CreateSpecificCulture(string)`           | `CultureInfo`   | Создает объект `CultureInfo` на основе кодов ISO (например `uz-Latn-UZ` — узбекский)                                                                                                    |
+| `GetCultureInfo()`                        | `CultureInfo`   | Получает кешированную культуру только для чтения                                                                                                                                        |
+| `GetCultureInfoByIetfLanguageTag(string)` | `CultureInfo`   | **Не рекомендуется**. Служит для получения объекта `CultureInfo`, доступного только для чтения, который имеет языковые характеристики, указываемые определенным языковым тегом RFC 4646 |
+| `GetCultures(CultureTypes)`               | `CultureInfo[]` | Возвращает список поддерживаемых языков и региональных параметров, отфильтрованный по заданным значениям параметра `CultureTypes`                                                       |
+| `ReadOnly(CultureInfo)`                   | `CultureInfo`   | Возвращает оболочку над `CultureInfo` только для чтения                                                                                                                                 |
 
 [Перечисление](https://learn.microsoft.com/ru-ru/dotnet/api/system.globalization.culturetypes?view=net-8.0) `CultureTypes`:
 

@@ -3,28 +3,37 @@ https://docs.devolutions.net/server/kb/how-to-articles/winrm-trustedhostslist/
 https://www.perplexity.ai/search/kak-v-json-zapisat-stroku-igno-80gMQRUxTC.mg0wTg9WE_g
 
 
-	Служба WinRM
+Служба WinRM
 
-Enable-PSRemoting -Force  --  Активация службы WinRM в системе
-Start-Service winrm       --  Ручной запуск службы
-Get-Service winrm         --  Получение статуса службы
-Restart-Service WinRM     --  Перезапуск службы
-winrm quickconfig         --  Получение конфигурации WinRM
+`Enable-PSRemoting -Force` — Активация службы WinRM в системе
+`Start-Service winrm` — Ручной запуск службы
+`Get-Service winrm` — Получение статуса службы
+`Restart-Service WinRM` — Перезапуск службы
+`winrm quickconfig` — Получение конфигурации WinRM
 
 
 Добавление правила в брандмауэр
+```powershell
 Enable-NetFirewallRule -Name "WINRM-HTTP-In-TCP"
+```
 
 
 Использование WinRM доступно только при использовании HTTPS протокола или при работе только с доверенными хостами (TrustedHosts)
 
 Установка единственного доверенного хоста:
+
+```powershell
 Set-Item WSMan:\localhost\Client\TrustedHosts -Value "192.168.1.77" -Force
+```
 
 Добавление доверенного хоста к существующим
+
+```powershell
 Set-Item WSMan:\localhost\Client\TrustedHosts -Value 'machineC' -Concatenate
+```
 
 Установка нескольких доверенных хостов:
+
 Set-Item WSMan:\localhost\Client\TrustedHosts -Value "192.168.1.77,192.168.1.73,192.168.1.74,192.168.1.93,192.168.1.72" -Force
 
 Get-Item WSMan:\localhost\Client\TrustedHosts

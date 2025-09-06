@@ -47,6 +47,22 @@ WinAPI имеет очень богатый функционал, который
 | `gdipluspath.h` (`gdiplus.h`) | `gdiplus.dll` | Графика и гейминг | Windows GDI+ is a class-based API for C/C++ programmers. It enables applications to use graphics and formatted text on both the video display and the printer. Applications based on the Microsoft Win32 API do not access graphics hardware directly. Instead, GDI+ interacts with device drivers on behalf of applications. GDI+ is also supported by Microsoft Win64 |
 | `wincodec.h`, `wincodecsdk.h` | `windowscodecs.dll` | Графика и гейминг | The Windows Imaging Component (WIC) is an extensible platform that provides low-level API for digital images.  WIC supports the standard web image formats, high dynamic range images, and raw camera data.  WIC also supports additional features such as: Built-in support for standard metadata formats; Extensible framework for image codecs, pixel formats, and metadata formats; Wide range of pixel format support; High-color support (including 30-bit extended range, 30-bit high precision, and 48-bit high precision and wide gamut pixel formats); Progressive image decoding |
 
+## Версии WinAPI
+
+WinAPI имеет несколько основных версий, которые отражают развитие архитектуры Windows и эволюцию операционных систем Microsoft:
+
+- **Win16** — первая версия Windows API, использовавшаяся в 16-разрядных версиях Windows (Windows 1.0, 2.0, 3.x). В этой версии функции API исполнялись из основных системных файлов ядра, таких как `kernel.exe`, `user.exe` и `gdi.exe`. Win16 описан в стандарте **ECMA-234**. Эта версия ограничена 16-битной архитектурой и старым моделям памяти
+
+- **Win32** — 32-разрядная версия API, появившаяся с Windows NT и Windows 95, которая стала основной для современных версий Windows. Функции Win32 реализованы в DLL, таких как `kernel32.dll`, `user32.dll` и `gdi32.dll`. Она обеспечивает более широкие возможности и лучшую производительность благодаря 32-битной архитектуре. **Win32** стала основой для большинства современных приложений Windows
+
+- **Win32s** — расширение для Windows 3.1, добавляющее поддержку набора функций из Win32 API, но в ограниченном виде (subset). Это позволяло использовать частично Win32 в 16-битных системах до повсеместного перехода на 32-битные ОС
+
+- **Win64** — 64-разрядная версия Windows API, используемая в 64-битных операционных системах (x86-64 и AArch64). Она позволяет приложениям обращаться к 64-битной адресации памяти и улучшает производительность устройств с большими объемами оперативной памяти. Некоторые устаревшие функции Win32 были удалены или помечены как deprecated.
+
+- **WinCE (Windows Embedded Compact)** — облегчённая версия WinAPI для операционной системы Windows CE, предназначенной для встраиваемых систем и мобильных устройств.
+
+Эти версии отличаются архитектурой (16-, 32-, 64-разрядной), набором поддерживаемых функций и характером работы с памятью и интерфейсами ОС. Microsoft старается обеспечивать обратную совместимость, чтобы приложения, написанные для старых версий API, могли работать и в современных системах
+
 #OS/Windows
 
 #MERGE_NOTES

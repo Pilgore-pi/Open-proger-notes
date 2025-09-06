@@ -56,19 +56,18 @@ English
 
 ## Структура типа CultureInfo
 
-| Метод               | Возвращает | Описание |
-| ------------------- | ---------- | -------- |
-| `ClearCachedData()` | ``         |          |
-| ``                  | ``         |          |
-| ``                  | ``         |          |
-| ``                  | ``         |          |
-| ``                  | ``         |          |
-| ``                  | ``         |          |
-| ``                  | ``         |          |
-| ``                  | ``         |          |
-| ``                  | ``         |          |
-| ------------------- | ---------- | -------- |
-
+| Метод                                     | Возвращает | Описание                                                                                                   |
+| ----------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
+| `ClearCachedData()`                       | ``         |                                                                                                            |
+| `Clone()`                                 | ``         |                                                                                                            |
+| `CreateSpecificCulture(string)`           | ``         |                                                                                                            |
+| `GetConsoleFallbackUICulture()`           | ``         |                                                                                                            |
+| `GetCultureInfo()`                        | ``         |                                                                                                            |
+| `GetCultureInfoByIetfLanguageTag(string)` | ``         |                                                                                                            |
+| `GetCultures(CultureTypes)`               | ``         |                                                                                                            |
+| `GetFormat(Type)`                         | ``         |                                                                                                            |
+| `ReadOnly(CultureInfo)`                   | ``         |                                                                                                            |
+| `ReadOnly(CultureInfo)`                   | `string`   | Возвращает строку, содержащую имя текущего объекта CultureInfo в формате languagecode2-country/regioncode2 |
 
 ## Список культур
 

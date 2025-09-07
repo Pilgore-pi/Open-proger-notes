@@ -36,7 +36,7 @@
 - [ ] Mouse event registering (logs)
 - [x] Mouse pressing simulation
 - [ ] Switching key locks
-- [ ] 
+- [ ] Create a complete scenario of using this functionality
 
 ### Mouse
 

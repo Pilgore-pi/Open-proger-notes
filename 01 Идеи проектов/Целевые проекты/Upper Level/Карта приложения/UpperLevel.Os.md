@@ -29,6 +29,10 @@
 - Симуляция нажатия и отпускания клавиш
 - Обработка событий нажатий
 
+Тестирование:
+
+
+
 ### Mouse
 
 Библиотеки: [SharpHook](https://sharphook.tolik.io/) ([MIT Licence](https://github.com/TolikPylypchuk/SharpHook?tab=MIT-1-ov-file#))

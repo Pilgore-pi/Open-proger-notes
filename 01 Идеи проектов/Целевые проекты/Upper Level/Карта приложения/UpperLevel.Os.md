@@ -32,10 +32,10 @@
 Тестирование:
 
 - [ ] Key event registering (show logs in real time)
-- [ ] 
-- [ ] в
-- [ ] в
-- [ ] в
+- [x] Key pressing simulation
+- [ ] Mouse event registering (logs)
+- [x] Mouse pressing simulation
+- [ ] Switching key locks
 - [ ] 
 
 ### Mouse

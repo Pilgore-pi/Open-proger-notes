@@ -34,8 +34,6 @@
 - Симуляция нажатия и отпускания клавиш
 - Обработка событий нажатий
 
-#### Задачи
-
 Тестирование:
 
 - [ ] Key event registering (show logs in real time)
@@ -44,7 +42,6 @@
 - [x] Mouse pressing simulation
 - [ ] Switching key locks
 - [ ] Create a complete scenario of using this functionality
-
 
 ### Mouse
 

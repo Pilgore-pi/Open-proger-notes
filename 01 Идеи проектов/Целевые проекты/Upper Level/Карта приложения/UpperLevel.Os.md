@@ -31,7 +31,12 @@
 
 Тестирование:
 
-
+- [ ] Key event registering (show logs in real time)
+- [ ] 
+- [ ] в
+- [ ] в
+- [ ] в
+- [ ] 
 
 ### Mouse
 

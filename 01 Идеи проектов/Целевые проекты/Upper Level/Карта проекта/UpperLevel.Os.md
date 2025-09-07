@@ -20,6 +20,11 @@
 - Запись и чтение текста в буфер обмена
 - Очистка буфера обмена
 
+Тестирование:
+
+- [x] Put contents to clipboard
+- [x] Get content from clipboard
+
 ## UpperLevel.Os.InputDevices
 
 ### Keyboard

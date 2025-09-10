@@ -117,7 +117,7 @@ String.Empty == ""
 | `StartsWith()` | `bool` |  |
 | `LastIndexOf()` | `int` |  |
 | `LastIndexOfAny()` | `int` |  |
-| `EnumerateRunes()` |  |  |
+| `EnumerateRunes()` | StringRuneEnumerator | Возвращает перечислитель, который позволяет проходить по коллекции **рун** строки. Руна — это обобщенный символ Unicode, который может быть 16-битным символом `char` или суррогатной парой |
 | `PadLeft()` | `string` |  |
 | `PadRight()` | `string` |  |
 | `Remove()` | `string` |  |

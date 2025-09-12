@@ -15,20 +15,20 @@ public class YourFile
 {
     public byte[]? Metadata { get; set; }
     public byte[] Data { get; set; }
-
+    
     #region Constructor
-
+    
     public YourFile(string filePath)
     {
         // всевозможные проверки правильности формата пути,
         // существования пути,
         // использования зарезервированных названий (CON) и т.д.
     }
-
+    
     #endregion
     
     #region File metadata properties
-
+    
     public long Size { get; protected set; }
     
     public string Location { get; set; }

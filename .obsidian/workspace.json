@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/Задачи проекта.md",
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Comfort explorer/App models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи проекта"
+              "title": "App models"
             }
           }
         ],
@@ -213,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/Задачи проекта.md"
+                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Comfort explorer/App models.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Задачи проекта"
+              "title": "Свойства файла для App models"
             }
           }
         ]
@@ -239,14 +239,15 @@
   },
   "active": "f0323338faea6557",
   "lastOpenFiles": [
+    "01 Идеи проектов/Целевые проекты/Upper Level/Comfort explorer/Анализатор треков.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/UpperLevel.Text.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/UpperLevel.Data.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/Задачи проекта.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/UpperLevel.Procs.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/UpperLevel.Os.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/UpperLevel.GuiEngine.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/UpperLevel.GUI.AppInstaller.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/UpperLevel.Files.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/UpperLevel.Data.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/Задачи проекта.md",
     "01 Идеи проектов/Графика/Игра Жизнь.md",
     "01 Идеи проектов/Долгий ящик/Построение графиков.md",
     "02 Программирование/SaaS.md",
@@ -264,7 +265,6 @@
     "02 Программирование/04 API и протоколы связи/01 Введение в API.md",
     "02 Программирование/Jetbrains IDEs.md",
     "02 Программирование/FORMAT.md",
-    "02 Программирование/41 IT-технологии и лицензии.md",
     "02 Программирование/01 .NET/ASP.NET",
     "02 Программирование/01 .NET/01 C-Sharp/04 ООП/Интерфейсы",
     "01 Идеи проектов/Целевые проекты/Upper Level/Карта",

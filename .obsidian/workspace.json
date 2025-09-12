@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "28f674ae8ffe23b1",
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,9 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "938d5c6a3b92122f",
+  "active": "c900ac5ff9c19205",
   "lastOpenFiles": [
-    "02 Программирование/01 .NET/01 C-Sharp/06 Подробно о типах данных/03 Дата и время/01 Структура DateTime.md",
+    "02 Программирование/01 .NET/01 C-Sharp/06 Базовые типы данных/03 Дата и время/01 Структура DateTime.md",
     "02 Программирование/01 .NET/01 C-Sharp/05 Системные типы/Утилитарный класс Math.md",
     "02 Программирование/01 .NET/01 C-Sharp/05 Системные типы/Утилитарные классы управления приложением.md",
     "02 Программирование/01 .NET/01 C-Sharp/05 Системные типы/Класс DBNull.md",

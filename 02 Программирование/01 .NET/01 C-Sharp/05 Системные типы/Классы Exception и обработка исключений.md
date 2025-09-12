@@ -143,4 +143,152 @@ catch (Exception ex)
 | ------------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `ToString()` | `string`   | Возвращает [текстовое представление](https://learn.microsoft.com/en-us/dotnet/api/system.exception.tostring?view=net-8.0#system-exception-tostring) объекта исключения (Message + StackTrace) |
 
- #Dotnet #C-Sharp #C-Sharp/Exceptions
+## [Список](https://mikevallotton.wordpress.com/2009/07/08/net-exceptions-all-of-them/) встроенных типов исключений
+
+| Сборка | Исключение | Описание |
+| :-- | :-- | :-- |
+| (`mscorlib.dll`) `System` | `AccessViolationException` | Возникает при попытке записи или чтения защищенной области памяти |
+| (`mscorlib.dll`) `System` | `AppDomainUnloadedException` | Возникает при попытке обращения к невыгруженному домену приложения |
+| (`mscorlib.dll`) `System` | `ApplicationException` | Возникает при нефатальных ошибках приложения |
+| (`mscorlib.dll`) `System` | `ArgumentException` | Один из аргументов метода некорректен |
+| (`mscorlib.dll`) `System` | `ArgumentNullException` | Один из аргументов является `null` и это является недопустимым значением для метода |
+| (`mscorlib.dll`) `System` | `ArgumentOutOfRangeException` |  |
+| (`mscorlib.dll`) `System` | `ArithmeticException` |  |
+| (`mscorlib.dll`) `System` | `ArrayTypeMismatchException` |  |
+| (`mscorlib.dll`) `System` | `BadImageFormatException` |  |
+| (`mscorlib.dll`) `System` | `CannotUnloadAppDomainException` |  |
+| (`mscorlib.dll`) `System` | `ContextMarshalException` |  |
+| (`mscorlib.dll`) `System` | `DataMisalignedException` |  |
+| (`mscorlib.dll`) `System` | `DivideByZeroException` |  |
+| (`mscorlib.dll`) `System` | `DllNotFoundException` |  |
+| (`mscorlib.dll`) `System` | `DuplicateWaitObjectException` |  |
+| (`mscorlib.dll`) `System` | `EntryPointNotFoundException` |  |
+| (`mscorlib.dll`) `System` | `ExecutionEngineException` |  |
+| (`mscorlib.dll`) `System` | `FieldAccessException` |  |
+| (`mscorlib.dll`) `System` | `FormatException` |  |
+| (`mscorlib.dll`) `System` | `IndexOutOfRangeException` |  |
+| (`mscorlib.dll`) `System` | `InsufficientMemoryException` |  |
+| (`mscorlib.dll`) `System` | `InvalidCastException` |  |
+| (`mscorlib.dll`) `System` | `InvalidProgramException` |  |
+| (`mscorlib.dll`) `System` | `MemberAccessException` |  |
+| (`mscorlib.dll`) `System` | `MethodAccessException` |  |
+| (`mscorlib.dll`) `System` | `MissingFieldException` |  |
+| (`mscorlib.dll`) `System` | `MissingMemberException` |  |
+| (`mscorlib.dll`) `System` | `MissingMethodException` |  |
+| (`mscorlib.dll`) `System` | `MulticastNotSupportedException` |  |
+| (`mscorlib.dll`) `System` | `NotFiniteNumberException` |  |
+| (`mscorlib.dll`) `System` | `NotImplementedException` | Метод не реализован |
+| (`mscorlib.dll`) `System` | `NotSupportedException` |  |
+| (`mscorlib.dll`) `System` | `NullReferenceException` | Возникает при попытке разименования нулевой ссылки |
+| (`mscorlib.dll`) `System` | `ObjectDisposedException` | Возникает при попытке обращения к удаленному объекту |
+| (`mscorlib.dll`) `System` | `OperationCanceledException` |  |
+| (`mscorlib.dll`) `System` | `OutOfMemoryException` |  |
+| (`mscorlib.dll`) `System` | `OverflowException` |  |
+| (`mscorlib.dll`) `System` | `PlatformNotSupportedException` |  |
+| (`mscorlib.dll`) `System` | `RankException` |  |
+| (`mscorlib.dll`) `System` | `StackOverflowException` |  |
+| (`mscorlib.dll`) `System` | `SystemException` | базовый класс для системных исключений |
+| (`mscorlib.dll`) `System` | `TimeoutException` | Время выделенное на операцию вышло |
+| (`mscorlib.dll`) `System` | `TypeInitializationException` |  |
+| (`mscorlib.dll`) `System` | `TypeLoadException` |  |
+| (`mscorlib.dll`) `System` | `TypeUnloadedException` |  |
+| (`mscorlib.dll`) `System` | `UnauthorizedAccessException` |  |
+| (`mscorlib.dll`) `System.Collections.Generic` | `KeyNotFoundException` | Указанный ключ словаря не найден |
+| (`mscorlib.dll`) `System.IO` | `DirectoryNotFoundException` |  |
+| (`mscorlib.dll`) `System.IO` | `DriveNotFoundException` |  |
+| (`mscorlib.dll`) `System.IO` | `EndOfStreamException` |  |
+| (`mscorlib.dll`) `System.IO` | `FileLoadException` |  |
+| (`mscorlib.dll`) `System.IO` | `FileNotFoundException` |  |
+| (`mscorlib.dll`) `System.IO` | `IOException` |  |
+| (`mscorlib.dll`) `System.IO` | `PathTooLongException` | Путь к файлу превышает допустимую длину, определенную в системе |
+| (`mscorlib.dll`) `System.IO.IsolatedStorage` | `` |  |
+| (`mscorlib.dll`) `System.Reflection` | `AmbiguousMatchException` |  |
+| (`mscorlib.dll`) `System.Reflection` | `CustomAttributeFormatException` |  |
+| (`mscorlib.dll`) `System.Reflection` | `InvalidFilterCriteriaException` |  |
+| (`mscorlib.dll`) `System.Reflection` | `MetadataException` |  |
+| (`mscorlib.dll`) `System.Reflection` | `ReflectionTypeLoadException` |  |
+| (`mscorlib.dll`) `System.Reflection` | `TargetException` |  |
+| (`mscorlib.dll`) `System.Reflection` | `TargetInvocationException` |  |
+| (`mscorlib.dll`) `System.Reflection` | `TargetParameterCountException` |  |
+| (`mscorlib.dll`) `System.Resources` | `MissingManifestResourceException` |  |
+| (`mscorlib.dll`) `System.Resources` | `MissingSatelliteAssemblyException` |  |
+| (`mscorlib.dll`) `System.Runtime.CompilerServices` | `RuntimeWrappedException` |  |
+| (`mscorlib.dll`) `System.Runtime.InteropServices` | `COMException` |  |
+| (`mscorlib.dll`) `System.Runtime.InteropServices` | `ExternalException` |  |
+| (`mscorlib.dll`) `System.Runtime.InteropServices` | `InvalidComObjectException` |  |
+| (`mscorlib.dll`) `System.Runtime.InteropServices` | `InvalidOleVariantTypeException` |  |
+| (`mscorlib.dll`) `System.Runtime.InteropServices` | `MarshalDirectiveException` |  |
+| (`mscorlib.dll`) `System.Runtime.InteropServices` | `SafeArrayRankMismatchException` |  |
+| (`mscorlib.dll`) `System.Runtime.InteropServices` | `SafeArrayTypeMismatchException` |  |
+| (`mscorlib.dll`) `System.Runtime.InteropServices` | `SEHException` |  |
+| (`mscorlib.dll`) `System.Runtime.Remoting` | `RemotingException` |  |
+| (`mscorlib.dll`) `System.Runtime.Remoting` | `RemotingTimeoutException` |  |
+| (`mscorlib.dll`) `System.Runtime.Remoting` | `ServerException` |  |
+| (`mscorlib.dll`) `System.Runtime.Serialization` | `SerializationException` |  |
+| (`mscorlib.dll`) `System.Security` | `HostProtectionException` |  |
+| (`mscorlib.dll`) `System.Security` | `SecurityException` |  |
+| (`mscorlib.dll`) `System.Security` | `VerificationException` |  |
+| (`mscorlib.dll`) `System.Security` | `XmlSyntaxException` |  |
+| (`mscorlib.dll`) `System.Security.AccessControl` | `PrivilegeNotHeldException` |  |
+| (`mscorlib.dll`) `System.Security.Cryptography` | `CryptographicException` |  |
+| (`mscorlib.dll`) `System.Security.Cryptography` | `CryptographicUnexpectedOperationException` |  |
+| (`mscorlib.dll`) `System.Security.Policy` | `PolicyException` |  |
+| (`mscorlib.dll`) `System.Security.Principal` | `IdentityNotMappedException` |  |
+| (`mscorlib.dll`) `System.Text` | `DecoderFallbackException` |  |
+| (`mscorlib.dll`) `System.Text` | `EncoderFallbackException` |  |
+| (`mscorlib.dll`) `System.Threading` | `AbandonedMutexException` |  |
+| (`mscorlib.dll`) `System.Threading` | `SynchronizationLockException` |  |
+| (`mscorlib.dll`) `System.Threading` | `ThreadAbortException` |  |
+| (`mscorlib.dll`) `System.Threading` | `ThreadInterruptedException` |  |
+| (`mscorlib.dll`) `System.Threading` | `ThreadStartException` |  |
+| (`mscorlib.dll`) `System.Threading` | `ThreadStateException` |  |
+| (`mscorlib.dll`) `System.Threading` | `WaitHandleCannotBeOpenedException` |  |
+| (`System.AddIn.dll`) `Microsoft.Contracts` | `Contract+AssertionException` |  |
+| (`System.AddIn.dll`) `Microsoft.Contracts` | `Contract+AssumptionException` |  |
+| (`System.AddIn.dll`) `Microsoft.Contracts` | `Contract+InvariantException` |  |
+| (`System.AddIn.dll`) `Microsoft.Contracts` | `Contract+PostconditionException` |  |
+| (`System.AddIn.dll`) `Microsoft.Contracts` | `Contract+PreconditionException` |  |
+| (`System.AddIn.dll`) `System.AddIn.Hosting` | `AddInBaseInAddInFolderException` |  |
+| (`System.AddIn.dll`) `System.AddIn.Hosting` | `AddInSegmentDirectoryNotFoundException` |  |
+| (`System.AddIn.dll`) `System.AddIn.Hosting` | `InvalidPipelineStoreException` |  |
+| (`System.AddIn.dll`) `System.AddIn.MiniReflection` | `GenericsNotImplementedException` |  |
+| (`System.Configuration.dll`) `System.Configuration` | `ConfigurationErrorsException` |  |
+| (`System.Configuration.dll`) `System.Configuration.Provider` | `ProviderException` |  |
+| (`System.Configuration.Install.dll`) `System.Configuration.Install` | `InstallException` |  |
+| (`System.Data.dll`) | `ModuleLoadException` |  |
+| (`System.Data.dll`) | `ModuleLoadExceptionHandlerException` |  |
+| (`System.Data.dll`) `Microsoft.SqlServer.Server` | `InvalidUdtException` |  |
+| (`System.Data.dll`) `System.Data` | `ConstraintException` |  |
+| (`System.Data.dll`) `System.Data` | `DataException` |  |
+| (`System.Data.dll`) `System.Data` | `DBConcurrencyException` |  |
+| (`System.Data.dll`) `System.Data` | `DeletedRowInaccessibleException` |  |
+| (`System.Data.dll`) `System.Data` | `DuplicateNameException` |  |
+| (`System.Data.dll`) `System.Data` | `EvaluateException` |  |
+| (`System.Data.dll`) `System.Data` | `InRowChangingEventException` |  |
+| (`System.Data.dll`) `System.Data` | `InvalidConstraintException` |  |
+| (`System.Data.dll`) `System.Data` | `InvalidExpressionException` |  |
+| (`System.Data.dll`) `System.Data` | `MissingPrimaryKeyException` |  |
+| (`System.Data.dll`) `System.Data` | `NoNullAllowedException` |  |
+| (`System.Data.dll`) `System.Data` | `OperationAbortedException` |  |
+| (`System.Data.dll`) `System.Data` | `ReadOnlyException` |  |
+| (`System.Data.dll`) `System.Data` | `RowNotInTableException` |  |
+| (`System.Data.dll`) `System.Data` | `StrongTypingException` |  |
+| (`System.Data.dll`) `System.Data` | `SyntaxErrorException` |  |
+| (`System.Data.dll`) `System.Data` | `TypedDataSetGeneratorException` |  |
+| (`System.Data.dll`) `System.Data` | `VersionNotFoundException` |  |
+| (`System.Data.dll`) `System.Data.Common` | `DbException` |  |
+| (`System.Data.dll`) `System.Data.Odbc` | `OdbcException` |  |
+| (`System.Data.dll`) `System.Data.OleDb` | `OleDbException` |  |
+| (`System.Data.dll`) `System.Data.SqlClient` | `SqlException` |  |
+| (`System.Data.dll`) `System.Data.SqlTypes` | `SqlAlreadyFilledException` |  |
+| (`System.Data.dll`) `System.Data` | `` |  |
+| (`System.Data.dll`) `System.Data` | `` |  |
+| (`System.Data.dll`) `System.Data` | `` |  |
+| (`System.Data.dll`) `System.Data` | `` |  |
+
+
+
+
+
+
+#Dotnet #C-Sharp #C-Sharp/Exceptions

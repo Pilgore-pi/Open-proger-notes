@@ -111,6 +111,10 @@ class Program {
 | [WindowTop](https://learn.microsoft.com/ru-ru/dotnet/api/system.console.windowtop?view=net-8.0#system-console-windowtop)                                  | Возвращает или задает верхнюю позицию области окна консоли относительно буфера экрана.                                                                                                                                                                                                                                                                                                                                                      |
 | [WindowWidth](https://learn.microsoft.com/ru-ru/dotnet/api/system.console.windowwidth?view=net-8.0#system-console-windowwidth)                            | Возвращает или задает ширину окна консоли.                                                                                                                                                                                                                                                                                                                                                                                                  |
 
+## Структура ConsoleKeyInfo
+
+
+
 Далее: [[06 Условные операторы и выражения|Условные операторы и выражения]]
 
 #C-Sharp #C-Sharp/Console #C-Sharp/Streams

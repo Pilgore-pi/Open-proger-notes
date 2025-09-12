@@ -4,7 +4,6 @@ public struct StringDistance {
     public int dChar { get; set; }
     public int dLength { get; set; }
     //public static StringDistance Normalize(StringDistance dist) => dist /
-    
 }
 ```
 
@@ -53,4 +52,4 @@ public struct StringDistance {
 }
 ```
 
-#MERGE_NOTES
+#Идеи_проектов #Идеи_проектов/Upper_Level

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/Задачи проекта.md",
+                "file": "12 Разное/Шрифты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи проекта"
+              "title": "Шрифты"
             }
           }
         ]
@@ -222,8 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "c8832b7428ddbc38",
   "lastOpenFiles": [
+    "12 Разное/StylusData.json.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/Задачи проекта.md",
+    "12 Разное/stylus-secondary-2025-09-17.json",
     "12 Разное/stylus-main-2025-09-17.json",
     "02 Программирование/01 .NET/01 C-Sharp/01 Основы/10 Области видимости и пространства имен.md",
     "README.md",
@@ -257,9 +260,6 @@
     "01 Идеи проектов/Целевые проекты/Upper Level/PIECES.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/GUI/02 Формы.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/GUI/01 Ресурсы.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Findlancer/Find and Replace.md",
-    "02 Программирование/01 .NET/ASP.NET",
-    "02 Программирование/01 .NET/01 C-Sharp/04 ООП/Интерфейсы",
     "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Без названия.canvas",
     "06 Информационная безопасность/any2fbimgloader0.jpeg",
     "Files/Fonts3.png",

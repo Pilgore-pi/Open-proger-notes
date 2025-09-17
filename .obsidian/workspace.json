@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Указатель терминов.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Указатель терминов"
+              "title": "README"
             }
           }
         ],
@@ -239,6 +239,16 @@
   },
   "active": "f0323338faea6557",
   "lastOpenFiles": [
+    "Указатель терминов.md",
+    "02 Программирование/01 .NET/01 C-Sharp/04 ООП/03.5 Ключевое слово readonly.md",
+    "01 Идеи проектов/Целевые проекты/Upper Level/TEMP/Models/dbfTable1.cs",
+    "01 Идеи проектов/Целевые проекты/Upper Level/TEMP/Безымянный.dbf",
+    "01 Идеи проектов/Целевые проекты/Upper Level/TEMP/Models",
+    "01 Идеи проектов/Целевые проекты/Upper Level/TEMP/MainWindow.xaml.cs",
+    "01 Идеи проектов/Целевые проекты/Upper Level/TEMP/DBF_Viewer.csproj",
+    "01 Идеи проектов/Целевые проекты/Upper Level/TEMP/MainWindow.xaml",
+    "01 Идеи проектов/Целевые проекты/Upper Level/TEMP/App.xaml",
+    "01 Идеи проектов/Целевые проекты/Upper Level/TEMP",
     "MathJax (LaTeX).md",
     "README.md",
     "01 Идеи проектов/Web crawler.md",
@@ -263,18 +273,8 @@
     "01 Идеи проектов/Целевые проекты/Upper Level/Findlancer/Find and Replace.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Comfort explorer/Yoinq — Explorer SQL-based lang.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/Comfort explorer/Comfort explorer.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Comfort explorer/App models.md",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта/Задачи проекта.md",
     "02 Программирование/01 .NET/ASP.NET",
     "02 Программирование/01 .NET/01 C-Sharp/04 ООП/Интерфейсы",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта",
-    "Регулярные выражения",
-    "07 Системное администрирование/ПЕРЕИМЕНОВАТЬ КАТАЛОГ В 07 Системное администрирование",
-    "07 Системное администрирование/Windows/WinAPI",
-    "01 Идеи проектов/Целевые проекты/Upper Level/PIECES_WinAPI_user32.dll.cs",
-    "02 Программирование/Искусственный интеллект/Распознавание",
-    "02 Программирование/Искусственный интеллект",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Карта проекта",
     "01 Идеи проектов/Целевые проекты/Upper Level/Граф идей/Без названия.canvas",
     "06 Информационная безопасность/any2fbimgloader0.jpeg",
     "Files/Fonts3.png",

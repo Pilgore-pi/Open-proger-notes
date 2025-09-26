@@ -1,8 +1,8 @@
-# OpenProgerNotes
+# Open Proger-notes
 
 ## ENG
 
-**`OpenProgerNotes`** is a big collection of notes on IT technologies created as [Obsidian](https://obsidian.md/) vault. I wrote these notes during my many-year long self education process. I studied programming, information security, system administration and computer physical components.
+**`Open Proger-notes`** is a big collection of notes on IT technologies created as [Obsidian](https://obsidian.md/) vault. I wrote these notes during my many-year long self education process. I studied programming, information security, system administration and computer physical components.
 
 This vault is an accumulation of official documentation, YouTube guides, educational sites and my own thoughts. The vault contains many source links, so you can check the accuracy of my notes or look deeper, if you want.
 

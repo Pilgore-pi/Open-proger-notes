@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/Scala/02 Система типов.md",
+                "file": "02 Программирование/Scala/03 Условия и циклы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Система типов"
-            }
-          },
-          {
-            "id": "edacbc52a9b2dc8b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Files/unified-types-diagram.svg"
-              },
-              "icon": "lucide-image",
-              "title": "unified-types-diagram"
+              "title": "03 Условия и циклы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,11 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "b5c6f7ed30f1d98c",
   "lastOpenFiles": [
-    "Files/unified-types-diagram — копия.svg",
     "02 Программирование/Scala/02 Система типов.md",
     "02 Программирование/Scala/01 Отличительные черты функционального программирования.md",
+    "Files/unified-types-diagram.svg",
+    "Files/unified-types-diagram — копия.svg",
     "02 Программирование/Кодирование информации/Тетрадь - Кодирование информации/README.md",
     "02 Программирование/Искусственный интеллект/Распознавание/01 Введение в OCR.md",
     "02 Программирование/Алгоритмы и структуры данных/01 Введение в алгоритмы.md",
@@ -282,8 +270,6 @@
     "Files/Fonts2.png",
     "Files/Fonts1.png",
     "Files/1С_Async1.png",
-    "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
-    "Files/1C_Редактор_граф_схемы_прил.png",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "Без названия.canvas"

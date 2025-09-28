@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/Сетевое программирование/TCP-IP.md",
+                "file": "02 Программирование/Сетевое программирование/Модели OSI и TCP-IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP-IP"
+              "title": "Модели OSI и TCP-IP"
             }
           }
         ],
@@ -243,7 +243,7 @@
     "Files/Pasted image 20250928173255.png",
     "Files/Pasted image 20250928173113.png",
     "02 Программирование/01 .NET/01 C-Sharp/04 ООП/16 Nullable-типы.md",
-    "02 Программирование/Сетевое программирование/TCP-IP.md",
+    "02 Программирование/Сетевое программирование/Модели OSI и TCP-IP.md",
     "02 Программирование/Сетевое программирование",
     "02 Программирование/01 .NET/01 C-Sharp/05 Системные типы/Класс DataTable.md",
     "01 Идеи проектов/Целевые проекты/Upper Level/PIECES/MY_PROJ/Delayed shutdown.cs",

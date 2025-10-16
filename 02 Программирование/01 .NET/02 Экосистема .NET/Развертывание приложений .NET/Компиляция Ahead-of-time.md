@@ -37,6 +37,55 @@ C# -> Assembly
 - **Проблемы с антивирусом**. Существует известная проблема со сборками AOT. Антивирус Microsoft Defender часто воспринимает программы скомпилированные в AOT как вредоносные, поэтому при запуске или скачивании файлов сборки антивирус может просто удалить эти файлы
 - **Зависимость от платформы**. AOT приложение работает только в конретной версии ОС. Кроме того, выполнять AOT компиляцию следует выполнять только на целевой ОС, иначе приложение может быть не работоспособным
 
+https://stackoverflow.com/questions/74580241/net-ahead-of-time-publishreadytorun-vs-publishaot-vs-runaotcompilation
+
+RTR and AOT both precompile the assemblies in the project. But big difference, AOT must precompile everything, RTR still allows the just-in-time compiler to run to deal with code that could not correctly be precompiled
+
+
+PublishAOT will not ship a JIT with your application. Many reflection APIs will fail at runtime. You will be unable to load .NET assemblies into your application at runtime, so your app won't be extensible in the traditional .NET ways.
+
+PublishReadyToRun gives you some or most of the perf benefit of AOT without the added restrictions that PublishAOT brings
+
+```xml
+<PropertyGroup>
+    <PublishAot>true</PublishAot>
+</PropertyGroup>
+```
+
+AOT Blazor WebAssembly:
+
+```xml
+<PropertyGroup>
+    <RunAOTCompilation>true</RunAOTCompilation>
+</PropertyGroup>
+```
+
+> Кароче, не стоит использовать R2R и AOT, если в этом нет необходимости, так как даже не во всех случаях будет повышена производительность
+
+## Ready to run compilation
+
+https://learn.microsoft.com/en-us/dotnet/core/deploying/ready-to-run
+
+> **`ReadyToRun`** (`R2R`) компиляция — это форма AOT компиляции
+
+```cli
+dotnet publish -c Release -r win-x64 -p:PublishReadyToRun=true
+```
+
+```xml
+<PropertyGroup>
+    <PublishReadyToRun>true</PublishReadyToRun>
+</PropertyGroup>
+```
+
+To exclude specific assemblies from ReadyToRun processing, use the `<PublishReadyToRunExclude>` list
+
+```xml
+<ItemGroup>
+    <PublishReadyToRunExclude Include="Contoso.Example.dll" />
+</ItemGroup>
+```
+
 ----
 
 ЧТО ТАКОЕ ReadyToRun компиляция

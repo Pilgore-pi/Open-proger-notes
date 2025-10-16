@@ -64,6 +64,8 @@ AOT Blazor WebAssembly:
 
 ## Ready to run compilation
 
+УКАЗАТЬ ВЕРСИИ .NET, ПОДДЕРЖИВАЮЩИЕ R2R, AOT
+
 https://learn.microsoft.com/en-us/dotnet/core/deploying/ready-to-run
 
 > **`ReadyToRun`** (`R2R`) компиляция — это форма AOT компиляции

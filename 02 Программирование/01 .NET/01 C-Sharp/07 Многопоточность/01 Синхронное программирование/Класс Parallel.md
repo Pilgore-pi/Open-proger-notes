@@ -9,12 +9,12 @@
 
 ```csharp
 Parallel.Invoke(
-  Print,
-  () => {
-    Console.WriteLine($"Выполняется задача {Task.CurrentId}");
-    Thread.Sleep(3000);
-  },
-  () => Square(5)
+    Print,
+    () => {
+        Console.WriteLine($"Выполняется задача {Task.CurrentId}");
+        Thread.Sleep(3000);
+    },
+    () => Square(5)
 );
 
 // методы Print & Square
@@ -32,15 +32,14 @@ Parallel.Invoke(
 
 ```csharp
 ParallelLoopResult result = Parallel.ForEach<int>(
-  new List<int>() { 1, 3, 5, 8 },
-  Square
+    new List<int>() { 1, 3, 5, 8 },
+    Square
 );
  
-void Square(int n)
-{
-  Console.WriteLine($"Выполняется задача {Task.CurrentId}");
-  Console.WriteLine($"Квадрат числа {n} равен {n * n}");
-  Thread.Sleep(2000);
+void Square(int n) {
+    Console.WriteLine($"Выполняется задача {Task.CurrentId}");
+    Console.WriteLine($"Квадрат числа {n} равен {n * n}");
+    Thread.Sleep(2000);
 }
 ```
 
@@ -49,14 +48,13 @@ void Square(int n)
 ```csharp
 ParallelLoopResult result = Parallel.For(1, 10, Square);
 if (!result.IsCompleted)
-  Console.WriteLine($"Выполнение цикла завершено на итерации {result.LowestBreakIteration}");
+    Console.WriteLine($"Выполнение цикла завершено на итерации {result.LowestBreakIteration}");
  
-void Square(int n, ParallelLoopState pls)
-{
-  // условный выход из параллельного цикла
-  if (n == 5) pls.Break();
-  Console.WriteLine($"Квадрат числа {n} равен {n * n}");
-  Thread.Sleep(2000);
+void Square(int n, ParallelLoopState pls) {
+    // условный выход из параллельного цикла
+    if (n == 5) pls.Break();
+    Console.WriteLine($"Квадрат числа {n} равен {n * n}");
+    Thread.Sleep(2000);
 }
 ```
 

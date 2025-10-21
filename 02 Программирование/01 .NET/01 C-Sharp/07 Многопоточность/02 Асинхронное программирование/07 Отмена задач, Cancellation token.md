@@ -98,21 +98,16 @@ cts.Dispose(); // Освобождаем ресурсы
 ### Паттерн 2: Выброс исключения через `ThrowIfCancellationRequested()`
 
 ```csharp
-async Task ProcessDataAsync(CancellationToken token)
-{
-    try
-    {
-        for (int i = 0; i < 1000; i++)
-        {
+async Task ProcessDataAsync(CancellationToken token) {
+    try {
+        for (int i = 0; i < 1000; i++) {
             // Выбросит OperationCanceledException при отмене
             token.ThrowIfCancellationRequested();
             
             await Task.Delay(100, token); // token можно передать в Task.Delay
             Console.WriteLine($"Обработка элемента {i}");
         }
-    }
-    catch (OperationCanceledException)
-    {
+    } catch (OperationCanceledException) {
         Console.WriteLine("Операция была отменена");
         throw; // Перебрасываем исключение дальше
     }
@@ -121,19 +116,15 @@ async Task ProcessDataAsync(CancellationToken token)
 // Использование
 var cts = new CancellationTokenSource();
 
-try
-{
+try {
     var task = ProcessDataAsync(cts.Token);
     await Task.Delay(2000);
     cts.Cancel();
     await task;
-}
-catch (OperationCanceledException)
-{
+    
+} catch (OperationCanceledException) {
     Console.WriteLine("Задача отменена на верхнем уровне");
-}
-finally
-{
+} finally {
     cts.Dispose();
 }
 ```
@@ -143,8 +134,7 @@ finally
 ### Паттерн 3: Автоматическая отмена по таймауту
 
 ```csharp
-async Task DownloadFileAsync(string url, CancellationToken token)
-{
+async Task DownloadFileAsync(string url, CancellationToken token) {
     using var client = new HttpClient();
     // Передаем токен в асинхронные методы библиотек
     var response = await client.GetAsync(url, token);
@@ -155,16 +145,11 @@ async Task DownloadFileAsync(string url, CancellationToken token)
 // Автоматическая отмена через 5 секунд
 using var cts = new CancellationTokenSource(TimeSpan.FromSeconds(5));
 
-try
-{
+try {
     await DownloadFileAsync("https://example.com/largefile", cts.Token);
-}
-catch (OperationCanceledException)
-{
+} catch (OperationCanceledException) {
     Console.WriteLine("Превышено время ожидания");
-}
-catch (HttpRequestException ex)
-{
+} catch (HttpRequestException ex) {
     Console.WriteLine($"Ошибка загрузки: {ex.Message}");
 }
 ```
@@ -178,8 +163,7 @@ catch (HttpRequestException ex)
 Иногда нужно отменить операцию при срабатывании любого из нескольких условий:
 
 ```csharp
-async Task ComplexOperationAsync(CancellationToken userToken)
-{
+async Task ComplexOperationAsync(CancellationToken userToken) {
     // Создаем токен с таймаутом
     using var timeoutCts = new CancellationTokenSource(TimeSpan.FromSeconds(30));
     
@@ -189,13 +173,10 @@ async Task ComplexOperationAsync(CancellationToken userToken)
         timeoutCts.Token
     );
     
-    try
-    {
+    try {
         // Операция отменится либо по запросу пользователя, либо по таймауту
         await LongRunningOperationAsync(linkedCts.Token);
-    }
-    catch (OperationCanceledException)
-    {
+    } catch (OperationCanceledException) {
         if (userToken.IsCancellationRequested)
             Console.WriteLine("Отменено пользователем");
         else if (timeoutCts.Token.IsCancellationRequested)
@@ -207,21 +188,17 @@ async Task ComplexOperationAsync(CancellationToken userToken)
 ### Регистрация callback-ов при отмене
 
 ```csharp
-async Task ProcessWithCleanupAsync(CancellationToken token)
-{
+async Task ProcessWithCleanupAsync(CancellationToken token) {
     var resource = new SomeResource();
     
     // Регистрируем действие, которое выполнится при отмене
-    using var registration = token.Register(() =>
-    {
+    using var registration = token.Register(() => {
         Console.WriteLine("Выполняется очистка ресурсов...");
         resource.Dispose();
     });
     
-    try
-    {
-        for (int i = 0; i < 100; i++)
-        {
+    try {
+        for (int i = 0; i < 100; i++) {
             token.ThrowIfCancellationRequested();
             await Task.Delay(100);
             await resource.ProcessAsync();

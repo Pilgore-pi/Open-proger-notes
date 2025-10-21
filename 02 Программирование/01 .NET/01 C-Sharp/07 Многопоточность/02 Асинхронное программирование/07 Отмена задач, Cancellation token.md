@@ -476,4 +476,4 @@ private void CancelButton_Click(object sender, EventArgs e)
 
 Далее: [[Parallel LINQ]]
 
-#C-Sharp #C-Sharp/Threads/Async
+#C-Sharp #C-Sharp/Threads/Async #GENERATED

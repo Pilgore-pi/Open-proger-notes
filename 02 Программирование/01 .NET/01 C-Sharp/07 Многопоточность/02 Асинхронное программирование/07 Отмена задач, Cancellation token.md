@@ -309,8 +309,7 @@ try {
     // Обрабатываем отмену отдельно
     Console.WriteLine("Операция отменена");
     throw; // Или не перебрасываем, в зависимости от логики
-}catch (Exception ex)
-{
+} catch (Exception ex) {
     LogError(ex);
     throw;
 }
@@ -320,15 +319,13 @@ try {
 
 ```csharp
 // ❌ Плохо
-async Task ProcessAsync(CancellationToken token)
-{
+async Task ProcessAsync(CancellationToken token) {
     await Task.Delay(1000); // Токен не передан
     await File.ReadAllTextAsync("file.txt"); // Токен не передан
 }
 
 // ✅ Хорошо
-async Task ProcessAsync(CancellationToken token)
-{
+async Task ProcessAsync(CancellationToken token) {
     await Task.Delay(1000, token);
     await File.ReadAllTextAsync("file.txt", token);
 }
@@ -337,8 +334,7 @@ async Task ProcessAsync(CancellationToken token)
 ### 4. Используйте `CancellationToken.None` для методов, не поддерживающих отмену
 
 ```csharp
-async Task WrapperAsync(CancellationToken token = default)
-{
+async Task WrapperAsync(CancellationToken token = default) {
     // Если токен не передан, используется default (эквивалентно CancellationToken.None)
     await SomeOperationAsync(token);
 }
@@ -350,10 +346,8 @@ await WrapperAsync(); // Использует CancellationToken.None
 ### 5. Проверяйте отмену в циклах и длительных операциях
 
 ```csharp
-async Task ProcessLargeDatasetAsync(CancellationToken token)
-{
-    foreach (var item in largeDataset)
-    {
+async Task ProcessLargeDatasetAsync(CancellationToken token) {
+    foreach (var item in largeDataset) {
         // Проверка в начале каждой итерации
         token.ThrowIfCancellationRequested();
         
@@ -384,23 +378,17 @@ async Task ProcessLargeDatasetAsync(CancellationToken token)
 // В UI-приложении
 private CancellationTokenSource _cts;
 
-private async void StartButton_Click(object sender, EventArgs e)
-{
+private async void StartButton_Click(object sender, EventArgs e) {
     _cts = new CancellationTokenSource();
     StartButton.Enabled = false;
     CancelButton.Enabled = true;
     
-    try
-    {
+    try {
         await LongRunningOperationAsync(_cts.Token);
         MessageBox.Show("Операция завершена");
-    }
-    catch (OperationCanceledException)
-    {
+    } catch (OperationCanceledException) {
         MessageBox.Show("Операция отменена");
-    }
-    finally
-    {
+    } finally {
         StartButton.Enabled = true;
         CancelButton.Enabled = false;
         _cts?.Dispose();
@@ -408,8 +396,7 @@ private async void StartButton_Click(object sender, EventArgs e)
     }
 }
 
-private void CancelButton_Click(object sender, EventArgs e)
-{
+private void CancelButton_Click(object sender, EventArgs e) {
     _cts?.Cancel();
 }
 ```
@@ -418,12 +405,12 @@ private void CancelButton_Click(object sender, EventArgs e)
 
 ## Сравнение подходов к отмене
 
-| Подход | Преимущества | Недостатки | Когда использовать |
-|--------|--------------|------------|-------------------|
-| **`IsCancellationRequested`** | Полный контроль над логикой, можно выполнить очистку перед выходом | Требует явных проверок в коде | Когда нужна специфическая логика при отмене |
-| **`ThrowIfCancellationRequested()`** | Простой код, автоматическое прерывание | Нужна обработка исключений | Стандартный сценарий, когда достаточно просто прервать выполнение |
-| **Передача токена в библиотечные методы** | Не требует дополнительного кода | Зависит от поддержки в библиотеке | Всегда, когда метод принимает `CancellationToken` |
-| **`Register()` callback** | Гарантированное выполнение при отмене | Callback выполняется синхронно | Для критичной очистки ресурсов |
+| Подход                                | Преимущества                                                       | Недостатки                        | Когда использовать                                                |
+| ------------------------------------- | ------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------------------------- |
+| `IsCancellationRequested`             | Полный контроль над логикой, можно выполнить очистку перед выходом | Требует явных проверок в коде     | Когда нужна специфическая логика при отмене                       |
+| `ThrowIfCancellationRequested()`      | Простой код, автоматическое прерывание                             | Нужна обработка исключений        | Стандартный сценарий, когда достаточно просто прервать выполнение |
+| Передача токена в библиотечные методы | Не требует дополнительного кода                                    | Зависит от поддержки в библиотеке | Всегда, когда метод принимает `CancellationToken`                 |
+| `Register()` callback                 | Гарантированное выполнение при отмене                              | Callback выполняется синхронно    | Для критичной очистки ресурсов                                    |
 
 Механизм **`CancellationToken`** — это стандартный и рекомендуемый способ отмены асинхронных операций в .NET. Правильное его использование делает код более отзывчивым, предсказуемым и удобным для пользователя.
 

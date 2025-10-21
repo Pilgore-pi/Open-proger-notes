@@ -203,9 +203,7 @@ async Task ProcessWithCleanupAsync(CancellationToken token) {
             await Task.Delay(100);
             await resource.ProcessAsync();
         }
-    }
-    finally
-    {
+    } finally {
         // Если операция завершилась нормально, очищаем ресурсы здесь
         if (!token.IsCancellationRequested)
             resource.Dispose();
@@ -218,23 +216,18 @@ async Task ProcessWithCleanupAsync(CancellationToken token) {
 ### Отмена параллельных задач
 
 ```csharp
-async Task ProcessMultipleItemsAsync(List<string> items, CancellationToken token)
-{
+async Task ProcessMultipleItemsAsync(List<string> items, CancellationToken token) {
     var tasks = items.Select(item => ProcessItemAsync(item, token)).ToArray();
     
-    try
-    {
+    try {
         await Task.WhenAll(tasks);
-    }
-    catch (OperationCanceledException)
-    {
+    } catch (OperationCanceledException) {
         Console.WriteLine("Одна или несколько задач были отменены");
         // Task.WhenAll выбросит исключение, даже если отменена только одна задача
     }
 }
 
-async Task ProcessItemAsync(string item, CancellationToken token)
-{
+async Task ProcessItemAsync(string item, CancellationToken token) {
     await Task.Delay(Random.Shared.Next(1000, 5000), token);
     token.ThrowIfCancellationRequested();
     Console.WriteLine($"Обработан: {item}");
@@ -242,7 +235,7 @@ async Task ProcessItemAsync(string item, CancellationToken token)
 
 // Использование
 var cts = new CancellationTokenSource();
-var items = new List<string> { "item1", "item2", "item3", "item4", "item5" };
+List<string> items = ["item1", "item2", "item3", "item4", "item5"];
 
 var task = ProcessMultipleItemsAsync(items, cts.Token);
 
@@ -250,12 +243,9 @@ var task = ProcessMultipleItemsAsync(items, cts.Token);
 await Task.Delay(3000);
 cts.Cancel();
 
-try
-{
+try {
     await task;
-}
-catch (OperationCanceledException)
-{
+} catch (OperationCanceledException) {
     Console.WriteLine("Обработка массива отменена");
 }
 ```
@@ -266,20 +256,16 @@ catch (OperationCanceledException)
 
 ```csharp
 var cts = new CancellationTokenSource();
-var task = Task.Run(async () =>
-{
+var task = Task.Run(async () => {
     await Task.Delay(5000, cts.Token);
 }, cts.Token);
 
 await Task.Delay(1000);
 cts.Cancel();
 
-try
-{
+try {
     await task;
-}
-catch (OperationCanceledException)
-{
+} catch (OperationCanceledException) {
     Console.WriteLine($"Статус задачи: {task.Status}"); // Canceled
     Console.WriteLine($"IsCanceled: {task.IsCanceled}"); // True
     Console.WriteLine($"IsFaulted: {task.IsFaulted}");   // False
@@ -310,27 +296,20 @@ cts.Cancel();
 
 ```csharp
 // ❌ Плохо
-try
-{
+try {
     await OperationAsync(token);
-}
-catch (Exception ex) // Поглощает OperationCanceledException
-{
+} catch (Exception ex) { // Поглощает OperationCanceledException
     LogError(ex);
 }
 
 // ✅ Хорошо
-try
-{
+try {
     await OperationAsync(token);
-}
-catch (OperationCanceledException)
-{
+} catch (OperationCanceledException) {
     // Обрабатываем отмену отдельно
     Console.WriteLine("Операция отменена");
     throw; // Или не перебрасываем, в зависимости от логики
-}
-catch (Exception ex)
+}catch (Exception ex)
 {
     LogError(ex);
     throw;

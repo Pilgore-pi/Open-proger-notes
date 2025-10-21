@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Указатель терминов"
             }
+          },
+          {
+            "id": "2c73a46f8a1ac28c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,11 +224,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Указатель терминов.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Свойства файла для Указатель терминов"
+              "title": "Свойства файла"
             }
           }
         ]
@@ -236,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "874f7c603de612fd",
+  "active": "2c73a46f8a1ac28c",
   "lastOpenFiles": [
     "12 Разное/stylus-main-2025-10-06.json",
     "02 Программирование/Сети/Физический уровень сетевых моделей OSI и TCP-IP.md",

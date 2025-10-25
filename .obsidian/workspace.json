@@ -29,7 +29,7 @@
               "state": {
                 "file": "10 Компьютерная инженерия/05 Оперативная память.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "05 Оперативная память"
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "16ecc3bc9f5ac334",
@@ -224,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {

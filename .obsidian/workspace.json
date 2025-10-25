@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/01 .NET/02 C-Sharp/04 ООП/03 _Статические классы.md",
+                "file": "02 Программирование/01 .NET/01 C-Sharp/01 Основы/06 Циклы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 03 _Статические классы"
+              "title": "Структура 06 Циклы"
             }
           },
           {
@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "28f674ae8ffe23b1",
@@ -264,7 +264,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "022ad904fa9d7be2",
+  "active": "3e7e31d052c20422",
   "lastOpenFiles": [
     "02 Программирование/01 .NET/01 C-Sharp/01 Основы/05 Понятие выражений и операторов.md",
     "02 Программирование/С С++/04 Условные операторы и выражения.md",

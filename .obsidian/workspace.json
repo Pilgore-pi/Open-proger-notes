@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/z_Legacy/FoxPro 2.6/01 Введение в СУБД FoxPro.md",
+                "file": "02 Программирование/z Legacy tech/FoxPro 2.6/GUI/01 Формы в FoxPro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Введение в СУБД FoxPro"
+              "title": "01 Формы в FoxPro"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/z_Legacy/FoxPro 2.6/01 Введение в СУБД FoxPro.md",
+                "file": "02 Программирование/z Legacy tech/FoxPro 2.6/GUI/01 Формы в FoxPro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Введение в СУБД FoxPro"
+              "title": "Структура 01 Формы в FoxPro"
             }
           },
           {
@@ -227,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/z_Legacy/FoxPro 2.6/01 Введение в СУБД FoxPro.md"
+                "file": "02 Программирование/z Legacy tech/FoxPro 2.6/GUI/01 Формы в FoxPro.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для 01 Введение в СУБД FoxPro"
+              "title": "Свойства файла для 01 Формы в FoxPro"
             }
           }
         ]
@@ -252,6 +252,7 @@
   },
   "active": "ac010bb9ff7c1945",
   "lastOpenFiles": [
+    "02 Программирование/z Legacy tech/FoxPro 2.6/01 Введение в СУБД FoxPro.md",
     "02 Программирование/UI/UI Шрифты.md",
     "02 Программирование/UI/01 UI Design.md",
     "02 Программирование/UI/Шаблоны Web-дизайнов.md",
@@ -277,7 +278,6 @@
     "02 Программирование/С, С++/05 Циклы.md",
     "02 Программирование/С, С++/06 Операторы перехода.md",
     "02 Программирование/С, С++/07 Перечисления.md",
-    "02 Программирование/01 .NET/01 C-Sharp/04 ООП/08 ПОЛИМОРФИЗМ.md",
     "02 Программирование/С, С++/ООП",
     "10 Компьютерная инженерия/~$ория компьютерного дела.docx",
     "12 Разное/stylus-main-2025-10-06.json",

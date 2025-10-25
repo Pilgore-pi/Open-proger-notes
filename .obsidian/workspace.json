@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 Разное/Гайд по ChatGPT.md",
+                "file": "10 Компьютерная инженерия/03 Процессор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гайд по ChatGPT"
+              "title": "03 Процессор"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "16ecc3bc9f5ac334",
@@ -186,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "28f674ae8ffe23b1",
@@ -198,17 +199,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "12 Разное/Гайд по ChatGPT.md"
+                "file": "10 Компьютерная инженерия/03 Процессор.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Гайд по ChatGPT"
+              "title": "Свойства файла для 03 Процессор"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c900ac5ff9c19205",
+  "active": "b5c6f7ed30f1d98c",
   "lastOpenFiles": [
+    "02 Программирование/SaaS.md",
     "02 Программирование/01 .NET/01 C-Sharp/07 Многопоточность/02 Асинхронное программирование/07 Отмена задач, Cancellation token.md",
     "12 Разное/Гайд по ChatGPT.md",
     "02 Программирование/01 .NET/01 C-Sharp/07 Многопоточность/02 Асинхронное программирование/06 Введение в асинхронный код. Библиотека TPL.md",
@@ -250,7 +253,6 @@
     "02 Программирование/С С++",
     "Список программ для установки на свежую систему.md",
     "Ресурсы.md",
-    "02 Программирование/Файловые системы.md",
     "02 Программирование/Как работают программы",
     "02 Программирование/Scala/Тетрадь - Scala/IMG_20220520_095204.jpg",
     "Files/unified-types-diagram.svg",

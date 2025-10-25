@@ -53,12 +53,11 @@ string description = rect switch
 Явное создание деконструктора:
 
 ```csharp
-public record Person
-{
+public record Person {
     public string Name { get; init; }
     public int Age { get; init; }
-    public Person(string name, int age)
-    {
+    
+    public Person(string name, int age) {
         Name = name; Age = age;
     }
     
@@ -73,8 +72,7 @@ public record Person
 Модификатор `readonly` позволяет явно указать на то, что состояние записи не может быть изменено даже ее же методами.
 
 ```csharp
-public readonly record Person(string FirstName, string LastName)
-{
+public readonly record Person(string FirstName, string LastName) {
     // Этот метод не может изменять состояние объекта
     public string GetFullName() => $"{FirstName} {LastName}";
 }

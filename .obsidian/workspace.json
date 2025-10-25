@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/01 .NET/01 C-Sharp/01 Основы/02 Переменные.md"
+                "file": "02 Программирование/С С++/02 Переменные.md"
               },
               "icon": "lucide-info",
               "title": "Свойства файла для 02 Переменные"
@@ -250,10 +250,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c14af8c5fd81c39",
+  "active": "c3932186b3fb47a3",
   "lastOpenFiles": [
-    "02 Программирование/С С++/02 Переменные.md",
     "02 Программирование/01 .NET/01 C-Sharp/01 Основы/02 Переменные.md",
+    "02 Программирование/С С++/02 Переменные.md",
     "02 Программирование/С С++/01 Введение в язык C++.md",
     "02 Программирование/01 .NET/01 C-Sharp/01 Основы/01 Введение в язык C-Sharp.md",
     "12 Разное/LLM Prompts.md",

@@ -29,7 +29,7 @@
               "state": {
                 "file": "02 Программирование/С С++/01 Введение в язык C++.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "01 Введение в язык C++"

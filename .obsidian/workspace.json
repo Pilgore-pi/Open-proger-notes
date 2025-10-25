@@ -29,7 +29,7 @@
               "state": {
                 "file": "02 Программирование/С С++/Директивы препроцессора.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Директивы препроцессора"

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Программирование/С, С++/06 Операторы перехода.md",
+                "file": "02 Программирование/Scala/06 Обобщения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Операторы перехода"
-            }
-          },
-          {
-            "id": "ac010bb9ff7c1945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Программирование/z Legacy tech/FoxPro 2.6/Remote connection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Remote connection"
+              "title": "06 Обобщения"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "00 Введение в ООП"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/z Legacy tech/FoxPro 2.6/Remote connection.md",
+                "file": "02 Программирование/Scala/06 Обобщения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Remote connection"
+              "title": "Структура 06 Обобщения"
             }
           },
           {
@@ -227,10 +212,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 Программирование/z Legacy tech/FoxPro 2.6/Remote connection.md"
+                "file": "02 Программирование/Scala/06 Обобщения.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Remote connection"
+              "title": "Свойства файла для 06 Обобщения"
             }
           }
         ]
@@ -250,8 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac010bb9ff7c1945",
+  "active": "022ad904fa9d7be2",
   "lastOpenFiles": [
+    "02 Программирование/Scala/04 Ввод, рандом, коллекции.md",
+    "02 Программирование/Scala/03 Условия и циклы.md",
+    "02 Программирование/Scala/02 Система типов.md",
+    "02 Программирование/Scala/01 Отличительные черты функционального программирования.md",
+    "02 Программирование/z Legacy tech/FoxPro 2.6/Remote connection.md",
     "02 Программирование/z Legacy tech/FoxPro 2.6/DBF convertion.md",
     "02 Программирование/z Legacy tech/FoxPro 2.6/Чем отличаются языки dbase & xbase.md",
     "02 Программирование/z Legacy tech/FoxPro 2.6/Случайные значения.md",
@@ -273,11 +263,6 @@
     "02 Программирование/UI/Шаблоны Desktop UI дизайнов.md",
     "02 Программирование/SaaS.md",
     "02 Программирование/EXCEL_READER.md",
-    "README.md",
-    "12 Разное/Tag mapping.md",
-    "02 Программирование/С, С++/10 Точка входа в программу.md",
-    "02 Программирование/С, С++/Директивы препроцессора.md",
-    "02 Программирование/Сети/02 Модели OSI и TCP-IP.md",
     "02 Программирование/С, С++/ООП",
     "10 Компьютерная инженерия/~$ория компьютерного дела.docx",
     "12 Разное/stylus-main-2025-10-06.json",

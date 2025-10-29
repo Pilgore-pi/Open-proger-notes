@@ -11,6 +11,6 @@
 
 [Источник](https://metanit.com/sharp/net/1.4.php)
 
-Далее: [[HEREHEREHEREИнформация о сетевой конфигурации и трафике]]
+Далее: [[Информация о сетевой конфигурации и трафике]]
 
-#Web #C-Sharp
+#Network #Web #C-Sharp

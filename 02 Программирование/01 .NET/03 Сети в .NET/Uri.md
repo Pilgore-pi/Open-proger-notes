@@ -46,4 +46,4 @@ UriKind — перечисление разновидностей Uri (все о
 Продолжение: [[DNS]]
 https://metanit.com/sharp/net/1.4.php
 
-#Web #C-Sharp
+#Network #Web #C-Sharp

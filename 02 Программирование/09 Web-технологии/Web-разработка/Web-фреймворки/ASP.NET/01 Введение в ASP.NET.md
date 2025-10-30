@@ -107,4 +107,4 @@ else
 
 [^8]: https://flexberry.github.io/ru/gbt_aspnet.html
 
-#Web #Dotnet/ASP-NET
+#Web #Dotnet/ASP-NET #GENERATED

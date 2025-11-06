@@ -1,4 +1,4 @@
 
 Win + R -> winver
 
-#Administration #OS/Windows
+#System_administration #OS/Windows

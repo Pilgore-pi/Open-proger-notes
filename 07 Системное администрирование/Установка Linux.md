@@ -5,4 +5,8 @@
 
 1. Скачать образ (.iso) дистрибутива Линукс желаемой версии. К примеру, дистрибутив Linux Mint с графическим окружением на выбор (Cinnammon, Xfce или MATE) можно скачать с официального сайта https://linuxmint.com/download.php
 
+2. Установить программу для создания загрузочной флешки, например, [Rufus](https://rufus.ie/ru/)
+
+3. 
+
 #System_administration #OS/Linux

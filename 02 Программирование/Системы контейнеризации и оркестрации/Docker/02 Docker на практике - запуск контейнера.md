@@ -3,5 +3,6 @@
 
 1. Скачать приложение Docker Desktop с официального сайта
 2. Запустить приложение
+3. ...Найти образ 
 
 #Containerization #Containerization/Docker

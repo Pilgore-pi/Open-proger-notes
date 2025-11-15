@@ -2,6 +2,8 @@
 
 ## Генерация публичного и приватного ключей
 
+https://hostvds.com/ru/tutorials/linux-basics/ssh-key-generation
+
 Клиент от OpenSSH уже включен в базовое программное обеспечение в Windows 10/11, Ubuntu, Debian. Рассмотрим генерацию ключей на клиентской машине c его помощью.
 Для Windows нажмите Win+R, введите cmd. Для Ubuntu/Debian запустите терминал сочетанием клавиш Ctrl+Alt+T.
 
@@ -41,12 +43,16 @@ ssh-keygen [опции]
 
 - длина ключа 2048 бит
 - комментарий «Win-Ubuntu»
-- пароль для приватного ключа: ssh
-- имя ключа: id_rsa2048
-- местоположение ключа: C:\Users\jetcry\ssh_keys\
+- пароль для приватного ключа: `ssh`
+- имя ключа: `id_rsa2048`
+- местоположение ключа: `C:\Users\jetcry\ssh_keys\`
 
-> Директория «ssh_keys» должна быть предварительно создана.
+> Директория «ssh_keys» должна быть предварительно создана
 
 Команда для создания ключа с указанными параметрами:
+
+```bash
+ssh-keygen -t rsa -b 2048 -C Win-Ubuntu -N ssh -f C:\Users\jetcry\ssh_keys\id_rsa2048
+```
 
 #Network #SSH

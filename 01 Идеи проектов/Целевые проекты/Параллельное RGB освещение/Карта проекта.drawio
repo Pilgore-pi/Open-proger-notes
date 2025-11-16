@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Страница-1" id="_2ikf6YS77UTItCYKeHr">
-    <mxGraphModel dx="868" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="417" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,10 +265,16 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-57" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="47" y="200" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-192" value="" style="endArrow=none;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u18JFuirMqjdbq_o23pt-180">
+        <mxCell id="u18JFuirMqjdbq_o23pt-192" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u18JFuirMqjdbq_o23pt-180">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="585" y="280" as="sourcePoint" />
-            <mxPoint x="635" y="230" as="targetPoint" />
+            <mxPoint x="437" y="81" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="280" />
+              <mxPoint x="80" y="230" />
+              <mxPoint x="80" y="200" />
+              <mxPoint x="80" y="80" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

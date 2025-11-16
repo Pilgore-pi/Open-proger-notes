@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "6ac07bee945b3f26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.3"
+            }
+          },
+          {
             "id": "53da7ef1d57b5294",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "03 Введение в неуправляемый код"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +183,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Программирование/08 Сети/Создание собственного VPN сервера.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Создание собственного VPN сервера"
+              "title": "Структура"
             }
           },
           {
@@ -225,11 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02 Программирование/08 Сети/Создание собственного VPN сервера.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Свойства файла для Создание собственного VPN сервера"
+              "title": "Свойства файла"
             }
           }
         ]
@@ -249,7 +259,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "022ad904fa9d7be2",
+  "active": "6ac07bee945b3f26",
   "lastOpenFiles": [
     "02 Программирование/08 Сети/SSH Протокол.md",
     "02 Программирование/08 Сети/Создание собственного VPN сервера.md",

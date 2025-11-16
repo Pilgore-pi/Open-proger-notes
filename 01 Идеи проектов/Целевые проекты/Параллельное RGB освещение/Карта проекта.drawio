@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Страница-1" id="_2ikf6YS77UTItCYKeHr">
-    <mxGraphModel dx="200" dy="101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1895" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -565,35 +565,50 @@
             <mxPoint x="381" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-331" value="Расчеты тока" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="550" y="13" width="140" height="30" as="geometry" />
+        <mxCell id="u18JFuirMqjdbq_o23pt-331" value="Расчеты тока" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="568" y="13" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u18JFuirMqjdbq_o23pt-333" value="W&lt;sub&gt;i&lt;/sub&gt; = 15 Вт, где i&amp;nbsp;— любая лампа" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="114" width="290" height="25" as="geometry" />
+          <mxGeometry x="523" y="114" width="290" height="25" as="geometry" />
         </mxCell>
         <mxCell id="u18JFuirMqjdbq_o23pt-334" value="U&lt;sub&gt;общ&lt;/sub&gt; = 220 В" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="149" width="110" height="30" as="geometry" />
+          <mxGeometry x="523" y="149" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u18JFuirMqjdbq_o23pt-335" value="W&lt;sub&gt;общ&lt;/sub&gt; = Wi × 8 = 15 × 8 Вт = 120 Вт" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="187" width="230" height="30" as="geometry" />
+          <mxGeometry x="523" y="187" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u18JFuirMqjdbq_o23pt-336" value="W&lt;span style=&quot;font-size: 11.6667px;&quot;&gt;южная&lt;/span&gt;&amp;nbsp;= Wi × 6 = 15 × 6 Вт = 90 Вт" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="224" width="230" height="30" as="geometry" />
+          <mxGeometry x="523" y="224" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u18JFuirMqjdbq_o23pt-337" value="W&lt;sub&gt;полная&lt;/sub&gt; = W&lt;sub&gt;общ&lt;/sub&gt; = 120 Вт" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="264.5" width="230" height="34.5" as="geometry" />
+          <mxGeometry x="523" y="264.5" width="230" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="u18JFuirMqjdbq_o23pt-338" value="W&lt;sub&gt;одноцветная&lt;/sub&gt; = 5 × 6 + 15 × 2 Вт = 60 Вт" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="307" width="260" height="34.5" as="geometry" />
+          <mxGeometry x="523" y="307" width="260" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="u18JFuirMqjdbq_o23pt-339" value="W&lt;sub&gt;одн. юж.&lt;/sub&gt;&amp;nbsp;= 5 × 4 + 15 × 2 Вт =&amp;nbsp; 50 Вт" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="351" width="250" height="34.5" as="geometry" />
+          <mxGeometry x="523" y="351" width="250" height="34.5" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-340" value="" style="endArrow=oval;html=1;rounded=0;strokeColor=light-dark(#000000,#FF0000);endFill=1;endSize=3;" edge="1" parent="1">
+        <mxCell id="u18JFuirMqjdbq_o23pt-340" value="" style="endArrow=oval;html=1;rounded=0;strokeColor=light-dark(#000000,#FF0000);endFill=1;endSize=3;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="70" as="sourcePoint" />
-            <mxPoint x="530" y="70" as="targetPoint" />
+            <mxPoint x="544" y="60" as="sourcePoint" />
+            <mxPoint x="524" y="60" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-341" value="" style="endArrow=oval;html=1;rounded=0;strokeColor=light-dark(#000000,#00FFFF);endFill=1;endSize=3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544" y="87" as="sourcePoint" />
+            <mxPoint x="524" y="87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-342" value="Фаза" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="545" y="43" width="45" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-343" value="Ноль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="545" y="70" width="45" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-344" value="Финансовые расчеты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="930" y="7" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

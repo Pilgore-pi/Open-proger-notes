@@ -527,6 +527,21 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-314" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="u18JFuirMqjdbq_o23pt-315">
           <mxGeometry x="142.2478571428571" width="10.942142857142855" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-316" value="" style="group;rotation=90;fillColor=#f9f7ed;strokeColor=light-dark(#36393D,#000000);" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="520" width="153.19" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-317" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=light-dark(#FFFFFF,#4C4756);strokeColor=light-dark(#000000,#5E5E5E);" vertex="1" parent="u18JFuirMqjdbq_o23pt-316">
+          <mxGeometry x="42" y="42" width="153.19" height="36.92307692307692" as="geometry" />
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-318" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad7ac, #4c4756);strokeColor=#b46504;rotation=90;" vertex="1" parent="u18JFuirMqjdbq_o23pt-316">
+          <mxGeometry x="-42" y="42" width="153.19" height="36.92307692307692" as="geometry" />
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-319" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rotation=90;" vertex="1" parent="u18JFuirMqjdbq_o23pt-316">
+          <mxGeometry x="71" y="-71" width="10.942142857142855" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-320" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rotation=90;" vertex="1" parent="u18JFuirMqjdbq_o23pt-316">
+          <mxGeometry x="71" y="71" width="10.942142857142855" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

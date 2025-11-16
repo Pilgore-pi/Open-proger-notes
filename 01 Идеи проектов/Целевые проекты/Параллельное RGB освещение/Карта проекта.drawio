@@ -121,11 +121,14 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="173" width="23" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u18JFuirMqjdbq_o23pt-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="545" y="40" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="u18JFuirMqjdbq_o23pt-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="530" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u18JFuirMqjdbq_o23pt-66" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B09500;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="545.5" y="50" width="49" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

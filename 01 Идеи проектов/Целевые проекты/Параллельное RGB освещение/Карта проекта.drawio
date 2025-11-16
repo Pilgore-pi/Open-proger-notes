@@ -229,8 +229,8 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-57" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="49.99999999999999" y="200" width="116.82" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-165" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.3,0],[0.75,0],[0.86,0.36],[0.93,0.64],[1,1],[0,1],[0.07,0.73],[0.21,0.27]];polyline=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="50" width="140" height="60" as="geometry" />
+        <mxCell id="u18JFuirMqjdbq_o23pt-166" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

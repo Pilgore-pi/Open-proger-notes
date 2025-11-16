@@ -897,12 +897,12 @@
             <mxRectangle width="106" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-412" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=center;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-410">
+        <mxCell id="u18JFuirMqjdbq_o23pt-412" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=center;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-410">
           <mxGeometry x="106" width="106" height="53" as="geometry">
             <mxRectangle width="106" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-413" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-410">
+        <mxCell id="u18JFuirMqjdbq_o23pt-413" value="250" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-410">
           <mxGeometry x="212" width="106" height="53" as="geometry">
             <mxRectangle width="106" height="53" as="alternateBounds" />
           </mxGeometry>
@@ -915,12 +915,12 @@
             <mxRectangle width="106" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-420" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=center;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-418">
+        <mxCell id="u18JFuirMqjdbq_o23pt-420" value="2м&amp;nbsp;× 9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=center;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-418">
           <mxGeometry x="106" width="106" height="30" as="geometry">
             <mxRectangle width="106" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-421" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-418">
+        <mxCell id="u18JFuirMqjdbq_o23pt-421" value="870" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-418">
           <mxGeometry x="212" width="106" height="30" as="geometry">
             <mxRectangle width="106" height="30" as="alternateBounds" />
           </mxGeometry>

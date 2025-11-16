@@ -673,7 +673,7 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-362" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;" vertex="1" parent="u18JFuirMqjdbq_o23pt-357">
           <mxGeometry y="63" width="318" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-363" value="Паяльный набор" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-362">
+        <mxCell id="u18JFuirMqjdbq_o23pt-363" value="Паяльный набор" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-362">
           <mxGeometry width="106" height="34" as="geometry">
             <mxRectangle width="106" height="34" as="alternateBounds" />
           </mxGeometry>
@@ -683,7 +683,7 @@
             <mxRectangle width="106" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-374" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;strokeWidth=2;strokeColor=inherit;fillColor=none;align=left;" vertex="1" parent="u18JFuirMqjdbq_o23pt-362">
+        <mxCell id="u18JFuirMqjdbq_o23pt-374" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;strokeWidth=2;strokeColor=inherit;fillColor=none;align=left;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-362">
           <mxGeometry x="212" width="106" height="34" as="geometry">
             <mxRectangle width="106" height="34" as="alternateBounds" />
           </mxGeometry>
@@ -691,7 +691,7 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-366" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="u18JFuirMqjdbq_o23pt-357">
           <mxGeometry y="97" width="318" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-367" value="Кабель питания" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-366">
+        <mxCell id="u18JFuirMqjdbq_o23pt-367" value="Кабель питания" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-366">
           <mxGeometry width="106" height="33" as="geometry">
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -701,7 +701,7 @@
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-375" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-366">
+        <mxCell id="u18JFuirMqjdbq_o23pt-375" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-366">
           <mxGeometry x="212" width="106" height="33" as="geometry">
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -709,7 +709,7 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-370" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="u18JFuirMqjdbq_o23pt-357">
           <mxGeometry y="130" width="318" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-371" value="Шуруповёрт" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-370">
+        <mxCell id="u18JFuirMqjdbq_o23pt-371" value="Шуруповёрт" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-370">
           <mxGeometry width="106" height="33" as="geometry">
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -719,7 +719,7 @@
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-376" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-370">
+        <mxCell id="u18JFuirMqjdbq_o23pt-376" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-370">
           <mxGeometry x="212" width="106" height="33" as="geometry">
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -748,17 +748,17 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-382" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;" vertex="1" parent="u18JFuirMqjdbq_o23pt-377">
           <mxGeometry y="63" width="318" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-383" value="Паяльный набор" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-382">
+        <mxCell id="u18JFuirMqjdbq_o23pt-383" value="Лампа RGB" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-382">
           <mxGeometry width="106" height="34" as="geometry">
             <mxRectangle width="106" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-384" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-382">
+        <mxCell id="u18JFuirMqjdbq_o23pt-384" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-382">
           <mxGeometry x="106" width="106" height="34" as="geometry">
             <mxRectangle width="106" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-385" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;strokeWidth=2;strokeColor=inherit;fillColor=none;align=left;" vertex="1" parent="u18JFuirMqjdbq_o23pt-382">
+        <mxCell id="u18JFuirMqjdbq_o23pt-385" value="400" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;strokeWidth=2;strokeColor=inherit;fillColor=none;align=left;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-382">
           <mxGeometry x="212" width="106" height="34" as="geometry">
             <mxRectangle width="106" height="34" as="alternateBounds" />
           </mxGeometry>
@@ -766,7 +766,7 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-386" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="u18JFuirMqjdbq_o23pt-377">
           <mxGeometry y="97" width="318" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-387" value="Кабель питания" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-386">
+        <mxCell id="u18JFuirMqjdbq_o23pt-387" value="Кабель питания" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-386">
           <mxGeometry width="106" height="33" as="geometry">
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -776,7 +776,7 @@
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-389" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-386">
+        <mxCell id="u18JFuirMqjdbq_o23pt-389" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-386">
           <mxGeometry x="212" width="106" height="33" as="geometry">
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -784,7 +784,7 @@
         <mxCell id="u18JFuirMqjdbq_o23pt-390" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="u18JFuirMqjdbq_o23pt-377">
           <mxGeometry y="130" width="318" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-391" value="Шуруповёрт" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-390">
+        <mxCell id="u18JFuirMqjdbq_o23pt-391" value="Шуруповёрт" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-390">
           <mxGeometry width="106" height="33" as="geometry">
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -794,7 +794,7 @@
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u18JFuirMqjdbq_o23pt-393" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;" vertex="1" parent="u18JFuirMqjdbq_o23pt-390">
+        <mxCell id="u18JFuirMqjdbq_o23pt-393" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;align=left;strokeWidth=2;strokeColor=inherit;fillColor=none;spacingLeft=3;" vertex="1" parent="u18JFuirMqjdbq_o23pt-390">
           <mxGeometry x="212" width="106" height="33" as="geometry">
             <mxRectangle width="106" height="33" as="alternateBounds" />
           </mxGeometry>

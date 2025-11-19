@@ -1,12 +1,15 @@
 Вопрос: Зачем явно указывать в запросах SQL, что конкретный атрибут является внешним ключом?
 
 Синтаксис установки внешнего ключа на уровне столбца:
+
 ```sql
 my_col <type> [FOREIGN KEY] REFERENCES main_table (main_table_col)
 	[ON DELETE CASCADE | NO ACTION]
 	[ON UPDATE CASCADE | NO ACTION]
 ```
+
 На уровне таблицы:
+
 ```sql
 FOREIGN KEY (col1, col2, ..., colN) REFERENCES main_table
 (main_col1, main_col2, ... main_colN)
@@ -15,6 +18,7 @@ FOREIGN KEY (col1, col2, ..., colN) REFERENCES main_table
 ```
 
 Пример.
+
 ```sql
 CREATE TABLE Customer
 (
@@ -31,6 +35,7 @@ CREATE TABLE Order
 	    REFERENCES Customer (ID)
 );
 ```
+
 С помощью оператора CONSTRAINT можно задать имя для ограничения внешнего ключа. Обычно это имя начинается с префикса "FK_"
 
 ## ON DELETE & ON UPDATE

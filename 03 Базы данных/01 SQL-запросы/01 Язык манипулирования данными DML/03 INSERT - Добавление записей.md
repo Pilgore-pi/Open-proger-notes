@@ -53,6 +53,24 @@ VALUES ('iPhone 6S', 41000, 'Apple')
 INSERT INTO Product DEFAULT VALUES
 ```
 
+## Вставка значений из запроса
+
+Синтаксис корректен для СУБД: MS SQL Server, SQLite, MySQL, Oracle
+
+```sql
+insert into Payments (payment_id, family_member, good, amount, unit_price, date)
+select
+    payment_id + 100,
+    family_member,
+    good,
+    amount*64,
+    unit_price,
+    now()
+from Payments;
+
+select * FROM Payments
+```
+
 Продолжение: [[04 SELECT - Чтение данных]]
 
 #DB #SQL #SQL/DML

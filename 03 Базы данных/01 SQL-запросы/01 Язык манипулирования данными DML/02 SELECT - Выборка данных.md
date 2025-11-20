@@ -1,5 +1,8 @@
 # ИЗМЕНИТЬ СИНТАКСИС НА POSTGRES
 
+Назад: [Язык DML](01%20Язык%20DML.md)
+Далее: [INSERT - Добавление записей](03%20INSERT%20-%20Добавление%20записей.md)
+
 Для получения данных используется команда **`SELECT`**
 
 [Подробная документация по PostgreSQL](https://postgrespro.ru/docs/postgresql/current/sql-select)

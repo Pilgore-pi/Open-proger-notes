@@ -172,8 +172,6 @@ SELECT * FROM Product ORDER BY ID
     FETCH NEXT 3 ROWS ONLY;
 ```
 
-Далее: [INSERT - Добавление записей](03 INSERT - Добавление записей.md)
-
 Далее: [INSERT - Добавление записей](03%20INSERT%20-%20Добавление%20записей.md)
 
 #DB #SQL #SQL/DML

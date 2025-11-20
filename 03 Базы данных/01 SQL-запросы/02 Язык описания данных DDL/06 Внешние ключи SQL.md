@@ -1,11 +1,15 @@
+Назад: [ALTER TABLE - Изменение структуры таблицы](05%20ALTER%20TABLE%20-%20Изменение%20структуры%20таблицы.md)
+
+Далее: [Введение в транзакции](01%20Введение%20в%20транзакции.md)
+
 Вопрос: Зачем явно указывать в запросах SQL, что конкретный атрибут является внешним ключом?
 
 Синтаксис установки внешнего ключа на уровне столбца:
 
 ```sql
 my_col <type> [FOREIGN KEY] REFERENCES main_table (main_table_col)
-	[ON DELETE CASCADE | NO ACTION]
-	[ON UPDATE CASCADE | NO ACTION]
+    [ON DELETE CASCADE | NO ACTION]
+    [ON UPDATE CASCADE | NO ACTION]
 ```
 
 На уровне таблицы:
@@ -32,7 +36,7 @@ CREATE TABLE Order
     CustomerID INT,
     CreatedAt Date,
     CONSTRAINT FK_Order_To_Customer FOREIGN KEY (CustomerID)
-	    REFERENCES Customer (ID)
+        REFERENCES Customer (ID)
 );
 ```
 
@@ -49,6 +53,6 @@ CREATE TABLE Order
 
 По умолчанию нельзя удалить строку главной таблицы, если на нее ссылаются зависимые таблицы, пока мы не удалим связанные строки из зависимой таблицы. Можно убрать это ограничение с помощью действия CASCADE.
 
-Продолжение: [[ALTER TABLE - Изменение структуры таблицы]]
+Далее: [Введение в транзакции](01%20Введение%20в%20транзакции.md)
 
 #DB #SQL #SQL/DDL

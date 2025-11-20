@@ -1,4 +1,8 @@
+# ИЗМЕНИТЬ СИНТАКСИС НА POSTGRES
+
 Для получения данных используется команда **`SELECT`**
+
+[Подробная документация по PostgreSQL](https://postgrespro.ru/docs/postgresql/current/sql-select)
 
 Упрощенный синтаксис:
 
@@ -51,6 +55,14 @@ SELECT DISTINCT col_name FROM table_name
 ```
 
 ## Создание временных таблиц
+
+### PostgreSQL
+
+```sql
+CREATE TEMP[ORARY] TABLE table_name
+```
+
+### MS SQL Server
 
 Выражение `SELECT INTO` позволяет выбрать из одной таблицы некоторые данные в другую таблицу, при этом вторая таблица создается автоматически.
 

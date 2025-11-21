@@ -87,7 +87,7 @@
 
 - Переменная `char` не может хранить суррогатную пару, в отличие от типа `string`. Суррогатную пару можно задавать как пару символов из специального диапазона или с помощью управляющей последовательности `\U000#####`
 
-![https://learn.microsoft.com/ru-ru/dotnet/standard/base-types/media/character-encoding-introduction/bmp-and-surrogate.svg]
+![](https://learn.microsoft.com/ru-ru/dotnet/standard/base-types/media/character-encoding-introduction/bmp-and-surrogate.svg)
 
 Когда за старшей заменяющей кодовой точкой (U+D800..U+DBFF) сразу же следует младшая заменяющая кодовая точка (U+DC00..U+DFFF), пара интерпретируется как дополнительная кодовая точка с помощью следующей формулы:
 

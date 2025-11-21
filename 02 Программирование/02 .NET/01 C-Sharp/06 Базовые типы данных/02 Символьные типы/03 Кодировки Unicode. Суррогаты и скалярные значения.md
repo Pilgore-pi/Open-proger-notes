@@ -1,4 +1,6 @@
 
+# Дополнить конспект https://learn.microsoft.com/ru-ru/dotnet/standard/base-types/character-encoding-introduction#utf-8-and-utf-32
+
 ## Кодировки семейства Unicode
 
 > **Кодовая страница** — это таблица, где каждому символу соответствует свой код.

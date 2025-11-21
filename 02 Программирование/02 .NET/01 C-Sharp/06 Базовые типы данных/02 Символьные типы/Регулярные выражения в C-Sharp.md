@@ -133,10 +133,8 @@
 using System;
 using System.Text.RegularExpressions;
 
-class Program
-{
-    static void Main()
-    {
+class Program {
+    static void Main() {
         // Создание экземпляра Regex
         Regex regex = new Regex(@"\d+", RegexOptions.IgnoreCase);
         
@@ -147,8 +145,8 @@ class Program
         
         // Match - поиск первого совпадения
         Match match = regex.Match(text1);
-        if (match.Success)
-        {
+
+        if (match.Success) {
             Console.WriteLine($"Найдено: {match.Value} на позиции {match.Index}");
             // Найдено: 25 на позиции 4
         }
@@ -157,8 +155,8 @@ class Program
         string text2 = "Телефон: 123-456-7890";
         MatchCollection matches = regex.Matches(text2);
         Console.WriteLine($"Найдено совпадений: {matches.Count}");
-        foreach (Match m in matches)
-        {
+        
+        foreach (Match m in matches) {
             Console.WriteLine($"  {m.Value} на позиции {m.Index}");
         }
         // Найдено совпадений: 3
@@ -184,8 +182,8 @@ class Program
         // Работа с группами
         Regex emailRegex = new Regex(@"(?<user>\w+)@(?<domain>\w+\.\w+)");
         Match emailMatch = emailRegex.Match("contact@example.com");
-        if (emailMatch.Success)
-        {
+        
+        if (emailMatch.Success){
             Console.WriteLine($"Пользователь: {emailMatch.Groups["user"].Value}");
             Console.WriteLine($"Домен: {emailMatch.Groups["domain"].Value}");
             // Пользователь: contact
@@ -212,8 +210,8 @@ class Program
             
             // Эта строка может вызвать катастрофический возврат
             timeoutRegex.IsMatch("aaaaaaaaaaaaaaaaaaaaaaaac");
-			
-        } catch (RegexMatchTimeoutException ex) {
+        }
+        catch (RegexMatchTimeoutException ex) {
             Console.WriteLine($"Превышен таймаут: {ex.Message}");
         }
         

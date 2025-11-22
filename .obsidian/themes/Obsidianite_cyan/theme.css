@@ -563,7 +563,7 @@ h1,h2,h3,h4,h5,h6 {
   border-bottom: 1px solid;
   border-width: 35%;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+  border-image-source: linear-gradient(to right, var(--text-sub-accent), #0e1617, #0e1617, #0e1617);
 }
 
 .view-header-icon {
@@ -616,8 +616,8 @@ strong {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   padding: 0;
-  color: #da7af7;
-  background-color: #c17af7;
+  color: #7ae0f7;
+  background-color: #7ae0f7;
   background-image: linear-gradient(62deg, #87ebfd 0%, #b9fcc0 100%) !important;
 }
 
@@ -644,7 +644,7 @@ strong kbd {
 **--------------------**/
 
 .cm-em, em {
-  color: #bb9af7 !important;
+  color: #aef79a !important;
   font-family: Rubik, var(--default-font) !important;
 }
 
@@ -811,7 +811,7 @@ a:hover,
 /** tags */
 a.tag {
   background-color: var(--tag-background);
-  color: #adf;
+  color: rgb(170, 255, 252);
   white-space: nowrap;
   border-radius: 2;
   padding: var(--tag-padding-y) var(--tag-padding-x);
@@ -1015,7 +1015,7 @@ blockquote {
   border-top: transparent;
   border-bottom: transparent;
   border-right: transparent;
-  background: linear-gradient(135deg, rgba(32, 28, 41, 0.45), #100e17);
+  background: linear-gradient(135deg, rgba(28, 41, 41, 0.45), #0e1617);
 }
 
 .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote::before,
@@ -1026,7 +1026,7 @@ blockquote {
   left: 0px;
   height: 2px;
   width: 60%;
-  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #13111a);
+  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #21322969);
 }
 
 .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote + .HyperMD-quote::before {

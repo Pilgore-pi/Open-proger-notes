@@ -1026,7 +1026,7 @@ blockquote {
   left: 0px;
   height: 2px;
   width: 60%;
-  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #21322969);
+  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #15211b69);
 }
 
 .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote + .HyperMD-quote::before {
@@ -1041,7 +1041,7 @@ blockquote {
   left: 0px;
   height: 2px;
   width: 25%;
-  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #15131c);
+  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #15211b69);
 }
 
 .HyperMD-quote.HyperMD-quote-2::before,
@@ -1183,7 +1183,7 @@ pre::-webkit-scrollbar {
 code[class*='language-'],
 pre[class*='language-'] {
   color: #ccc;
-  background: rgb(40, 41, 54);
+  background: rgb(40, 53, 54);
   text-shadow: none;
   font-family: JetBrains Mono, PT Mono, Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono',
     monospace !important;
@@ -1209,7 +1209,7 @@ pre[class*='language-'] ::-moz-selection,
 code[class*='language-']::-moz-selection,
 code[class*='language-'] ::-moz-selection {
   text-shadow: none;
-  background-color: #5a5f80;
+  background-color: #5a7e80;
 }
 
 pre[class*='language-']::selection,
@@ -1217,7 +1217,7 @@ pre[class*='language-'] ::selection,
 code[class*='language-']::selection,
 code[class*='language-'] ::selection {
   text-shadow: none;
-  background-color: #5a5f80;
+  background-color: #5a807f;
 }
 
 @media print {
@@ -1230,7 +1230,7 @@ code[class*='language-'] ::selection {
 /* Code blocks */
 :not(pre) > code[class*='language-'],
 pre[class*='language-'] {
-  background: rgba(40, 41, 54, 1);
+  background: rgb(40, 54, 44);
 }
 
 /* Inline code */

@@ -135,7 +135,7 @@ a.tag[href*='#进行中'] {
 }
 
 .cm-s-obsidian .CodeMirror-line span.cm-tag-working-draft:not(.cm-formatting-hashtag) {
-  color: #a897ff;
+  color: #97efff;
 }
 
 a.tag[href*='#notes'],
@@ -209,7 +209,7 @@ a.tag[href*='#想法'] {
 
 .status-bar {
   background-color: var(--background-primary-alt);
-  border-color: #101014;
+  border-color: #101414;
   color: var(--text-faint);
   position: absolute;
   margin: auto;
@@ -616,9 +616,9 @@ strong {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   padding: 0;
-  color: #7aa2f7;
-  background-color: #7aa2f7;
-  background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
+  color: #da7af7;
+  background-color: #c17af7;
+  background-image: linear-gradient(62deg, #87ebfd 0%, #b9fcc0 100%) !important;
 }
 
 strong .math.math-inline .MathJax {

@@ -104,6 +104,6 @@ void \u01001() { }          //void Ā1() {}
 
 Далее про тип [System.String](02%20System.String.md)
 
-Далее про локализуемые строки: [CultureInfo](04%20CultureInfo%20-%20Локализуемые%20строки.md)
+Далее про локализуемые строки: [CultureInfo - Локализуемые строки](05%20CultureInfo%20-%20Локализуемые%20строки.md)
 
 #C-Sharp #Text_types

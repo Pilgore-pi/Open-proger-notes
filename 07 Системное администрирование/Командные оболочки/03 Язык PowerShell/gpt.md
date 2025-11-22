@@ -59,3 +59,5 @@ Citations:
 [6] https://learn.microsoft.com/ru-ru/windows/msix/psf/psf-launch-apps-with-parameters
 [7] https://doprogerammer.blogspot.com/2015/09/powershell.html
 [8] https://skillbox.ru/media/code/powershell-dlya-chaynikov-chto-eto-i-kak-s-nim-rabotat/
+
+#MERGE_NOTES

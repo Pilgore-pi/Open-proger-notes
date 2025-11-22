@@ -169,16 +169,6 @@
               "icon": "lucide-file",
               "title": "Новая вкладка"
             }
-          },
-          {
-            "id": "938d5c6a3b92122f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 3

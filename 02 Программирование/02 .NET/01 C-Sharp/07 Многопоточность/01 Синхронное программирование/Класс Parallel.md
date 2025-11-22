@@ -60,6 +60,4 @@ void Square(int n, ParallelLoopState pls) {
 
 > Все описанные функции являются синхронными
 
-Далее: [[Отмена задач, Cancellation token]]
-
 #C-Sharp #C-Sharp/Threads #C-Sharp/Threads/Sync

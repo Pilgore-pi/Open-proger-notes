@@ -57,6 +57,6 @@ buttonStyle.Setters.Add(new EventSetter {
 <Style x:Key="ChildStyle" BasedOn="{StaticResource ParentStyle}">
 ```
 
-Далее: [[+Триггеры]]
+Далее: [[Триггеры]]
 
 #Desktop #Desktop/WPF

@@ -51,8 +51,8 @@
   --text-normal: #eaeaea;
   --text-accent: #2ef1b0;
   --text-sub-accent: #dff456;
-  --text-dim: #45aaff;
-  --text-faint: #7aa2f7;
+  --text-dim: #45e3ff;
+  --text-faint: #7ae6f7;
   --text-title-h1: var(--text-accent);
   --text-title-h2: #cbdbe5;
   --text-title-h3: #cbdbe5;
@@ -61,9 +61,9 @@
   --text-link: #e0e0e0;
   --text-a: #6bcafb;
   --text-a-hover: #6bcafb;
-  --text-mark: #263d92;
+  --text-mark: #268492;
   --code-background: var(--background-secondary);
-  --interactive-accent: rgba(186, 146, 255, 0.5);
+  --interactive-accent: rgba(146, 255, 248, 0.5);
   --interactive-accent-hover: rgba(14, 210, 247, 0.8);
   --interactive-before: #5e6565;
   --blockquote-border: #4afbae;

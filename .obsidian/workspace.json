@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "28f674ae8ffe23b1",
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97ba3bfd8638c5bb",
+  "active": "30e4f1383c4559bd",
   "lastOpenFiles": [
     "02 Программирование/02 .NET/01 C-Sharp/05 Системные типы/Класс Uri.md",
     "02 Программирование/02 .NET/03 Сети в .NET/System.Net/Сетевые адреса в .Net.md",

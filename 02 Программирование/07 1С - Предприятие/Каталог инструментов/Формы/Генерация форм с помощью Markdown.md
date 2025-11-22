@@ -6,12 +6,6 @@
 ----
 
 <p align="center">
-  <a href="https://crimsongoldteam.github.io/md_design">
-    <img alt="docsify" src="./docs/_images/logo-nakidka.png" width=30%>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://openyellow.org/grid?data=top&repo=892746188">
     <img src="https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/6/892746188.json&style=for-the-badge">
   </a>
@@ -45,14 +39,6 @@
 
 [ ] Проклят
 ```
-
-Вот в это:
-
-<div align="center">
-    <img src="./docs/_images/readme-example.png">
-</div>
-
-и обратно!
 
 ## 🎯Кому пригодится?
 

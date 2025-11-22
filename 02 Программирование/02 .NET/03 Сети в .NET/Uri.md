@@ -15,9 +15,9 @@ Uri является либо URL, либо URN, либо и тем и тем.
 Представляет Uri строку
 
 ```csharp
-Uri uri1 = new ("https://metanit.com", UriKind.Absolute);
-Uri uri2 = new ("sharp/net", UriKind.Relative);
-Uri uri3 = new ("https://metanit.com/sharp/net", UriKind.RelativeOrAbsolute);
+Uri uri1 = new("https://metanit.com", UriKind.Absolute);
+Uri uri2 = new("sharp/net", UriKind.Relative);
+Uri uri3 = new("https://metanit.com/sharp/net", UriKind.RelativeOrAbsolute);
 ```
 
 UriKind — перечисление разновидностей Uri (все они представлены в примере)
@@ -46,4 +46,4 @@ UriKind — перечисление разновидностей Uri (все о
 Продолжение: [[DNS]]
 https://metanit.com/sharp/net/1.4.php
 
-#Network #Web #C-Sharp
+#Network #Web #C-Sharp #MERGE_NOTES

@@ -120,7 +120,7 @@
 /* For preview mode */
 a.tag[href*='#todo'],
 a.tag[href*='#待完成'] {
-  background-color: #be2e5e;
+  background-color: #b0be2e;
   color: #fff;
 }
 /* For Editor Mode */

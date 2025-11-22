@@ -2,5 +2,6 @@
   "obsidian-enhancing-export",
   "find-unlinked-files",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "update-relative-links"
 ]

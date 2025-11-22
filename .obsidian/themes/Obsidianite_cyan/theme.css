@@ -505,9 +505,9 @@ h1,h2,h3,h4,h5,h6 {
   border-width: 1px;
   border-image-slice: 1;
   border-image-source: linear-gradient(to right, var(--text-sub-accent),
-                      #100e17,
-                      #100e17,
-                      #100e17);
+                      #0e1517,
+                      #0e1517,
+                      #0e1517);
 }
 
 .HyperMD-header {
@@ -882,7 +882,7 @@ h6 a.tag {
   font-weight: 600;
   text-transform: uppercase;
   font-size: 0.6rem;
-  background: rgba(16, 14, 23, 0.86);
+  background: rgba(14, 23, 22, 0.86);
   border-radius: 8px;
   padding: 0.1em 0.8em;
   margin-top: 0.3rem;
@@ -913,7 +913,7 @@ h6 a.tag {
   margin-top: 1.5em;
   border-top-left-radius: 0.3em;
   border-top-right-radius: 0.3em;
-  background-color: #191621;
+  background-color: #161f21;
 }
 
 .cm-s-obsidian div.HyperMD-codeblock-end-bg {
@@ -939,7 +939,7 @@ pre[class*='language-']:before {
   color: var(--text-accent) !important;
   content: '';
   text-transform: uppercase;
-  background: rgba(16, 14, 23, 0.86);
+  background: rgba(14, 21, 23, 0.86);
   border-radius: 8px;
   padding: 0.1em 0.8em;
   z-index: 10;
